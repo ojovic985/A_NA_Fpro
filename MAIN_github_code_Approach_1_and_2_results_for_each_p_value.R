@@ -271,7 +271,7 @@ Fe<-t(F)
 E<-f[[i]]
 T<-t(E[,2:3])
 Ge<-data.frame(rbind(T,Fe))
-Tef<-read.csv("../Case_1-36_description.csv",header=FALSE)
+Tef<-read.csv("../Case_1-36_ie_F1_1-12_F5_1-12_M1_1-12_description.csv",header=FALSE)
 Te<-cbind(Tef,Ge)
 write.csv(Te,paste0("Final_Res_for_36_cases_with_used_first_t-test_p_value_of_",C_p_value,".csv"))
 
