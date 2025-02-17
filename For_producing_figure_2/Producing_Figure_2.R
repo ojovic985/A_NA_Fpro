@@ -983,53 +983,60 @@ NonA_ord<-NonA_ord[,-c(67:69)]
 M<-rbind(A_ord,NonA_ord)
 M_ord<-M[order(M[,ncol(M)]),]
 
-b<-min(A_ord[,ncol(A_ord)])
 t<-rep(0,16)
-for (i in 1:nrow(A_ord)) {
-if ((b!=A_ord[i,ncol(A_ord)])||(i==nrow(A_ord) ) ) {
-if (i!=nrow(A_ord)) {
-t[b]<-mean(A_ord[1:(i-1),"min_FPro"])
-b<-b+1}
-else {
-t[b]<-mean(A_ord[1:i,"min_FPro"])}}
+sd_t<-rep(0,16)
+EM<-rep(0,16)
+len<-rep(0,16)
+for (i in 1:16) {
+t[i]<-mean(A_ord[min(which(match(A_ord[,ncol(A_ord)],i)==1)):max(which(match(A_ord[,ncol(A_ord)],i)==1)),"min_FPro"]) 
+sd_t[i]<-sd(A_ord[min(which(match(A_ord[,ncol(A_ord)],i)==1)):max(which(match(A_ord[,ncol(A_ord)],i)==1)),"min_FPro"]) 
+len[i]<-length(A_ord[min(which(match(A_ord[,ncol(A_ord)],i)==1)):max(which(match(A_ord[,ncol(A_ord)],i)==1)),"min_FPro"]) 
+EM[i]<-1.96*sd_t[i]/sqrt(len[i])
 }
 
 A_t<-t
+A_EM<-EM
 
-b<-min(NonA_ord[,ncol(NonA_ord)])
 t<-rep(0,16)
-for (i in 1:nrow(NonA_ord)) {
-if ((b!=NonA_ord[i,ncol(NonA_ord)])||(i==nrow(NonA_ord) ) ) {
-if (i!=nrow(NonA_ord)) {
-t[b]<-mean(NonA_ord[1:(i-1),"min_FPro"])
-b<-b+1}
-else {
-t[b]<-mean(NonA_ord[1:i,"min_FPro"])}}
+sd_t<-rep(0,16)
+EM<-rep(0,16)
+len<-rep(0,16)
+for (i in 1:16) {
+t[i]<-mean(NonA_ord[min(which(match(NonA_ord[,ncol(NonA_ord)],i)==1)):max(which(match(NonA_ord[,ncol(NonA_ord)],i)==1)),"min_FPro"]) 
+sd_t[i]<-sd(NonA_ord[min(which(match(NonA_ord[,ncol(NonA_ord)],i)==1)):max(which(match(NonA_ord[,ncol(NonA_ord)],i)==1)),"min_FPro"]) 
+len[i]<-length(NonA_ord[min(which(match(NonA_ord[,ncol(NonA_ord)],i)==1)):max(which(match(NonA_ord[,ncol(NonA_ord)],i)==1)),"min_FPro"]) 
+EM[i]<-1.96*sd_t[i]/sqrt(len[i])
 }
 
+
 NA_t<-t
+NA_EM<-EM
 
-
-b<-min(M_ord[,ncol(M_ord)])
 t<-rep(0,16)
-for (i in 1:nrow(M_ord)) {
-if ((b!=M_ord[i,ncol(M_ord)])||(i==nrow(M_ord) ) ) {
-if (i!=nrow(M_ord)) {
-t[b]<-mean(M_ord[1:(i-1),"min_FPro"])
-b<-b+1}
-else {
-t[b]<-mean(M_ord[1:i,"min_FPro"])}}
+sd_t<-rep(0,16)
+EM<-rep(0,16)
+len<-rep(0,16)
+for (i in 1:16) {
+t[i]<-mean(M_ord[min(which(match(M_ord[,ncol(M_ord)],i)==1)):max(which(match(M_ord[,ncol(M_ord)],i)==1)),"min_FPro"]) 
+sd_t[i]<-sd(M_ord[min(which(match(M_ord[,ncol(M_ord)],i)==1)):max(which(match(M_ord[,ncol(M_ord)],i)==1)),"min_FPro"]) 
+len[i]<-length(M_ord[min(which(match(M_ord[,ncol(M_ord)],i)==1)):max(which(match(M_ord[,ncol(M_ord)],i)==1)),"min_FPro"]) 
+EM[i]<-1.96*sd_t[i]/sqrt(len[i])
 }
 
 M_t<-t
+M_EM<-EM
 
 Mat<-read.csv("Food_classes_A_perc.csv",header=TRUE)
-Mat2<-cbind(Mat,t(t(A_t)),t(t(NA_t)),t(t(M_t)))
+Mat2<-cbind(Mat,t(t(A_t)),t(t(NA_t)),t(t(M_t)),t(t(A_EM)),t(t(NA_EM)),t(t(M_EM)))
 colnames(Mat2)[9]<-"m(Fpro_A)"
 colnames(Mat2)[10]<-"m(Fpro_NA)"
 colnames(Mat2)[11]<-"m(Fpro)"
-Mat3<-Mat2[order(Mat2[,ncol(Mat2)]),]
+colnames(Mat2)[12]<-"EM(Fpro_A)"
+colnames(Mat2)[13]<-"EM(Fpro_NA)"
+colnames(Mat2)[14]<-"EM(Fpro)"
+Mat3<-Mat2[order(Mat2[,ncol(Mat2)-3]),]
 write.csv(Mat3,"Food_classes_A_perc_sorted_by_Fpro.csv")
+
 
 
 A<-read.csv("Food_classes_A_perc_sorted_by_Fpro.csv")
@@ -1038,15 +1045,15 @@ A<-A[,-1]
 
 dev.new(width=15.86, height=10.2, unit="in")
 frame()
-plot.window(xlim=c(-0.5,2.5), ylim=c(-12.5,1.5))
+plot.window(xlim=c(-0.5,2.6), ylim=c(-12.5,1.5))
 #text(0.7,1.5,"Consumption of food categories by anemic and non-anemic participants",cex=1.4)
 
-segments(x0=0.1,y0=1.2,x1=0.1,y1=-10.86,lwd=1)
-segments(x0=0.1,y0=-10.72,x1=2.5,y1=-10.72)
+segments(x0=0.1,y0=1.2,x1=0.1,y1=-10.8,lwd=1)
+segments(x0=0.1,y0=-10.72,x1=1.5,y1=-10.72)
 
 for (i in 0:10) {
-segments(x0=0.1+i*0.24,y0=1.2,x1=0.1+i*0.24,y1=-10.8)
-text(0.1+i*0.24,-11,paste(i*10,"%"))
+segments(x0=0.1+i*0.14,y0=1.2,x1=0.1+i*0.14,y1=-10.8)
+text(0.1+i*0.14,-11,paste(i*10,"%"))
 }
 
 
@@ -1056,44 +1063,77 @@ text(-0.03,1.6,"Food Category",cex=1.2,pos=2)
 text(-0.03,0.9,"Overall",cex=1.2,pos=2)
 text(0.1,1.6,"N",cex=1.2,pos=2)
 text(0.1,0.9,paste(sum(A[,3])+sum(A[,4])),cex=1.2,pos=2)
-text(0.1+2.4*0.2,1.6,"f(A)",cex=1.2)
-text(0.1+2.4*0.9,1.6,"f(NA)",cex=1.2)
+text(0.1+1.4*0.2,1.6,"f(A)",cex=1.2)
+text(0.1+1.4*0.8,1.6,"f(NA)",cex=1.2)
+text(1.6+0.4,1.6,"Fpro",cex=1.2)
 
 
-rectFill(x1=0.1, y1=0.9-0.2, x2=0.1+sum(A[,4])/(sum(A[,3])+sum(A[,4]))*2.4, y2=0.9+0.2, fg="pink", bg = "pink",pch=0,pch.col="pink")
-rectFill(x1=0.1+sum(A[,4])/(sum(A[,3])+sum(A[,4]))*2.4, y1=0.9-0.2, x2=2.5, y2=0.9+0.2, fg="cyan", bg = "cyan",pch=0,pch.col="cyan")
-text(0.1+0.2*2.4,0.9,paste(round(100*sum(A[,4])/(sum(A[,3])+sum(A[,4])),1) ) )
-text(0.1+0.9*2.4,0.9,paste(round(100*sum(A[,3])/(sum(A[,3])+sum(A[,4])),1) ) )
-segments(x0=0.1+0.7475079*2.4,y0=0.9-0.2,x1=0.1+0.7475079*2.4,y1=0.9+0.2,col="red",lwd=4)
-segments(x0=0.1+0.6682661*2.4,y0=0.9-0.2,x1=0.1+0.6682661*2.4,y1=0.9+0.2,col="darkgreen",lwd=4)
+rectFill(x1=0.1, y1=0.9-0.2, x2=0.1+sum(A[,4])/(sum(A[,3])+sum(A[,4]))*1.4, y2=0.9+0.2, fg="pink", bg = "pink",pch=0,pch.col="pink")
+rectFill(x1=0.1+sum(A[,4])/(sum(A[,3])+sum(A[,4]))*1.4, y1=0.9-0.2, x2=1.5, y2=0.9+0.2, fg="cyan", bg = "cyan",pch=0,pch.col="cyan")
+text(0.1+0.2*1.4,0.9,paste(round(100*sum(A[,4])/(sum(A[,3])+sum(A[,4])),1) ) )
+text(0.1+0.8*1.4,0.9,paste(round(100*sum(A[,3])/(sum(A[,3])+sum(A[,4])),1) ) )
+
 
 
 for (i in 1:nrow(A)) {
 text(-0.03,0.9-0.7*i,paste(A[i,1]),cex=1.2,pos=2)
 text(0.1,0.9-0.7*i,paste(A[i,3]+A[i,4]),cex=1.2,pos=2)
-rectFill(x1=0.1, y1=0.9-0.2-0.7*i, x2=0.1+(A[i,4]/(A[i,3]+A[i,4]))*2.4, y2=0.9+0.2-0.7*i, fg="pink", bg = "pink",pch=0,pch.col="pink")
-rectFill(x1=0.1+(A[i,4]/(A[i,3]+A[i,4]))*2.4, y1=0.9-0.2-0.7*i, x2=2.5, y2=0.9+0.2-0.7*i, fg="cyan", bg = "cyan",pch=0,pch.col="cyan")
-text(0.1+0.2*2.4,0.9-0.7*i,paste(round(100*A[i,4]/(A[i,3]+A[i,4]),1) ) )
-text(0.1+0.9*2.4,0.9-0.7*i,paste(round(100*A[i,3]/(A[i,3]+A[i,4]),1) ) )
-segments(x0=0.1+A[i,8]*2.4,y0=0.9-0.2-0.7*i,x1=0.1+A[i,8]*2.4,y1=0.9+0.2-0.7*i,col="red",lwd=4)
-segments(x0=0.1+A[i,9]*2.4,y0=0.9-0.2-0.7*i,x1=0.1+A[i,9]*2.4,y1=0.9+0.2-0.7*i,col="darkgreen",lwd=4)
+rectFill(x1=0.1, y1=0.9-0.2-0.7*i, x2=0.1+(A[i,4]/(A[i,3]+A[i,4]))*1.4, y2=0.9+0.2-0.7*i, fg="pink", bg = "pink",pch=0,pch.col="pink")
+rectFill(x1=0.1+(A[i,4]/(A[i,3]+A[i,4]))*1.4, y1=0.9-0.2-0.7*i, x2=1.5, y2=0.9+0.2-0.7*i, fg="cyan", bg = "cyan",pch=0,pch.col="cyan")
+text(0.1+0.2*1.4,0.9-0.7*i,paste(round(100*A[i,4]/(A[i,3]+A[i,4]),1) ) )
+text(0.1+0.8*1.4,0.9-0.7*i,paste(round(100*A[i,3]/(A[i,3]+A[i,4]),1) ) )
 }
 
-rectFill(x1=1.25-0.3, y1=-11.7, x2=1.302-0.3, y2=-11.3, fg="pink", bg = "pink",pch=0,pch.col="pink")
-rectFill(x1=1.2, y1=-11.7, x2=1.252, y2=-11.3, fg="cyan", bg = "cyan",pch=0,pch.col="cyan")
-text(1.375-0.3,-11.53,"A",cex=1.2,pos=2)
-text(1.654-0.3,-11.53,"NA",cex=1.2,pos=2)
-segments(x0=0.1+0.7*2.4,y0=-11.7,x1=0.1+0.7*2.4,y1=-11.3,col="darkgreen",lwd=4)
-segments(x0=0.1+0.35*2.4+0.53,y0=-11.7,x1=0.1+0.35*2.4+0.53,y1=-11.3,col="red",lwd=4)
-text(0.1+0.35*2.4+0.53,-11.53,"m(Fpro(A))",cex=1.2,pos=4)
-text(0.1+0.7*2.4,-11.53,"m(Fpro(NA)) in %",cex=1.2,pos=4)
 
-segments(x0=0.16,y0=1.1-0.7*i,x1=0.16,y1=0.5,lty="dashed",col="purple")
-segments(x0=0.11,y0=0.5,x1=0.21,y1=0.5,lty="dashed",col="purple")
-segments(x0=0.14,y0=1.1-0.7*i+0.3,x1=0.16,y1=1.1-0.7*i,lty="dashed",col="purple")
-segments(x0=0.18,y0=1.1-0.7*i+0.3,x1=0.16,y1=1.1-0.7*i,lty="dashed",col="purple")
-text(0.15,0.18,"Lowest m(Fpro)",cex=1.1,pos=4,col="purple")
-text(0.12,0.9-0.03-0.7*i,"Highest m(Fpro)",cex=1.1,pos=4,col="purple")
+rectFill(x1=0.95-0.3, y1=-11.7, x2=1.002-0.3, y2=-11.3, fg="pink", bg = "pink",pch=0,pch.col="pink")
+rectFill(x1=0.9, y1=-11.7, x2=0.952, y2=-11.3, fg="cyan", bg = "cyan",pch=0,pch.col="cyan")
+text(1.075-0.3,-11.53,"A",cex=1.2,pos=2)
+text(1.354-0.3,-11.53,"NA",cex=1.2,pos=2)
+
+segments(x0=1.6,y0=1.2,x1=1.6,y1=-10.8,lwd=1)
+segments(x0=1.6,y0=-10.72,x1=2.6,y1=-10.72)
+for (i in 0:10) {
+segments(x0=1.6+i*0.1,y0=1.2,x1=1.6+i*0.1,y1=-10.8)
+text(1.6+i*0.1,-11,paste(i/10))
+}
+
+rectFill(x1=1.6, y1=0.9, x2=1.6+0.7475079, y2=0.9+0.2, fg="red", bg = "red",pch=0,pch.col="red")
+segments(x0=1.6+(0.7475079-0.01383459),y0=0.9+0.1,x1=1.6+(0.7475079+0.01383459),y1=0.9+0.1,col="black")
+segments(x0=1.6+(0.7475079-0.01383459),y0=0.9,x1=1.6+(0.7475079-0.01383459),y1=0.9+0.2,col="black")
+segments(x0=1.6+(0.7475079+0.01383459),y0=0.9,x1=1.6+(0.7475079+0.01383459),y1=0.9+0.2,col="black")
+rectFill(x1=1.6, y1=0.9-0.2, x2=1.6+0.6682661, y2=0.9, fg="darkgreen", bg = "darkgreen",pch=0,pch.col="darkgreen")
+segments(x0=1.6+(0.6682661-0.01660669),y0=0.9-0.1,x1=1.6+(0.6682661+0.01660669),y1=0.9-0.1,col="black")
+segments(x0=1.6+(0.6682661-0.01660669),y0=0.9,x1=1.6+(0.6682661-0.01660669),y1=0.9-0.2,col="black")
+segments(x0=1.6+(0.6682661+0.01660669),y0=0.9,x1=1.6+(0.6682661+0.01660669),y1=0.9-0.2,col="black")
+
+
+for (i in 1:nrow(A)) {
+rectFill(x1=1.6, y1=0.9-0.7*i, x2=1.6+A[i,8], y2=0.9-0.7*i+0.2, fg="red", bg = "red",pch=0,pch.col="red")
+segments(x0=1.6+(A[i,8]-A[i,11]),y0=0.9+0.1-0.7*i,x1=1.6+(A[i,8]+A[i,11]),y1=0.9+0.1-0.7*i,col="black")
+segments(x0=1.6+(A[i,8]-A[i,11]),y0=0.9-0.7*i,x1=1.6+(A[i,8]-A[i,11]),y1=0.9+0.2-0.7*i,col="black")
+segments(x0=1.6+(A[i,8]+A[i,11]),y0=0.9-0.7*i,x1=1.6+(A[i,8]+A[i,11]),y1=0.9+0.2-0.7*i,col="black")
+rectFill(x1=1.6, y1=0.9-0.2-0.7*i, x2=1.6+A[i,9], y2=0.9-0.7*i, fg="darkgreen", bg = "darkgreen",pch=0,pch.col="darkgreen")
+segments(x0=1.6+(A[i,9]-A[i,12]),y0=0.9-0.1-0.7*i,x1=1.6+(A[i,9]+A[i,12]),y1=0.9-0.1-0.7*i,col="black")
+segments(x0=1.6+(A[i,9]-A[i,12]),y0=0.9-0.7*i,x1=1.6+(A[i,9]-A[i,12]),y1=0.9-0.2-0.7*i,col="black")
+segments(x0=1.6+(A[i,9]+A[i,12]),y0=0.9-0.7*i,x1=1.6+(A[i,9]+A[i,12]),y1=0.9-0.2-0.7*i,col="black")}
+
+rectFill(x1=2.13, y1=-11.7, x2=2.182, y2=-11.3, fg="red", bg = "red",pch=0,pch.col="red")
+rectFill(x1=1.9, y1=-11.7, x2=1.952, y2=-11.3, fg="darkgreen", bg = "darkgreen",pch=0,pch.col="darkgreen")
+text(2.054,-11.53,"NA",cex=1.2,pos=2)
+text(2.248,-11.53,"A",cex=1.2,pos=2)
+
+
+
+segments(x0=1.57,y0=-11.37,x1=1.57,y1=0.5,lty="dashed",col="purple")
+segments(x0=1.52,y0=0.5,x1=1.62,y1=0.5,lty="dashed",col="purple")
+segments(x0=1.56,y0=-11.37+0.2,x1=1.57,y1=-11.37,lty="dashed",col="purple")
+segments(x0=1.58,y0=-11.37+0.2,x1=1.57,y1=-11.37,lty="dashed",col="purple")
+text(1.37,-11.58,"Increasing m(Fpro)",cex=1.1,pos=4,col="purple")
+segments(x0=2.34,y0=-11.5,x1=2.4,y1=-11.5)
+segments(x0=2.34,y0=-11.35,x1=2.34,y1=-11.65)
+segments(x0=2.4,y0=-11.35,x1=2.4,y1=-11.65)
+text(2.4,-11.53,"95% CI",cex=1.1,pos=4,col="black")
+
 
 
 
