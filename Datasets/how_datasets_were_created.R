@@ -3146,84 +3146,7 @@ dim(B)
 Fe<-cbind(A,B,C)
 Fe<-Fe[,-4]
 Fe[1,]
-#   seqn riagendr ridageyr    x
 
-#Children 6 - 59 months of age110 or higher
-#Children 5 - 11 years of age115 or higher
-#Children 12 - 14 years of age120 or higher
-
-anemia2<-c()
-J<-c()
-for (i in 1:dim(Fe)[1]) {
-if ((Fe[i,"ridageyr"]>4)&&(Fe[i,"ridageyr"]<12)) {
-J<-cbind(J,i)
-if (Fe[i,4]<11.5) {
-anemia2<-cbind(anemia2,1)}
-else {
-anemia2<-cbind(anemia2,0)}}}
-
-length(anemia2)
-#[1] 6249
-sum(anemia2)
-#[1] 208
-
-Xnumfum2<-cbind(A[J,],t(anemia2),t(t(C[J])))
-
-write.csv(Xnumfum2,"Children_aged_5-11.csv")
-
-Ce<-Xnumfum2
-
-for (i in dim(Xnumfum2)[1]:1) {
-if (Ce[i,5]==0) {
-Ce<-Ce[-i,]}}
-
-Ce<-Ce[,-5]
-write.csv(Ce,"Children_aged_5-11_mcq053_2.csv")
-
-A<-Xnumfum[,1:3]
-B<-read.csv("FEST_Merged_FullSer_C-P_minBPX.csv")
-C<-Xnumfum[,"mcq053_2"]
-dim(B)
-#[1] 54892     2
-Fe<-cbind(A,B,C)
-Fe<-Fe[,-4]
-anemia2<-c()
-J<-c()
-for (i in 1:dim(Fe)[1]) {
-if ((Fe[i,"ridageyr"]>11)&&(Fe[i,"ridageyr"]<15)) {
-J<-cbind(J,i)
-if (Fe[i,4]<12) {
-anemia2<-cbind(anemia2,1)}
-else {
-anemia2<-cbind(anemia2,0)}}}
-
-Xnumfum2<-cbind(A[J,],t(anemia2),t(t(C[J])))
-
-dim(Xnumfum2)
-#[1] 3210    4
-sum(Xnumfum2[,4])
-#[1] 160
-Xnumfum2[1,]
-#   seqn riagendr ridageyr t(anemia2)
-#3 21007        2       14          0
-write.csv(Xnumfum2,"Children_aged_12-14.csv")
-
-Ce<-Xnumfum2
-
-for (i in dim(Xnumfum2)[1]:1) {
-if (Ce[i,5]==0) {
-Ce<-Ce[-i,]}}
-
-Ce<-Ce[,-5]
-write.csv(Ce,"Children_aged_12-14_mcq053_2.csv")
-
-A<-Xnumfum[,1:3]
-B<-read.csv("FEST_Merged_FullSer_C-P_minBPX.csv")
-C<-Xnumfum[,"mcq053_2"]
-dim(B)
-#[1] 54892     2
-Fe<-cbind(A,B,C)
-Fe<-Fe[,-4]
 anemia2<-c()
 J<-c()
 for (i in 1:dim(Fe)[1]) {
@@ -3246,63 +3169,6 @@ Ce<-Ce[,-5]
 write.csv(Ce,"Female_aged_50_and_above_mcq053_2.csv")
 
 write.csv(Xnumfum2,"Female_aged_50_and_above.csv")
-
-A<-Xnumfum[,1:3]
-B<-read.csv("FEST_Merged_FullSer_C-P_minBPX.csv")
-C<-Xnumfum[,"mcq053_2"]
-
-Fe<-cbind(A,B,C)
-Fe<-Fe[,-4]
-anemia2<-c()
-J<-c()
-for (i in 1:dim(Fe)[1]) {
-if ((Fe[i,"ridageyr"]>65)&&(Fe[i,"riagendr"]==1)) {
-J<-cbind(J,i)
-if (Fe[i,4]<13) {
-anemia2<-cbind(anemia2,1)}
-else {
-anemia2<-cbind(anemia2,0)}}}
-
-Xnumfum2<-cbind(A[J,],t(anemia2),t(t(C[J])))
-Ce<-Xnumfum2
-
-for (i in dim(Xnumfum2)[1]:1) {
-if (Ce[i,5]==0) {
-Ce<-Ce[-i,]}}
-
-Ce<-Ce[,-5]
-write.csv(Ce,"Males_aged_66_and_above_mcq053_2.csv")
-
-write.csv(Xnumfum2,"Males_aged_66_and_above.csv")
-
-
-A<-Xnumfum[,1:3]
-B<-read.csv("FEST_Merged_FullSer_C-P_minBPX.csv")
-C<-Xnumfum[,"mcq053_2"]
-
-Fe<-cbind(A,B,C)
-Fe<-Fe[,-4]
-anemia2<-c()
-J<-c()
-for (i in 1:dim(Fe)[1]) {
-if ((Fe[i,"ridageyr"]>14)&&(Fe[i,"ridageyr"]<66)&&(Fe[i,"riagendr"]==1)) {
-J<-cbind(J,i)
-if (Fe[i,4]<13) {
-anemia2<-cbind(anemia2,1)}
-else {
-anemia2<-cbind(anemia2,0)}}}
-
-Xnumfum2<-cbind(A[J,],t(anemia2),t(t(C[J])))
-Ce<-Xnumfum2
-
-for (i in dim(Xnumfum2)[1]:1) {
-if (Ce[i,5]==0) {
-Ce<-Ce[-i,]}}
-
-Ce<-Ce[,-5]
-write.csv(Ce,"Males_aged_15-65_mcq053_2.csv")
-
-write.csv(Xnumfum2,"Males_aged_15-65.csv")
 
 
 A<-Xnumfum[,1:3]
