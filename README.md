@@ -27,6 +27,6 @@ Codes calculation of Fpro.R is followed by ML_prod.py. these two codes depict ho
 
 The final results are provided in Supplementary_Table_Results_Main.xlsx (That Supplementary table with 8 sheets can be obtained by running Producing_Supplementary_Table_Results_Main_but_After_Main_Github_code_was_run.R - after MAIN_github_code_Approach_1_2_and_3_results_for_each_p_value_3.R was already run.). Results obtained when the Main code is run for each of p-values (i.e. 0.025, 0.05, 0.1, 0.2, 0.3, 0.5, 0.7, 0.8) are all summarized in that file Supplementary_Table_Results_Main.xlsx. 
 
-For reproducing Figure 1, please run the code Producing_Figure_1.R. For reproducing Figure 2. Please run code Producing_Figure_2.R in subdirectory "For_producing_figure_2".
+For reproducing Figure 1, please run the code Producing_Figure_1.R. For reproducing Figure 2. Please run Code_to_reproduce_Figure_2_but_BEFORE_that_must_be_run_MAIN_github_codeCode_to_reproduce_Figure_2_but_BEFORE_that_must_be_run_MAIN_github_code.R.
 
 
