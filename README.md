@@ -4,7 +4,7 @@ This gihub repository reproduces the results of the study:
 
 The main reproduction code is labeled as: "MAIN_github_code_Approach_1_2_and_3_results_for_each_p_value_3.R" - this reproduces 1) Cohen's d statistic, 2) Standardized differences in means at 95% confidence, and 3) logit(p) for 63 variables (62 nutrients and FPro) as statistical differences between Non-A and Food subsets plus size of Non-A and A Food subsets (2 next values), a vector of total 191 values for each outcome defined by 24 study groups and 8 thresholds. I.e. total matrix of 192x191, but split into 8 excel sheets (denoting 8 thresholds of t-test).
 
-The next most important is Confounding variable analysis for which a separate folder "Confounding analysis is dedicated". Please refer to the short readme.txt file in Confounding_analysis folder, because it would be too long to explain everything about that here.
+The next most important is Confounding variable analysis for which a separate folder "Confounding analysis is dedicated". Please refer to the short readme_for_confounding_analysis.txt file in Confounding_analysis folder, because it would be too long to explain everything about that here. Here we explain the rest of the Github content.
 
 Other codes explain how the data was prepared starting from NHANES and FNDDS databases. However without original data, as there was no reason to put original NHANES data on github since DRIFF datasets contain far more than 25 MB (pre-pandemic DR1IFF contains more than 100 MB), and they can easily be downloaded from NHANES (e.g.years 2007-08: https://wwwn.cdc.gov/Nchs/Nhanes/search/datapage.aspx?Component=Dietary&CycleBeginYear=2007 download XPT file and turned it into CSV via:
 
