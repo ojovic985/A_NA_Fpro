@@ -14,7 +14,7 @@ Confounding variable analysis must be run in the following order:
 
 Confounder_var_set.csv was obtained in A_NA_Fpro/Datasets using the program Obtaining_confounder_var_set.R after the program how_datasets_were_created.R had already been run.
 
-Files in this directory, such as "C1C2_all_values_part_6_of_8_F5_07.csv" had to be parts of the whole file "C1C2_all_values_F5_07.csv" due to 25 MB restriction. When they are all merged to the whole file, following simple several code lines in Obtaining_gram-weighted_average_of_FPro_for_Participants_Av_FPro.R - they contain information of all Food codes for all participants, not only information restricted to at least 30 non-zero values as in the main Github directory.
+Using the code Code_to_create_C1C2_files_from_Driff_datasets_and_food_sets.R in main directory (i.e. "A_NA_Fpro/" ) lead to obtain C1C2 files. Files in this directory, such as "C1C2_all_values_part_6_of_8_F5_07.csv" had to be parts of the whole file "C1C2_all_values_F5_07.csv" due to 25 MB restriction. When they are all merged to the whole file, following simple several code lines in Obtaining_gram-weighted_average_of_FPro_for_Participants_Av_FPro.R merges them into teh complete file. Such complete file contains information of all Food codes for all participants, not only information restricted to at least 30 non-zero values as files in the main Github directory.
 
 
 
