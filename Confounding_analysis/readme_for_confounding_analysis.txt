@@ -12,7 +12,7 @@ Confounding variable analysis must be run in the following order:
 5) FINAL_code_for_General_Confounding_variable_analysis_Part_4_and_its_results.R - Both code and its results (with #) are in the file confirming statistical significance of FPro when adjusted to socio-economic variables. 
 
 
-
+Confounder_var_set.csv is obtained in A_NA_Fpro/Datasets using the program Obtaining_confounder_var_set.R after the program 
 
 
 
