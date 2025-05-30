@@ -12,7 +12,9 @@ Confounding variable analysis must be run in the following order:
 5) FINAL_code_for_General_Confounding_variable_analysis_Part_4_and_its_results.R - Both code and its results (with #) are in the file confirming statistical significance of FPro when adjusted to socio-economic variables. 
 
 
-Confounder_var_set.csv is obtained in A_NA_Fpro/Datasets using the program Obtaining_confounder_var_set.R after the program 
+Confounder_var_set.csv was obtained in A_NA_Fpro/Datasets using the program Obtaining_confounder_var_set.R after the program how_datasets_were_created.R had already been run.
+
+Files in this directory, such as "C1C2_all_values_part_6_of_8_F5_07.csv" had to be parts of the whole file "C1C2_all_values_F5_07.csv" due to 25 MB restriction. When they are all merged to the whole file, following simple several code lines in Obtaining_gram-weighted_average_of_FPro_for_Participants_Av_FPro.R - they contain information of all Food codes for all participants, not only information restricted to at least 30 non-zero values as in the main Github directory.
 
 
 
