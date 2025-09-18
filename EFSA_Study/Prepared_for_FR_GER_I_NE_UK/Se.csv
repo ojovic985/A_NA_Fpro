@@ -1,0 +1,1705 @@
+Food class level 1,Food (FoodEx2 description),Finland,France,Germany,Italy,Netherlands,Sweden,United Kingdom
+"Additives,flavours, baking and processing aids",Aspartame,0,0,0,,0,0,0
+"Additives,flavours, baking and processing aids",Baking yeast,1,10,1,10,1,1,1
+"Additives,flavours, baking and processing aids",Modified starch,0,0,0,0,0,0,0
+"Additives,flavours, baking and processing aids",Preparations for raising and flavouring home-made bakery,0,0,0,0,0,0,0
+"Additives,flavours, baking and processing aids",Saccharine,0,0,0,,0,0,0
+"Additives,flavours, baking and processing aids",Vanilla essence,0,0,0,0,0,0,0
+Alcoholic beverages,Alcopop and flavoured wine,,0,0,0,0,,0
+Alcoholic beverages,"Beer, alcohol-free",0.1,1.1,,,,,
+Alcoholic beverages,"Beer, light",0.1,0.2,,,,,
+Alcoholic beverages,"Beer, regular",0.1,0.9,0.11,0.9,,,
+Alcoholic beverages,"Beer, strong",0.1,0.1,0.11,,,,
+Alcoholic beverages,Brandy,0,0,0,0,0,0,0
+Alcoholic beverages,Champagne-like wine,,2.2,0.03,2.2,0.03,,0.03
+Alcoholic beverages,Cider,0,0,0,,0,0,0
+Alcoholic beverages,Cocktail drink,0.1,0.184,0.184,0.184,0.184,,0.184
+Alcoholic beverages,Cream liqueur,0,0,0,,0,0,0
+Alcoholic beverages,Egg liqueur,6,6,6,6,6,6,6
+Alcoholic beverages,Fruit liqueur,0,0,0,0,0,0,0
+Alcoholic beverages,Gin,0,0,0,0,0,0,
+Alcoholic beverages,Herb liqueur,0,0,0,0,0,0,0
+Alcoholic beverages,Lager beer,0.12,0.9,0.12,0.9,0.12,0.12,0.12
+Alcoholic beverages,Madeira,0.1,0.1,0.1,0.1,,0.1,
+Alcoholic beverages,Noble rot wine,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Alcoholic beverages,Port,0.1,0.03,0.03,,,0.1,
+Alcoholic beverages,Raisin wine,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Alcoholic beverages,Rum,0,0,0,0,0,0,0
+Alcoholic beverages,Shandy,,1.2,,1.2,,,
+Alcoholic beverages,Sherry,0.1,0.03,,,,,
+Alcoholic beverages,Tequila and similar spirits,0,0,0,0,0,0,0
+Alcoholic beverages,Vermouth,0.1,,0.075,,,0.1,
+Alcoholic beverages,Vodka and vodka-like spirits,0,0,0,0,0,0,0
+Alcoholic beverages,Whisky,0,0,0,0,0,0,
+Alcoholic beverages,"Wine, red",0.1,0.1,0.075,0.1,,0.1,
+Alcoholic beverages,"Wine, rosé",,0.1,0.2,,,,
+Alcoholic beverages,"Wine, white",0.1,0.1,0.1,0.1,,0.1,
+Animal and vegetable fats and oils,Beef tallow (including processed suet),0,0,0,0,0,0,0
+Animal and vegetable fats and oils,Blended fat and oils,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Animal and vegetable fats and oils,"Blended fat and oils, QUAL Half fat or medium fat",0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Animal and vegetable fats and oils,"Blended fat and oils, QUAL Low fat (naturally or reduced)",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Animal and vegetable fats and oils,Blended frying oil/fats,,3,3,,3,,3
+Animal and vegetable fats and oils,Blended margarine,,2.2,0.376,,0.376,,0.376
+Animal and vegetable fats and oils,"Blended margarine, QUAL Half fat or medium fat",0,,0,,,0,
+Animal and vegetable fats and oils,Butter,0.5,2.07,0.174,2.07,1,0.5,1
+Animal and vegetable fats and oils,"Butter and margarine/oil blends, QUAL Low fat (naturally or reduced)",1,1,1,1,1,1,1
+Animal and vegetable fats and oils,Butter oil,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Animal and vegetable fats and oils,"Butter, QUAL Half fat or medium fat",,,0.5,,0.5,,0.5
+Animal and vegetable fats and oils,"Butter, QUAL Low fat (naturally or reduced)",0.5,,1,,1,1,1
+Animal and vegetable fats and oils,Cocoa butter,0,0,0,0,0,0,0
+Animal and vegetable fats and oils,Coconut oil/fat,0,,0,,0,0,0
+Animal and vegetable fats and oils,Cod liver oil,0.005,,0.005,,0.005,0.005,0.005
+Animal and vegetable fats and oils,"Cotton seed oil, edible",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Functional vegetable margarines/fats, QUAL Half fat or medium fat",0.1,,,,,0.1,
+Animal and vegetable fats and oils,Grape seed oil,0,,0,,0,0,0
+Animal and vegetable fats and oils,Linseed oil,,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Maize oil, edible",0,,0,,0,0,
+Animal and vegetable fats and oils,"Olive oil, refined",0,0,0,,0,0,0
+Animal and vegetable fats and oils,"Olive oil, virgin or extra-virgin",,2.2,,,,,
+Animal and vegetable fats and oils,"Palm kernel oil, edible",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,Palm oil/fat,0,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Peanut oil, edible",,9.1,,,,,
+Animal and vegetable fats and oils,Pork lard,7,,,,,7,
+Animal and vegetable fats and oils,Processed fat (blubber) of marine mammals,0.005,0.005,0.005,0.005,0.005,0.005,0.005
+Animal and vegetable fats and oils,"Rape seed oil, edible",0,,0,,0,0,0
+Animal and vegetable fats and oils,"Safflower seed oil, edible",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Sesame seed oil, edible",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,Shortening and similar baking fats,,2.2,,2.2,,,
+Animal and vegetable fats and oils,"Shortening and similar baking fats, QUAL Half fat or medium fat",0,,0,,0,0,0
+Animal and vegetable fats and oils,"Shortening and similar baking fats, QUAL Low sodium / reduced salt",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Soya bean oil, refined",,,,,1,,1
+Animal and vegetable fats and oils,Spreadable vegetable fat-deprecated,,,0,,0,,0
+Animal and vegetable fats and oils,"Spreadable vegetable fat-deprecated, QUAL Half fat or medium fat",0.1,0,0,0,0,0.1,0
+Animal and vegetable fats and oils,"Spreadable vegetable fat-deprecated, QUAL Low fat (naturally or reduced)",0.1,0,0,0,0,0.1,0
+Animal and vegetable fats and oils,"Spreadable vegetable fat-deprecated, QUAL Low sodium / reduced salt",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Sunflower seed oil, edible",,10.6,2,,2,,2
+Animal and vegetable fats and oils,Traditional margarine,,2.2,,2.2,,,
+Animal and vegetable fats and oils,"Traditional margarine, QUAL Half fat or medium fat",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Traditional margarine, QUAL Low fat (naturally or reduced)",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,"Traditional margarine, QUAL Low sodium / reduced salt",0,0,0,0,0,0,0
+Animal and vegetable fats and oils,Walnut oil,0,0,0,0,0,0,0
+"Coffee, cocoa, tea and infusions",Camomile infusion,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"Coffee, cocoa, tea and infusions",Chicory coffee infusion,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+"Coffee, cocoa, tea and infusions",Chicory coffee ingredient,9.4,9.4,9.4,9.4,9.4,9.4,9.4
+"Coffee, cocoa, tea and infusions",Cocoa beverages,1.37,,1.37,,1,1.37,1
+"Coffee, cocoa, tea and infusions","Cocoa beverages, QUAL Low / Reduced sugar",2,2,2,2,2,2,2
+"Coffee, cocoa, tea and infusions",Cocoa mass,3.2,3.2,3.2,3.2,3.2,3.2,3.2
+"Coffee, cocoa, tea and infusions",Cocoa powder,1,2.2,14.3,2.2,14.3,1,14.3
+"Coffee, cocoa, tea and infusions",Coffee (average strenght) beverage,,0.1,0.05,,,,
+"Coffee, cocoa, tea and infusions",Coffee (weak strenght) beverage,0,0,0,0,0,0,0
+"Coffee, cocoa, tea and infusions","Coffee beans, roasted",10,5,10,5,10,10,10
+"Coffee, cocoa, tea and infusions",Coffee beverage decaffeinated,0.1,0.1,0.1,,0.1,0.1,0.1
+"Coffee, cocoa, tea and infusions","Coffee drink, cappuccino",1,1,1,1,1,1,1
+"Coffee, cocoa, tea and infusions",Coffee espresso (beverage),0,,0,0,0,0,0
+"Coffee, cocoa, tea and infusions","Coffee ground, roasted",10,10,10,10,10,10,10
+"Coffee, cocoa, tea and infusions","Coffee ground, roasted and decaffeinated",5,5,5,5,5,5,5
+"Coffee, cocoa, tea and infusions",Coffee with milk or cream,,0.6,,0.6,,,
+"Coffee, cocoa, tea and infusions",Fermented tea infusion,0.1,0.1,0.05,,,0.1,
+"Coffee, cocoa, tea and infusions",Fruit infusion,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"Coffee, cocoa, tea and infusions",Hot chocolate,2.6,2.7,1,2.7,1,2.6,1
+"Coffee, cocoa, tea and infusions","Hot chocolate, QUAL Low / Reduced sugar",2,2,2,2,2,2,2
+"Coffee, cocoa, tea and infusions",Instant coffee (beverage),0.03,0.1,0.03,,,0.03,
+"Coffee, cocoa, tea and infusions",Instant coffee powder,,8.7,9,9,3,3,9
+"Coffee, cocoa, tea and infusions","Instant coffee powder, decaffeinated",17.3,17.3,17.3,17.3,17.3,17.3,17.3
+"Coffee, cocoa, tea and infusions","Instant coffee powder, decaffeinated, QUAL Low / Reduced sugar",17.3,17.3,17.3,17.3,17.3,17.3,17.3
+"Coffee, cocoa, tea and infusions","Instant coffee powder, decaffeinated, QUAL Sugar free",17.3,17.3,17.3,17.3,17.3,17.3,17.3
+"Coffee, cocoa, tea and infusions","Instant coffee powder, QUAL Low / Reduced sugar",0.03,0.03,0.03,0.03,0.03,0.03,0.03
+"Coffee, cocoa, tea and infusions","Instant coffee powder, QUAL Sugar free",0.03,0.03,0.03,0.03,0.03,0.03,0.03
+"Coffee, cocoa, tea and infusions",Jasmine infusion,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"Coffee, cocoa, tea and infusions",Malt coffee infusion,1.1,1.1,1.1,1.1,1.1,1.1,1.1
+"Coffee, cocoa, tea and infusions",Mixed coffee imitates,9.4,9.4,9.4,9.4,9.4,9.4,9.4
+"Coffee, cocoa, tea and infusions","Non-fermented tea, infusion",0.1,0.1,0.1,0.1,0.1,,0.1
+"Coffee, cocoa, tea and infusions",Rooibos infusion,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+"Coffee, cocoa, tea and infusions",Tea infusion with added flavouring ingredients,0.1,,,,0.1,,
+"Coffee, cocoa, tea and infusions",Tea leaves and stalks decaffeinated,5.4,5.4,5.4,5.4,5.4,5.4,5.4
+"Coffee, cocoa, tea and infusions","Tea leaves and stalks, fermented",5.4,5.4,5.4,5.4,5.4,5.4,5.4
+Composite dishes,Beans and meat meal,7.6,2.2,3,2.2,3,7.6,3
+Composite dishes,Beans and vegetables meal,,1,1,1,1,,1
+Composite dishes,Beef loaf,16.1,16.1,16.1,16.1,16.1,16.1,16.1
+Composite dishes,Ceasar salad,4,4,4,4,4,4,4
+Composite dishes,Cereal products and grains based soup,0.9,0.59,0.59,0.59,0.59,0.59,0.59
+Composite dishes,Cheese omelette,23.8,9.8,9,9.8,9,23.8,9
+Composite dishes,Cheese savoury pie,13.4,,,,,13.4,2
+Composite dishes,Creamed vegetable mix,0.8,1.8,1,1.8,1,0.8,1
+Composite dishes,Dairy/egg soup,3,3,3,3,3,,3
+Composite dishes,Dolma,1.02,1.02,1.02,1.02,1.02,1.02,1.02
+Composite dishes,"Dolma, PROCESS Baking",4.2,4.2,4.2,4.2,4.2,4.2,4.2
+Composite dishes,"Dolma, PROCESS Cooking in water",0.8,2,2,2,2,0.8,2
+Composite dishes,"Dolma, PROCESS Steaming",0.8,2,2,2,2,0.8,2
+Composite dishes,Doner kebab,,,3,,3,1.84,3
+Composite dishes,Finger food,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+Composite dishes,Fish and potatoes meal,7.8,9,9,9,9,7.8,9
+Composite dishes,Fish and rice meal,21.1,,23,,23,10,23
+Composite dishes,Fish and vegetables meal,14.1,14.1,14.1,14.1,14.1,,14.1
+Composite dishes,Fish balls,11.6,11.6,11.6,11.6,11.6,,11.6
+Composite dishes,"Fish balls, PROCESS Cooking in water",23.3,23.3,23.3,23.3,23.3,23.3,23.3
+Composite dishes,"Fish balls, PROCESS Frying",13,13,13,13,13,13,13
+Composite dishes,"Fish balls, PROCESS Steaming",23.3,23.3,23.3,23.3,23.3,23.3,23.3
+Composite dishes,"Fish fingers, breaded",,14.5,23,14.5,35,,23
+Composite dishes,Fish gratin,15.3,15.3,15.3,15.3,15.3,,15.3
+Composite dishes,Fish pâté,10,13,10,13,13,10,13
+Composite dishes,Fish soup,6.5,11.6,11.6,11.6,11.6,6.5,11.6
+Composite dishes,"Fish soup, INGRED Tap water",11.6,11.6,11.6,11.6,11.6,11.6,11.6
+Composite dishes,Fishcakes,,8.3,8.3,8.3,8.3,,8.3
+Composite dishes,Fried eggs,25.5,14.8,12,14.8,28,25.5,12
+Composite dishes,Fruit soup,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Composite dishes,Goulash,4.7,2,2,2,3,4.7,2
+Composite dishes,Greek salad,3.2,1,1,1,1,3.2,1
+Composite dishes,Hamburger with bread,11.8,2,16,2,16,4.42,16
+Composite dishes,Hot dog with bread,,26.5,26.5,26.5,26.5,,26.5
+Composite dishes,Hummus,,2.4,4,2.4,4,,4
+Composite dishes,Lasagna,3.2,2.2,2.2,2.2,2.2,3.2,2.2
+Composite dishes,Legume (beans) soup,1.8,19,3,19,3,1.6,3
+Composite dishes,Legumes based dishes,5.3,2.8,18,2.8,18,5.3,18
+Composite dishes,Meat and vegetable soup,3.3,5.5,3,5.5,3,3.3,3
+Composite dishes,Meat balls,22.2,5.7,5,5.7,15,2,5
+Composite dishes,Meat burger (no sandwich),25,9,9,9,7,25,9
+Composite dishes,Meat loaf,24,24,24,24,24,,24
+Composite dishes,"Meat loaf with cheese, vegetables or other",17.9,17.9,17.9,17.9,17.9,17.9,17.9
+Composite dishes,Meat soup,3.9,2.2,3,2.2,3,3.9,3
+Composite dishes,Meat stew,7.9,2.2,4,2.2,4,7.9,4
+Composite dishes,Meat terrine,20.5,20.5,20.5,20.5,20.5,20.5,20.5
+Composite dishes,Mixed green salad,0.13,0.2,,,,,
+Composite dishes,Mixed vegetable salad,0.3,0.31,,,,0.3,
+Composite dishes,Mixed vegetables soup,0.3,1.8,,1.8,,0.3,
+Composite dishes,"Mixed vegetables, boiled",0.6,0.3,1,0.3,1,0.4,1
+Composite dishes,"Mixed vegetables, braised",0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Composite dishes,"Mixed vegetables, fried",2.5,2.6,2.6,2.6,2.6,2.5,2.6
+Composite dishes,"Mixed vegetables, grilled",,0.4,0.4,0.4,0.4,,0.4
+Composite dishes,Moussaka,4.4,1.4,2,1.4,2,,2
+Composite dishes,Mushroom based dishes,28.9,10,10,10,10,28.9,10
+Composite dishes,Mushroom salad,22.6,1.8,1.8,1.8,1.8,22.6,1.8
+Composite dishes,Mushroom soup,5.7,0.6,1,0.6,,1.42,1
+Composite dishes,Omelette with bacon,12,12,12,12,12,12,12
+Composite dishes,Omelette with mushrooms,9.4,9.4,9.4,9.4,9.4,9.4,9.4
+Composite dishes,Omelette with vegetables,17.1,10.3,4,10.3,4,,4
+Composite dishes,"Omelette, plain",23.7,12,10,12,10,23.7,10
+Composite dishes,Onion soup,1.1,2,,2,,,
+Composite dishes,Paella,10.4,6.7,6.7,6.7,6.7,10.4,6.7
+Composite dishes,Pasta based dishes (cooked),6.1,6.1,6.1,6.1,6.1,6.1,6.1
+Composite dishes,"Pasta based dishes (cooked), PROCESS Baking",,4.9,4.9,4.9,4.9,,4.9
+Composite dishes,"Pasta-based dishes, uncooked, PROCESS Cooking in water",1.07,13,2,13,2,1.07,2
+Composite dishes,"Pasta-based dishes, uncooked, PROCESS Steaming",1.07,2,2,2,2,1.07,2
+Composite dishes,"Pasta, cooked, with cheese/cream",,1,1,1,1,1,1
+Composite dishes,"Pasta, cooked, with vegetables",,0,0,0,0,,0
+Composite dishes,"Pasta, filled with meat mix, cooked, PROCESS Cooking in water",8.1,2,2,2,2,1,2
+Composite dishes,"Pasta, filled with meat mix, cooked, PROCESS Steaming",2,2,2,2,2,2,2
+Composite dishes,"Pasta, filled with vegetable mix, cooked, PROCESS Cooking in water",8,2,2,2,2,,2
+Composite dishes,"Pasta, filled with vegetable mix, cooked, PROCESS Steaming",2,2,2,2,2,2,2
+Composite dishes,Pizza and similar with cheese topping,,,7,,2,,7
+Composite dishes,"Pizza and similar with cheese, and mushrooms",,2,2,2,2,,2
+Composite dishes,"Pizza and similar with cheese, and vegetables",,2,2,2,2,,2
+Composite dishes,"Pizza and similar with cheese, meat, and mushrooms",,,3,,3,,3
+Composite dishes,"Pizza and similar with cheese, meat, and vegetables",,3.5,3,3.5,3,3,3
+Composite dishes,"Pizza and similar with meat, and vegetables",3,3,3,3,3,3,3
+Composite dishes,Poached eggs,11,12,11,12,11,11,11
+Composite dishes,Potato casserole,3.3,1,1,1,1,3.3,1
+Composite dishes,Potato croquettes,3.4,1,5,1,1,5,1
+Composite dishes,Potato soup,1.3,2.8,1,2.8,1,1.3,1
+Composite dishes,Potatoes and cheese meal,3.6,1,2,1,2,,2
+Composite dishes,Potatoes and meat meal,6.7,2.2,1,2.2,1,2,1
+Composite dishes,Potatoes and vegetables meal,0.3,2,2,2,2,0.3,2
+Composite dishes,"Potatoes, meat, and vegetables meal",3.9,1,1,1,1,1,1
+Composite dishes,Prepared fish salad,,,29,,29,,29
+Composite dishes,Prepared legume (beans) salad,,,2,,2,,2
+Composite dishes,Prepared meat salad,6.9,,2,,2,,2
+Composite dishes,Prepared mixed egg/meat/fish/vegetable salad,,21,21,21,21,,21
+Composite dishes,Prepared nut salad,1.2,1,1,1,1,1.2,1
+Composite dishes,Prepared pasta salad,5.1,5.3,5.3,5.3,5.3,,5.3
+Composite dishes,Prepared potato salad,0.6,,1,,1,0.6,1
+Composite dishes,Prepared rice salad,12.2,4,4,4,4,12.2,4
+Composite dishes,Quiche,6,6.9,6,6.9,7,6,6
+Composite dishes,Ratatouille,0.3,2.2,1,2.2,1,,1
+Composite dishes,Rice and meat meal,,5,5,5,4,,5
+Composite dishes,Rice and vegetables meal,,7,7,7,4,,7
+Composite dishes,"Rice based dishes cooked, PROCESS Cooking in water",,4,4,4,4,,4
+Composite dishes,"Rice based dishes cooked, PROCESS Steaming",,3.4,3.4,3.4,3.4,,3.4
+Composite dishes,Rice pudding,3.3,1,1,1,1,,1
+Composite dishes,"Rice, meat, and vegetables meal",,3.4,4,3.4,4,,4
+Composite dishes,Risotto,2.7,2.7,2.7,2.7,2.7,2.7,2.7
+Composite dishes,Roesti,0.8,0.27,0.27,0.27,0.27,,0.27
+Composite dishes,Sandwich and sandwich-like dishes,6.5,6.5,6.5,6.5,6.5,6.5,6.5
+Composite dishes,Sandwich with cheese and vegetable topping/filling,4.4,4.4,4.4,4.4,4.4,4.4,4.4
+Composite dishes,Sandwich with cheese topping/filling,16.6,4.6,5,4.6,5,3.3,5
+Composite dishes,Sandwich with fish and vegetable topping/filling,21.6,4.7,21.6,4.7,4.7,21.6,21.6
+Composite dishes,Sandwich with fish topping/filling,,4.7,29,4.7,29,,29
+Composite dishes,Sandwich with meat and vegetable topping/filling,21.1,5.8,5,5.8,5,21.1,5
+Composite dishes,Sandwich with processed meat topping/filling,7.4,3.4,6,3.4,6,7.4,6
+Composite dishes,Sausage roll,7,7,7,7,7,7,7
+Composite dishes,Seafood salad,16,29,29,29,29,,29
+Composite dishes,Seafood-based meals,,3,23,3,23,11.3,23
+Composite dishes,Spring rolls,1.2,5.5,3,5.5,3,,3
+Composite dishes,Tomato soup,0.4,0.9,,0.9,,0.2,
+Composite dishes,Vegetable casserole,6,1,1,1,1,6,1
+Composite dishes,"Vegetables, gratinated",3.4,1.8,2,1.8,2,,2
+Eggs and egg products,Boiled eggs,24.9,13,11,13,20,22.65,11
+Eggs and egg products,Eggs from other eggs producer birds,80.3,80.3,80.3,80.3,80.3,80.3,80.3
+Eggs and egg products,Hen egg mixed whole,24.9,13,23.3,5.8,17,22.65,17
+Eggs and egg products,"Hen egg mixed whole, dried",87.4,87.4,87.4,42,42,87.4,42
+Eggs and egg products,Hen egg white,15,6.1,6,3.2,6,20,6
+Eggs and egg products,"Hen egg white, dried",49,49,49,49,49,49,49
+Eggs and egg products,Hen egg yolk,45,26.9,30,9.6,20,58.6,20
+Eggs and egg products,Hen eggs,24.9,13,23.3,5.8,17,24.9,11
+Eggs and egg products,"Hen eggs, PROCESS Cooking in water",24.9,13,11,13,20,24.9,11
+Eggs and egg products,"Hen eggs, PROCESS Frying",25.5,14.8,12,14.8,28,25.5,12
+Eggs and egg products,Quail eggs,24.9,24.9,24.9,24.9,24.9,24.9,24.9
+"Fish, seafood, amphibians, reptiles and invertebrates",Amphibians and Reptiles,14.1,14.1,14.1,14.1,14.1,14.1,14.1
+"Fish, seafood, amphibians, reptiles and invertebrates",Anchovies,68,26.3,20,26.3,20,68,20
+"Fish, seafood, amphibians, reptiles and invertebrates","Anchovies, PROCESS Cooking in water",20,20,20,20,20,20,20
+"Fish, seafood, amphibians, reptiles and invertebrates",Anglerfish and monkfish,40.3,37,37,37,37,37,37
+"Fish, seafood, amphibians, reptiles and invertebrates",Atlantic salmon,,,32.2,22.3,26,,26
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, PROCESS Baking",31,31,31,31,16,31,31
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, PROCESS Cooking in water",,28,28,28,22,28,28
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, PROCESS Curing",,,,,,26,
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, PROCESS Frying",28.3,28.3,28.3,28.3,28.3,28.3,28.3
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, PROCESS Preserving with salt",26,26,26,,26,26,26
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, PROCESS Steaming",,19,28,19,22,28,28
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, PROD Farmed / cultivated / aquaculture",,22.3,,,,,
+"Fish, seafood, amphibians, reptiles and invertebrates","Atlantic salmon, STATE Primal cuts / fillets / halves or quarters",26,,,,,,
+"Fish, seafood, amphibians, reptiles and invertebrates",Canned/jarred fish in brine-deprecated,,22,22,22,25,,78
+"Fish, seafood, amphibians, reptiles and invertebrates","Canned/jarred fish in brine-deprecated, RACSOURCE Atlantic salmon",,,,26,,,
+"Fish, seafood, amphibians, reptiles and invertebrates",Canned/jarred fish in oil-deprecated,42,18,68,18,90,42,90
+"Fish, seafood, amphibians, reptiles and invertebrates","Canned/jarred fish in vinegar, pickles or sauces-deprecated",68,35.4,68,35.4,24,68,29
+"Fish, seafood, amphibians, reptiles and invertebrates",Canned/jarred smoked fish in oil-deprecated,35.4,35.4,35.4,35.4,35.4,35.4,35.4
+"Fish, seafood, amphibians, reptiles and invertebrates","Carps, PROCESS Baking",20.2,20.2,20.2,20.2,20.2,20.2,20.2
+"Fish, seafood, amphibians, reptiles and invertebrates",Catfishes (freshwater),,57.5,57.5,57.5,57.5,,57.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Clams, cockles, arkshells",21.1,,51,,51,51,51
+"Fish, seafood, amphibians, reptiles and invertebrates","Clams, cockles, arkshells, PROCESS Cooking in water",,21.2,43,21.2,43,43,43
+"Fish, seafood, amphibians, reptiles and invertebrates","Clams, cockles, arkshells, PROCESS Steaming",,43,43,43,43,43,43
+"Fish, seafood, amphibians, reptiles and invertebrates","Clams, PROCESS Cooking in water",51.8,51.8,51.8,51.8,51.8,51.8,51.8
+"Fish, seafood, amphibians, reptiles and invertebrates","Cockles, PROCESS Cooking in water",43,43,43,43,43,43,43
+"Fish, seafood, amphibians, reptiles and invertebrates","Cockles, PROCESS Steaming",43,43,43,43,43,43,43
+"Fish, seafood, amphibians, reptiles and invertebrates",Cod,27,,,16.5,37,27,28
+"Fish, seafood, amphibians, reptiles and invertebrates",Cod liver,63.5,25,63.5,25,63.5,63.5,63.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Cod roe, PROCESS Smoking",52,,,,52,52,
+"Fish, seafood, amphibians, reptiles and invertebrates","Cod, atlantic",,31,,,,,
+"Fish, seafood, amphibians, reptiles and invertebrates","Cod, murray",28.7,28.7,28.7,28.7,28.7,28.7,28.7
+"Fish, seafood, amphibians, reptiles and invertebrates","Cod, PROCESS Boiling",,,,,,,52
+"Fish, seafood, amphibians, reptiles and invertebrates","Cod, PROCESS Drying (dehydration)",,,,52,,,
+"Fish, seafood, amphibians, reptiles and invertebrates","Cod, PROCESS Preserving with salt",,52,52,,,,
+"Fish, seafood, amphibians, reptiles and invertebrates","Cod, STATE Slices, steaks or other flat cuts",,,29,,,,
+"Fish, seafood, amphibians, reptiles and invertebrates","Cods, hakes, haddocks, PROCESS Baking",34,22.4,34,22.4,34,34,34
+"Fish, seafood, amphibians, reptiles and invertebrates","Cods, hakes, haddocks, PROCESS Cooking in water",30,28.6,30,28.6,37,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Cods, hakes, haddocks, PROCESS Frying",37,37,37,37,37,37,37
+"Fish, seafood, amphibians, reptiles and invertebrates","Cods, hakes, haddocks, PROCESS Steaming",30,28.6,30,28.6,31,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Conger, european, PROCESS Cooking in water",30,30,30,30,30,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Conger, european, PROCESS Steaming",30,30,30,30,30,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Conger, PROCESS Cooking in water",30,30,30,30,30,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Conger, PROCESS Steaming",30,30,30,30,30,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Crabmeat, cooked-deprecated",11.6,47.3,84,47.3,26,11.6,84
+"Fish, seafood, amphibians, reptiles and invertebrates","Crabs, sea-spiders",82,82,82,37,82,82,82
+"Fish, seafood, amphibians, reptiles and invertebrates","Crabs, sea-spiders, PROCESS Cooking in water",50,62.1,84,62.1,50,50,84
+"Fish, seafood, amphibians, reptiles and invertebrates","Crabs, sea-spiders, PROCESS Steaming",50,84,84,84,50,50,84
+"Fish, seafood, amphibians, reptiles and invertebrates",Cuttlefishes,65,65,65,65,66,65,65
+"Fish, seafood, amphibians, reptiles and invertebrates",Dories,70,70,70,70,70,70,70
+"Fish, seafood, amphibians, reptiles and invertebrates",Dried fish,,156,156,156,156,,156
+"Fish, seafood, amphibians, reptiles and invertebrates",Fish paste or surimi,20,8.3,20,28,20,20,20
+"Fish, seafood, amphibians, reptiles and invertebrates",Flounders,24,20.4,20.4,20.4,20.4,24,26
+"Fish, seafood, amphibians, reptiles and invertebrates","Flounders, PROCESS Cooking in water",32,32,32,32,32,32,32
+"Fish, seafood, amphibians, reptiles and invertebrates","Flounders, PROCESS Frying",27,27,27,27,27,27,27
+"Fish, seafood, amphibians, reptiles and invertebrates","Flounders, PROCESS Steaming",32,32,32,32,32,32,32
+"Fish, seafood, amphibians, reptiles and invertebrates",Freshwater bream - Europe,28,24,24,24,24,28,24
+"Fish, seafood, amphibians, reptiles and invertebrates",Freshwater crayfishes,50,45.5,14.4,70,14.4,50,70
+"Fish, seafood, amphibians, reptiles and invertebrates","Freshwater crayfishes, cooked-deprecated",62.5,130,130,130,130,62.5,130
+"Fish, seafood, amphibians, reptiles and invertebrates","Freshwater crayfishes, PROCESS Cooking in water",130,130,130,130,130,130,130
+"Fish, seafood, amphibians, reptiles and invertebrates","Freshwater crayfishes, PROCESS Frying",50,50,50,50,50,50,50
+"Fish, seafood, amphibians, reptiles and invertebrates","Freshwater crayfishes, PROCESS Steaming",130,130,130,130,130,130,130
+"Fish, seafood, amphibians, reptiles and invertebrates",Freshwater crustaceans,45.5,45.5,45.5,45.5,45.5,45.5,45.5
+"Fish, seafood, amphibians, reptiles and invertebrates",Freshwater fish,20,20,20,20,20,20,20
+"Fish, seafood, amphibians, reptiles and invertebrates","Freshwater fish, PROCESS Baking",3,3,3,3,3,3,3
+"Fish, seafood, amphibians, reptiles and invertebrates","Freshwater fish, PROCESS Steaming",,3,3,3,3,,3
+"Fish, seafood, amphibians, reptiles and invertebrates",Freshwater shrimps or prawns,30,30,30,30,30,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Freshwater shrimps or prawns, PROCESS Cooking in water",45.5,45.5,45.5,45.5,45.5,45.5,45.5
+"Fish, seafood, amphibians, reptiles and invertebrates",Frogs (legs),14.1,14.1,14.1,14.1,14.1,14.1,14.1
+"Fish, seafood, amphibians, reptiles and invertebrates",Garfish,30.9,30.9,30.9,30.9,30.9,30.9,30.9
+"Fish, seafood, amphibians, reptiles and invertebrates",Hakes,,25.3,25.3,25.3,25.3,,25.3
+"Fish, seafood, amphibians, reptiles and invertebrates","Hakes, PROCESS Cooking in water",26.5,26.5,26.5,26.5,26.5,26.5,26.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Hakes, PROCESS Steaming",26.5,26.5,26.5,26.5,26.5,26.5,26.5
+"Fish, seafood, amphibians, reptiles and invertebrates",Halibut,36.5,36.5,36.5,36.5,36.5,36.5,36.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Herring, atlantic",23.6,35,35,35,31,35,35
+"Fish, seafood, amphibians, reptiles and invertebrates","Herring, atlantic, PROCESS Baking",46,46,46,46,46,46,46
+"Fish, seafood, amphibians, reptiles and invertebrates","Herring, atlantic, PROCESS Frying",46,46,46,46,46,46,46
+"Fish, seafood, amphibians, reptiles and invertebrates","Herring, atlantic, PROCESS Pickling",22,22,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates",Herrings,17.4,31.3,32.1,31.3,31,17.4,35
+"Fish, seafood, amphibians, reptiles and invertebrates","Herrings, PROCESS Baking",46,46,46,46,46,46,46
+"Fish, seafood, amphibians, reptiles and invertebrates","Herrings, PROCESS Pickling",20,22,19,22,19,20,19
+"Fish, seafood, amphibians, reptiles and invertebrates","Lobster, european",41.4,38.1,38.1,54,38.1,41.4,38.1
+"Fish, seafood, amphibians, reptiles and invertebrates","Lobster, european, PROCESS Cooking in water",51.8,23.8,38.1,68,130,51.8,54
+"Fish, seafood, amphibians, reptiles and invertebrates","Lobster, european, PROCESS Steaming",51.8,38.1,38.1,38.1,130,51.8,54
+"Fish, seafood, amphibians, reptiles and invertebrates","Lobster, norway",55,55,55,55,55,55,55
+"Fish, seafood, amphibians, reptiles and invertebrates","Lobster, norway, PROCESS Cooking in water",,130,130,130,130,,130
+"Fish, seafood, amphibians, reptiles and invertebrates","Lobster, norway, PROCESS Steaming",,130,130,130,130,,130
+"Fish, seafood, amphibians, reptiles and invertebrates","Lobsters (including lobster meat), cooked-deprecated",38.1,23.8,38.1,23.8,,38.1,54
+"Fish, seafood, amphibians, reptiles and invertebrates",Mackerel,31.9,31.9,31.9,9.8,36,31.9,30
+"Fish, seafood, amphibians, reptiles and invertebrates",Mackerel and mackerel-like fishes-deprecated,30,30,30,9.8,36,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel and mackerel-like fishes-deprecated, PROCESS Baking",36,51.6,36,51.6,36,36,36
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel and mackerel-like fishes-deprecated, PROCESS Cooking in water",36,36,36,36,36,36,36
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel and mackerel-like fishes-deprecated, PROCESS Frying",38,51.6,38,51.6,38,38,38
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel and mackerel-like fishes-deprecated, PROCESS Steaming",36,36,36,36,36,36,36
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel, PROCESS Baking",,51.6,36,51.6,36,,36
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel, PROCESS Cooking in water",36,36,36,36,36,36,36
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel, PROCESS Frying",38,51.6,38,51.6,38,38,38
+"Fish, seafood, amphibians, reptiles and invertebrates","Mackerel, PROCESS Steaming",36,36,36,36,36,36,36
+"Fish, seafood, amphibians, reptiles and invertebrates","Marine shrimps or prawns, cooked-deprecated",18.7,12.5,18.7,12.5,31,18.7,23
+"Fish, seafood, amphibians, reptiles and invertebrates",Miscellaneous coastal marine fishes,42.4,,42.4,,42.4,42.4,46
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous coastal marine fishes, PROCESS Baking",54,17.4,54,17.4,54,54,54
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous coastal marine fishes, PROCESS Cooking in water",43,,,,,,
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous coastal marine fishes, PROCESS Steaming",43,26.5,26.5,26.5,26.5,26.5,26.5
+"Fish, seafood, amphibians, reptiles and invertebrates",Miscellaneous demersal marine fishes,16.5,16.5,16.5,16.5,16.5,16.5,16.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous demersal marine fishes, PROCESS Baking",17.4,17.4,17.4,17.4,17.4,17.4,17.4
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous demersal marine fishes, PROCESS Cooking in water",22.1,22.1,22.1,22.1,22.1,22.1,22.1
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous demersal marine fishes, PROCESS Steaming",26.5,26.5,26.5,26.5,26.5,26.5,26.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous marine crustaceans, PROCESS Baking",12.5,12.5,12.5,12.5,12.5,12.5,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous marine crustaceans, PROCESS Cooking in water",12.5,12.5,12.5,12.5,12.5,12.5,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous marine crustaceans, PROCESS Frying",12.5,12.5,12.5,12.5,12.5,12.5,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Miscellaneous marine crustaceans, PROCESS Steaming",12.5,12.5,12.5,12.5,12.5,12.5,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates",Miscellaneous pelagic marine fishes,23.6,26.3,26.3,26.3,23.6,23.6,26.3
+"Fish, seafood, amphibians, reptiles and invertebrates",Mullets,46,46,46,46,46,46,46
+"Fish, seafood, amphibians, reptiles and invertebrates","Mullets, PROCESS Baking",54,46.8,54,46.8,54,54,54
+"Fish, seafood, amphibians, reptiles and invertebrates",Mussels,60,46,46,49,46,60,51
+"Fish, seafood, amphibians, reptiles and invertebrates","Mussels, PROCESS Cooking in water",60,21.2,46,21.2,49,60,43
+"Fish, seafood, amphibians, reptiles and invertebrates","Mussels, PROCESS Steaming",60,46,46,46,49,60,43
+"Fish, seafood, amphibians, reptiles and invertebrates",Ocean perch,56.3,56.3,56.3,56.3,56.3,56.3,56.3
+"Fish, seafood, amphibians, reptiles and invertebrates","Ocean perch, PROCESS Baking",12.6,12.6,12.6,12.6,12.6,12.6,12.6
+"Fish, seafood, amphibians, reptiles and invertebrates",Octopuses,75,26,26,75,66,75,75
+"Fish, seafood, amphibians, reptiles and invertebrates",Other fish offal,9,9,9,9,9,9,9
+"Fish, seafood, amphibians, reptiles and invertebrates",Oysters,,,49.2,,36,70,23
+"Fish, seafood, amphibians, reptiles and invertebrates",Pacific salmon (generic),32.2,32.2,32.2,32.2,26,32.2,26
+"Fish, seafood, amphibians, reptiles and invertebrates","Pacific salmon (generic), PROCESS Baking",22,22,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates","Pacific salmon (generic), PROCESS Cooking in water",22,22,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates","Pacific salmon (generic), PROCESS Steaming",22,22,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates",Perch,28,24,24,13,24,28,24
+"Fish, seafood, amphibians, reptiles and invertebrates","Perch, golden",62.9,62.9,62.9,62.9,62.9,62.9,62.9
+"Fish, seafood, amphibians, reptiles and invertebrates","Perch, PROCESS Baking",28.8,12.6,12.6,12.6,12.6,28.8,12.6
+"Fish, seafood, amphibians, reptiles and invertebrates",Pike,22,5.42,5.42,5.42,5.42,22,5.42
+"Fish, seafood, amphibians, reptiles and invertebrates",Pike-perch,37,20,20,20,20,37,20
+"Fish, seafood, amphibians, reptiles and invertebrates",Plaice,28.9,28.9,28.9,28.9,37,28.9,37
+"Fish, seafood, amphibians, reptiles and invertebrates","Plaice, PROCESS Baking",45,30.4,45,30.4,45,45,45
+"Fish, seafood, amphibians, reptiles and invertebrates","Plaice, PROCESS Cooking in water",40,40,40,40,40,40,40
+"Fish, seafood, amphibians, reptiles and invertebrates","Plaice, PROCESS Frying",48,30.4,48,30.4,48,48,48
+"Fish, seafood, amphibians, reptiles and invertebrates","Plaice, PROCESS Steaming",40,30.4,40,30.4,40,40,40
+"Fish, seafood, amphibians, reptiles and invertebrates","Rays, PROCESS Cooking in water",0,0,0,0,0,0,0
+"Fish, seafood, amphibians, reptiles and invertebrates","Rays, PROCESS Steaming",0,0,0,0,0,0,0
+"Fish, seafood, amphibians, reptiles and invertebrates",River eels,57,26.3,26.3,18,30,57,31
+"Fish, seafood, amphibians, reptiles and invertebrates","River eels, PROCESS Baking",28,28,28,28,28,28,28
+"Fish, seafood, amphibians, reptiles and invertebrates","River eels, PROCESS Cooking in water",30,28,30,28,30,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates","River eels, PROCESS Steaming",30,28,30,28,30,30,30
+"Fish, seafood, amphibians, reptiles and invertebrates",Roaches,22.4,22.4,22.4,22.4,22.4,22.4,22.4
+"Fish, seafood, amphibians, reptiles and invertebrates","Salmon, threadfin",26,26,26,26,26,26,26
+"Fish, seafood, amphibians, reptiles and invertebrates","Salmon, threadfin, PROCESS Baking",22,22,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates","Salmon, threadfin, PROCESS Cooking in water",22,22,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates","Salmon, threadfin, PROCESS Steaming",22,22,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates",Sardines and sardine-type fishes,34,34,34,34,34,34,34
+"Fish, seafood, amphibians, reptiles and invertebrates","Sardines and sardine-type fishes, PROCESS Baking",38,38,38,38,38,38,38
+"Fish, seafood, amphibians, reptiles and invertebrates","Sardines and sardine-type fishes, PROCESS Cooking in water",35,35,35,35,35,35,35
+"Fish, seafood, amphibians, reptiles and invertebrates","Sardines and sardine-type fishes, PROCESS Steaming",35,35,35,35,35,35,35
+"Fish, seafood, amphibians, reptiles and invertebrates","Scallops, pectens",22,22.2,22,22,22,22,22
+"Fish, seafood, amphibians, reptiles and invertebrates","Scallops, pectens, PROCESS Cooking in water",51,22.2,51,22.2,51,51,51
+"Fish, seafood, amphibians, reptiles and invertebrates","Scallops, pectens, PROCESS Frying",,22.2,22.2,22.2,22.2,,22.2
+"Fish, seafood, amphibians, reptiles and invertebrates","Scallops, pectens, PROCESS Steaming",51,51,51,51,51,51,51
+"Fish, seafood, amphibians, reptiles and invertebrates",Sea bass,0,0,0,0,0,0,0
+"Fish, seafood, amphibians, reptiles and invertebrates",Sea bream,0,0,0,0,0,0,0
+"Fish, seafood, amphibians, reptiles and invertebrates","Sea-squirts and other tunicates, PROCESS Cooking in water",44.8,44.8,44.8,44.8,44.8,44.8,44.8
+"Fish, seafood, amphibians, reptiles and invertebrates",Sharks,33.6,33.6,33.6,33.6,33.6,33.6,33.6
+"Fish, seafood, amphibians, reptiles and invertebrates","Sharks, PROCESS Baking",42,42,42,42,42,42,42
+"Fish, seafood, amphibians, reptiles and invertebrates","Sharks, PROCESS Cooking in water",42,42,42,42,42,42,42
+"Fish, seafood, amphibians, reptiles and invertebrates","Sharks, PROCESS Frying",42,42,42,42,42,42,42
+"Fish, seafood, amphibians, reptiles and invertebrates","Sharks, PROCESS Steaming",42,42,42,42,42,42,42
+"Fish, seafood, amphibians, reptiles and invertebrates",Shrimps and prawns,16,16,16,39,16,16,16
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps and prawns, PROCESS Baking",12.5,12.5,12.5,12.5,12.5,12.5,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps and prawns, PROCESS Cooking in water",,12.5,18.7,12.5,31,,23
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps and prawns, PROCESS Frying",12.5,12.5,12.5,12.5,12.5,12.5,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps and prawns, PROCESS Steaming",,12.5,18.7,12.5,31,,23
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps, common",21,21,21,30,21,21,21
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps, common, PROCESS Baking",,12.5,12.5,12.5,12.5,,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps, common, PROCESS Cooking in water",20,12.5,46,12.5,31,20,46
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps, common, PROCESS Frying",,12.5,12.5,12.5,12.5,,12.5
+"Fish, seafood, amphibians, reptiles and invertebrates","Shrimps, common, PROCESS Steaming",20,12.5,31,12.5,31,20,31
+"Fish, seafood, amphibians, reptiles and invertebrates",Smoked herring,18.99,28,29,28,31,18.99,32
+"Fish, seafood, amphibians, reptiles and invertebrates",Smoked salmon,,12,26,12,16,28.38,24
+"Fish, seafood, amphibians, reptiles and invertebrates",Snails,50,,50,,50,,50
+"Fish, seafood, amphibians, reptiles and invertebrates",Sole,25.5,25.5,25.5,36,60,25.5,23
+"Fish, seafood, amphibians, reptiles and invertebrates","Sole, PROCESS Baking",17.4,17.4,17.4,17.4,17.4,17.4,17.4
+"Fish, seafood, amphibians, reptiles and invertebrates","Sole, PROCESS Cooking in water",51,51,51,51,51,51,51
+"Fish, seafood, amphibians, reptiles and invertebrates","Sole, PROCESS Steaming",51,19,51,19,51,51,51
+"Fish, seafood, amphibians, reptiles and invertebrates",Spiny and rock lobsters,130,130,130,130,130,130,130
+"Fish, seafood, amphibians, reptiles and invertebrates","Spiny and rock lobsters, PROCESS Cooking in water",23.8,23.8,23.8,23.8,23.8,23.8,23.8
+"Fish, seafood, amphibians, reptiles and invertebrates",Sprat,10,10,10,10,10,10,10
+"Fish, seafood, amphibians, reptiles and invertebrates","Sprat, PROCESS Frying",13,13,13,13,13,13,13
+"Fish, seafood, amphibians, reptiles and invertebrates",Squids,66,66,66,66,66,66,66
+"Fish, seafood, amphibians, reptiles and invertebrates","Squids, cuttlefishes, octopuses",66,65,66,65,66,66,66
+"Fish, seafood, amphibians, reptiles and invertebrates","Squids, PROCESS Frying",24.5,24.5,24.5,24.5,24.5,24.5,24.5
+"Fish, seafood, amphibians, reptiles and invertebrates",Stockfish,156,156,156,156,156,156,156
+"Fish, seafood, amphibians, reptiles and invertebrates","Stockfish, PROCESS Cooking in water",20,20,20,20,20,20,20
+"Fish, seafood, amphibians, reptiles and invertebrates","Stockfish, PROCESS Steaming",20,20,20,20,20,20,20
+"Fish, seafood, amphibians, reptiles and invertebrates",Sturgeon roe,9,8,8,8,8,9,8
+"Fish, seafood, amphibians, reptiles and invertebrates",Tilapia,,30,30,30,30,,30
+"Fish, seafood, amphibians, reptiles and invertebrates",Trouts,26,18.7,18.7,18,18.7,26,18
+"Fish, seafood, amphibians, reptiles and invertebrates","Trouts, PROCESS Baking",21,3,21,3,21,21,21
+"Fish, seafood, amphibians, reptiles and invertebrates","Trouts, PROCESS Cooking in water",,24,24,24,16,,24
+"Fish, seafood, amphibians, reptiles and invertebrates","Trouts, PROCESS Frying",16,16,16,16,16,16,16
+"Fish, seafood, amphibians, reptiles and invertebrates","Trouts, PROCESS Steaming",,3,24,3,16,,24
+"Fish, seafood, amphibians, reptiles and invertebrates",Tuna and bonito (generic),36,116,79.6,112,90,36,57
+"Fish, seafood, amphibians, reptiles and invertebrates","Tuna and bonito (generic), PROCESS Baking",61.7,61.7,61.7,61.7,61.7,61.7,61.7
+"Fish, seafood, amphibians, reptiles and invertebrates","Tuna and bonito (generic), PROCESS Frying",40.6,42,42,42,42,42,42
+"Fish, seafood, amphibians, reptiles and invertebrates","Water snails, conches and whelks, PROCESS Cooking in water",44.8,44.8,44.8,44.8,44.8,44.8,44.8
+"Fish, seafood, amphibians, reptiles and invertebrates",Whitefishes or coregonus,37,16,16,16,16,37,16
+"Fish, seafood, amphibians, reptiles and invertebrates",Wolffish,57.5,57.5,57.5,57.5,57.5,57.5,57.5
+"Fish, seafood, amphibians, reptiles and invertebrates",Wolffishes,57.5,,57.5,,57.5,57.5,57.5
+Food products for young population,"Follow-on formulae, liquid",1.5,1.5,1.5,1.5,1.5,1.5,1.5
+Food products for young population,"Infant formulae, liquid",1.6,1.5,1.5,1.5,1.5,1.6,1.5
+Food products for young population,"Infant formulae, powder",11.3,12,12,12,12,11.3,12
+Food products for young population,Ready-to-eat cereal-based meal for children,,5,1,5,1,,1
+Food products for young population,Ready-to-eat fish-based meal for children,3.2,1,3,1,3,3.2,3
+Food products for young population,Ready-to-eat fruit-based meal for children,0.6,1,1,1,1,0.6,1
+Food products for young population,Ready-to-eat meat-based meal for children,2.9,1,1,1,1,2.9,1
+Food products for young population,Ready-to-eat mixed meal for children,1,1,1,1,1,1,1
+Food products for young population,Ready-to-eat vegetable-based meal for children,0.3,1,1,1,1,0.3,1
+Food products for young population,Simple cereals which have to be reconstituted with milk or other appropriate nutritious liquids,4,4,4,4,4,4,4
+Fruit and fruit products,American persimmons,0.8,,0.8,,0.8,0.8,0.8
+Fruit and fruit products,Apples and similar-,0.1,0.3,,0.3,,,
+Fruit and fruit products,"Apples and similar-, PROCESS Cooking in water",0,0,0,0,0,0,0
+Fruit and fruit products,"Apples and similar-, PROCESS Steaming",0,0,0,0,0,0,0
+Fruit and fruit products,Apricots,1,0.06,1,0.06,,0.2,1
+Fruit and fruit products,Arbutus berries,0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Fruit and fruit products,Avocados,0.4,0.4,1.04,0.4,1,1,1
+Fruit and fruit products,Bilberries (European blueberries),0.1,,,,,0.1,
+Fruit and fruit products,Blackberries,,0.25,,0.25,,,
+Fruit and fruit products,Blackcurrants,0.1,1.1,,1.1,1,0.1,1
+Fruit and fruit products,Blueberries,,0.1,,0.1,,,
+Fruit and fruit products,"Candied fruit, orange peel",7,7,7,,7,7,7
+Fruit and fruit products,Canned fruit cocktail,0.2,0.15,0.15,,,1,
+Fruit and fruit products,"Canned fruit cocktail, MEDIUM In diluted sweet liquid-syrup",0.2,0.5,0.9,,,0.2,
+Fruit and fruit products,"Canned fruit cocktail, MEDIUM In fruit/vegetable juice",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Fruit and fruit products,Canned or jarred apple,0.031,0.031,0.031,0.031,0.031,0.031,0.031
+Fruit and fruit products,"Canned or jarred apple, MEDIUM In diluted sweet liquid-syrup",0.212,0.212,0.212,0.212,0.212,0.212,0.212
+Fruit and fruit products,Canned or jarred apricot,0.2,,,,,0.2,
+Fruit and fruit products,"Canned or jarred apricot, MEDIUM In diluted sweet liquid-syrup",0.2,0.1,,0.1,,0.2,
+Fruit and fruit products,"Canned or jarred apricot, MEDIUM In fruit/vegetable juice",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Fruit and fruit products,"Canned or jarred cranberry, MEDIUM In diluted sweet liquid-syrup",0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Fruit and fruit products,Canned or jarred mandarin,0.2,,,,,0.2,
+Fruit and fruit products,"Canned or jarred mandarin, MEDIUM In diluted sweet liquid-syrup",0,0,0,0,0,0,0
+Fruit and fruit products,Canned or jarred mixed fruit,0,0,0,,0,0,0
+Fruit and fruit products,"Canned or jarred mixed fruit, MEDIUM In diluted sweet liquid-syrup",,0.5,,0.5,,,
+Fruit and fruit products,"Canned or jarred mixed fruit, MEDIUM In fruit/vegetable juice",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Fruit and fruit products,Canned or jarred peach,0.5,0.3,0.3,,0.5,0.3,0.5
+Fruit and fruit products,"Canned or jarred peach, MEDIUM In diluted sweet liquid-syrup",0.5,0.2,0.2,0.2,0.2,0.5,0.2
+Fruit and fruit products,Canned or jarred pear,0.2,,,,,0.2,
+Fruit and fruit products,"Canned or jarred pear, MEDIUM In diluted sweet liquid-syrup",0.2,0.2,0.2,0.2,,0.2,
+Fruit and fruit products,Canned or jarred pineapple,,,,,,0.2,
+Fruit and fruit products,"Canned or jarred pineapple, MEDIUM In diluted sweet liquid-syrup",,0.25,,0.25,,,
+Fruit and fruit products,"Canned or jarred pineapple, MEDIUM In fruit/vegetable juice",0,0,0,0,0,0,0
+Fruit and fruit products,Canned or jarred plum,0,0,0,0,0,0,0
+Fruit and fruit products,"Canned or jarred plum, MEDIUM In diluted sweet liquid-syrup",0.3,0.3,0.3,0.3,,0.3,
+Fruit and fruit products,"Canned or jarred sour cherry, MEDIUM In diluted sweet liquid-syrup",0.156,0.156,0.156,0.156,0.156,0.156,0.156
+Fruit and fruit products,Canned or jarred sweet cherry,1,1,1,1,1,1,1
+Fruit and fruit products,"Canned or jarred sweet cherry, MEDIUM In diluted sweet liquid-syrup",1,0.3,1,0.3,1,1,1
+Fruit and fruit products,"Canned or jarred sweet cherry, MEDIUM In fruit/vegetable juice",0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Fruit and fruit products,Carambolas,1,0.6,1,0.6,1,1,1
+Fruit and fruit products,Cherimoyas,1,1,1,1,1,1,1
+Fruit and fruit products,Cherries (sweet),0.1,0.05,0.156,0.05,,0.1,1
+Fruit and fruit products,Chocolate coated dried fruit,6.5,6.5,6.5,6.5,6.5,6.5,6.5
+Fruit and fruit products,Chokecherries,2,2,2,2,2,2,2
+Fruit and fruit products,Citrus fruit peel,2,2,2,,2,2,2
+Fruit and fruit products,Cloudberries,0.1,0.189,0.189,0.189,0.189,,0.189
+Fruit and fruit products,Common banana,1,0.3,1,0.3,4,0.5,1
+Fruit and fruit products,"Common banana, PROCESS Baking",1,0.6,0.6,0.6,0.6,,0.6
+Fruit and fruit products,Cranberries,0.1,,,,,0.1,
+Fruit and fruit products,Dates,3,1,1,,1,3,1
+Fruit and fruit products,Dewberries and similar-,0,0,0,0,0,0,0
+Fruit and fruit products,Dried apples,0.2,2.2,2.2,1,1,0.2,1
+Fruit and fruit products,Dried apricots,0.5,0.1,0.4,0.1,7,0.5,7
+Fruit and fruit products,Dried bananas,0.9,0.9,0.9,0.9,0.9,,0.9
+Fruit and fruit products,Dried dates,0.3,3,,3,3,3,3
+Fruit and fruit products,Dried figs,,0.3,1,0.3,1,2.3,1
+Fruit and fruit products,Dried pears,1,2,2,2,2,1,2
+Fruit and fruit products,Dried prunes,0.3,0.3,3,0.3,1,0.5,3
+Fruit and fruit products,"Dried prunes, PROCESS Baking",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Fruit and fruit products,"Dried prunes, PROCESS Cooking in water",1,1,1,1,1,1,1
+Fruit and fruit products,"Dried prunes, PROCESS Steaming",1,1,1,1,1,1,1
+Fruit and fruit products,Dried vine fruits (raisins etc.),0.4,0.4,2,0.4,8,0.5,8
+Fruit and fruit products,Figs,0.3,0.2,,0.2,,2,
+Fruit and fruit products,Fruit chips,0.641,0.641,0.641,0.641,0.641,0.641,0.641
+Fruit and fruit products,"Fruit compote, apple",0.1,0.3,,0.3,,0.1,
+Fruit and fruit products,"Fruit compote, apricot",,1,1,1,1,,1
+Fruit and fruit products,"Fruit compote, mixed fruit",0.3,0.3,0.3,,0.3,0.3,0.3
+Fruit and fruit products,"Fruit compote, sweet cherry",1,1,1,1,1,1,1
+Fruit and fruit products,Fruit preparations for fillings and/or flavouring,0,0,0,0,0,0,0
+Fruit and fruit products,Fruit salad,0.2,0.36,1,0.36,1,,1
+Fruit and fruit products,Gooseberries and similar-,0.1,0.35,0.2,0.35,,,
+Fruit and fruit products,Granate apples,,0.6,,0.6,,1,
+Fruit and fruit products,Grapefruits,0.1,0.1,1,0.1,,0.2,1
+Fruit and fruit products,Guavas and similar-,,,0.6,,1,1,1
+Fruit and fruit products,"Jam, apricots",,0.6,,,,,
+Fruit and fruit products,"Jam, blackberries",0,0,0,0,0,0,0
+Fruit and fruit products,"Jam, blueberries",0.3,,,,,,
+Fruit and fruit products,"Jam, cranberries",0.3,,,,,,
+Fruit and fruit products,"Jam, currants (black)",0.3,,,,,,
+Fruit and fruit products,"Jam, currants (red)",0.3,,,,,,
+Fruit and fruit products,"Jam, gooseberries",0,0,0,0,0,0,0
+Fruit and fruit products,"Jam, lingonberry",,,,,,0.3,
+Fruit and fruit products,"Jam, mixed fruit",0.3,0.5,,0.5,,0.3,
+Fruit and fruit products,"Jam, mixed fruit, SWEET Fructose",,0.3,0.3,0.3,0.3,,0.3
+Fruit and fruit products,"Jam, oranges",,0.3,,,,,
+Fruit and fruit products,"Jam, oranges, SWEET Fructose",0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Fruit and fruit products,"Jam, peaches",0,0,0,0,0,0,0
+Fruit and fruit products,"Jam, plums",0,0,0,,0,0,0
+Fruit and fruit products,"Jam, raspberries",0.3,,,,,,
+Fruit and fruit products,"Jam, rose hips",0,0,0,0,0,0,0
+Fruit and fruit products,"Jam, sour cherry",0,0,0,0,0,0,0
+Fruit and fruit products,"Jam, strawberries",0.3,0.3,,0.3,,,
+Fruit and fruit products,"Jam, strawberries, SWEET Fructose",0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Fruit and fruit products,"Jam, sweet cherry",,2,,2,,,
+Fruit and fruit products,Kaki and similar-,,0.6,0.6,0.6,0.6,,0.6
+Fruit and fruit products,"Kiwi fruits (green, red, yellow)",0.5,0.25,1,0.25,1,1,1
+Fruit and fruit products,Lemons,0.4,1.39,0.12,1.39,,0.4,1
+Fruit and fruit products,Limes,0.2,0.4,,,,0.2,
+Fruit and fruit products,Lingonberries,0.1,1.1,1.1,1.1,,,
+Fruit and fruit products,Litchis,,0.6,,0.6,,,
+Fruit and fruit products,Loganberries,0,0,0,0,0,0,0
+Fruit and fruit products,Loquats,1,0.6,1,0.6,1,1,1
+Fruit and fruit products,Mandarins,0.1,2.2,0.05,2.2,,0.1,
+Fruit and fruit products,Mandarins and similar-,0.1,2.2,0.4,2.2,,0.2,
+Fruit and fruit products,Mangoes,1,0.6,2,0.6,2,1,2
+Fruit and fruit products,"Marmalade, oranges",0.3,0.3,1,,,0.3,1
+Fruit and fruit products,"Marmalade, oranges, SWEET Fructose",0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Fruit and fruit products,Medlars,0.212,0.212,0.212,0.212,0.212,0.212,0.212
+Fruit and fruit products,Mixed dried fruits,3,,3,,3,3,3
+Fruit and fruit products,Mulberries (black and white),0.6,0.6,0.6,,0.6,0.6,0.6
+Fruit and fruit products,Oranges and similar-,0.1,0.6,0.22,0.6,,0.2,1
+Fruit and fruit products,Papayas,1,0.6,2,0.6,2,1,2
+Fruit and fruit products,Passionfruits,1,0.6,1,0.6,1,1,1
+Fruit and fruit products,Peaches and similar-,0.4,0.15,0.114,0.15,,0.2,1
+Fruit and fruit products,Pears and similar-,1,0.15,,0.15,,1,
+Fruit and fruit products,"Pears and similar-, PROCESS Cooking in water",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Fruit and fruit products,Pineapples,0.6,0.33,,0.33,,0.6,
+Fruit and fruit products,"Pineapples, PROCESS Baking",1,1,1,1,1,1,1
+Fruit and fruit products,Plums and similar-,0.1,,,,,0.1,
+Fruit and fruit products,Prickly pears,1,,1,,,1,
+Fruit and fruit products,Quinces,0.326,0.6,0.326,0.6,0.326,0.326,0.326
+Fruit and fruit products,Raspberries (red and yellow),0.1,0.2,,0.2,,,
+Fruit and fruit products,Raspberries and similar-,0.1,0.2,0.189,,,0.1,
+Fruit and fruit products,Redcurrants,0.1,0.068,0.068,,,0.1,
+Fruit and fruit products,Rose hips and similar-,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Fruit and fruit products,Sea buckthorns,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Fruit and fruit products,Sour cherries,0.1,0.1,0.1,1,1,,1
+Fruit and fruit products,Strawberries and similar-,0.1,0.1,0.1,0.1,,0.1,
+Fruit and fruit products,Table grapes,0.4,1,1,1,,0.4,1
+Fruit and fruit products,Tamarillos,0.3,,0.3,,0.3,0.3,0.3
+Fruit and fruit products,Tangelos (except minneolas),0.251,0.251,0.251,0.251,0.251,0.251,0.251
+Fruit and fruit products,Wine grapes,0.1,0.2,0.2,0.2,0.2,0.1,0.2
+Fruit and vegetable juices and nectars,Fruit smoothies,0,0,0,0,0,0,0
+Fruit and vegetable juices and nectars,"Juice concentrate, orange",0.042,0.042,0.042,0.042,0.042,0.042,0.042
+Fruit and vegetable juices and nectars,"Juice, apple",0.1,0.1,0.031,,,,
+Fruit and vegetable juices and nectars,"Juice, apple-cherry",0,0,0,0,0,0,0
+Fruit and vegetable juices and nectars,"Juice, apple-cherry, FORT Combination of vitamin and mineral only supplements",1,1,1,1,1,1,1
+Fruit and vegetable juices and nectars,"Juice, apple, FORT Vitamin only supplements",0,0,0,0,0,0,0
+Fruit and vegetable juices and nectars,"Juice, apricot-orange",0,0,0,0,0,0,0
+Fruit and vegetable juices and nectars,"Juice, apricot-orange, FORT Combination of vitamin and mineral only supplements",1,1,1,1,1,1,1
+Fruit and vegetable juices and nectars,"Juice, black currant",0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Fruit and vegetable juices and nectars,"Juice, carrot",0.1,0.6,1,0.6,1,0.1,1
+Fruit and vegetable juices and nectars,"Juice, cranberry",0.1,,,,,0.1,
+Fruit and vegetable juices and nectars,"Juice, grape",0.1,1.1,1,1.1,1,0.1,1
+Fruit and vegetable juices and nectars,"Juice, grapefruit",0.1,1.1,,,,0.1,1
+Fruit and vegetable juices and nectars,"Juice, lemon",1,0.1,0.12,0.1,1,1.8,1
+Fruit and vegetable juices and nectars,"Juice, lime",0.2,0.1,1,0.1,1,0.2,1
+Fruit and vegetable juices and nectars,"Juice, mango",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Fruit and vegetable juices and nectars,"Juice, mixed fruit",0.1,0.5,0.15,,,0.1,
+Fruit and vegetable juices and nectars,"Juice, multi-vegetable",0.2,0.34,0.208,0.34,0.208,,0.208
+Fruit and vegetable juices and nectars,"Juice, orange",0.1,0.6,0.042,0.6,,0.1,1
+Fruit and vegetable juices and nectars,"Juice, orange-grapefruit",0,0,0,,0,0,0
+Fruit and vegetable juices and nectars,"Juice, orange-grapefruit, FORT Combination of vitamin and mineral only supplements",1,0.5,1,0.5,1,1,1
+Fruit and vegetable juices and nectars,"Juice, orange-peach",,0.5,,0.5,,,
+Fruit and vegetable juices and nectars,"Juice, orange-peach, FORT Combination of vitamin and mineral only supplements",1,1,1,1,1,1,1
+Fruit and vegetable juices and nectars,"Juice, orange, FORT Vitamin only supplements",0.2,,,,,0.2,
+Fruit and vegetable juices and nectars,"Juice, pear",1,1,1,,1,1,1
+Fruit and vegetable juices and nectars,"Juice, pineapple",0.6,1.1,,,,0.2,
+Fruit and vegetable juices and nectars,"Juice, strawberry-cherry",0,0,0,0,0,0,0
+Fruit and vegetable juices and nectars,"Juice, strawberry-cherry, FORT Combination of vitamin and mineral only supplements",1,1,1,1,1,1,1
+Fruit and vegetable juices and nectars,"Juice, tomato",0.2,0.2,0.3,0.2,,0.5,
+Fruit and vegetable juices and nectars,"Juice, tomato-leafy vegetables",0.3,0.34,0.3,0.34,0.3,0.3,0.3
+Fruit and vegetable juices and nectars,Mixed fruit nectars,1,0.3,1,0.3,1,1,1
+Fruit and vegetable juices and nectars,Mixed vegetable juice,0.208,0.208,0.208,0.208,0.208,0.208,0.208
+Fruit and vegetable juices and nectars,Multivitamin juices,,1,1,1,1,,1
+Fruit and vegetable juices and nectars,"Multivitamin juices, FORT Vitamin only supplements",,0.5,1,0.5,1,1,1
+Fruit and vegetable juices and nectars,"Nectar, apple",1,1,1,1,1,1,1
+Fruit and vegetable juices and nectars,"Nectar, apricot",1,1.1,1,,1,1,1
+Fruit and vegetable juices and nectars,"Nectar, mango",1,1.1,1,1.1,1,1,1
+Fruit and vegetable juices and nectars,"Nectar, orange",,1.1,1,1.1,1,,1
+Fruit and vegetable juices and nectars,"Nectar, peach",1,,1,,1,1,1
+Fruit and vegetable juices and nectars,"Nectar, pear",1,,1,,1,1,1
+Fruit and vegetable juices and nectars,"Nectar, pineapple",1,1,1,,1,1,1
+Grains and grain-based products,Apple strudel,0.14,0.14,0.14,0.14,0.14,0.14,0.14
+Grains and grain-based products,Asian-style noodles other than glass noodles,20,20,20,20,20,20,20
+Grains and grain-based products,"Asian-style noodles other than glass noodles, PROCESS Cooking in water",1,1,1,1,1,1,1
+Grains and grain-based products,"Asian-style noodles other than glass noodles, PROCESS Steaming",1,1,1,1,1,1,1
+Grains and grain-based products,Baklava,2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Grains and grain-based products,Barley flour,8.6,1,1,1,1,8.6,1
+Grains and grain-based products,"Barley grain, pearled",8.6,2.3,2.3,1,1,8.6,1
+Grains and grain-based products,"Barley grain, pearled, PROCESS Cooking in water",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Grains and grain-based products,"Barley grain, pearled, PROCESS Steaming",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Grains and grain-based products,Barley porridge,0,0,0,0,0,0,0
+Grains and grain-based products,"Barley porridge, INGRED Cow milk, skimmed (low fat)",0,0,0,0,0,0,0
+Grains and grain-based products,"Barley porridge, INGRED Cow milk, whole",3.1,3.1,3.1,3.1,3.1,3.1,3.1
+Grains and grain-based products,"Barley porridge, INGRED Tap water",1.3,1.3,1.3,1.3,1.3,1.3,1.3
+Grains and grain-based products,Barley rolled grains,8.6,1,1,1,1,8.6,1
+Grains and grain-based products,Beignets,4,4,4,4,4,4,4
+Grains and grain-based products,"Biscuit with inclusions, filling or coating",2.9,5,5,5,5,1,5
+Grains and grain-based products,"Biscuits, chocolate",,5,24,,3,,3
+Grains and grain-based products,"Biscuits, oat meal",3.4,3.4,3.4,3.4,3.4,,3.4
+Grains and grain-based products,"Biscuits, sweet, plain",4.8,2,2,2,4,2.37,2
+Grains and grain-based products,"Biscuits, sweet, plain, FORT Combination of vitamin and mineral only supplements",8,8,8,8,8,8,8
+Grains and grain-based products,"Biscuits, sweet, plain, FORT Vitamin only supplements",6,6,6,6,6,6,6
+Grains and grain-based products,"Biscuits, sweet, wheat wholemeal",,4,4,4,4,1.92,4
+Grains and grain-based products,Bread and rolls with special ingredients added,6.9,4.5,6.9,4.5,10,6.9,4
+Grains and grain-based products,Bread stuffing,2,2,2,2,2,2,2
+Grains and grain-based products,Breadcrumbs,7.5,2.7,2.65,2.7,5,7.5,5
+Grains and grain-based products,Brioche type products,4,4,4,4,,4,
+Grains and grain-based products,Buckwheat flour,20,9,9,,9,20,9
+Grains and grain-based products,Buckwheat groats,5,20,20,9,9,5,9
+Grains and grain-based products,Buns,,0.14,2,0.14,3,2,2
+Grains and grain-based products,Butter biscuits,,7.3,2,7.3,3,1.61,3
+Grains and grain-based products,"Cake marbled, with chocolate",,2.5,2.5,2.5,2.5,,2.5
+Grains and grain-based products,Cereal bars mixed,,5,2.2,5,2.2,,2.2
+Grains and grain-based products,Cereal bran,,2,,4.3,2,,2
+Grains and grain-based products,Cereals and cereal-like grains not separately listed,7,7,7,7,7,7,7
+Grains and grain-based products,Chapatti flour,3,3,3,3,3,3,3
+Grains and grain-based products,Cheese cake,,,2,,2,1,2
+Grains and grain-based products,Chocolate cake,,11.5,2,11.5,6,5.35,2
+Grains and grain-based products,Chocolate cake with fruits,1,1,1,1,1,1,1
+Grains and grain-based products,Choux pastry doughs,3,3,3,3,3,3,3
+Grains and grain-based products,"Choux pastry doughs, PROCESS Baking",5,16,5,,5,5,5
+Grains and grain-based products,Common millet and similar-,16,16,16,2,2,16,2
+Grains and grain-based products,"Common millet and similar-, PROCESS Cooking in water",0.8,1,1,1,1,0.8,1
+Grains and grain-based products,"Common millet and similar-, PROCESS Steaming",0.8,1,1,1,1,0.8,1
+Grains and grain-based products,Common wheat grain,4.1,4.1,4.1,5,5,4.1,5
+Grains and grain-based products,Corn chips,4.8,0.6,0.6,0.6,7,4.8,3
+Grains and grain-based products,Corn curls,8,7,1.6,7,1.6,1,3
+Grains and grain-based products,"Cornmeal porridge, INGRED Cow milk, whole",2.9,2.9,2.9,2.9,2.9,2.9,2.9
+Grains and grain-based products,Couscous,7.7,,,,,7.7,
+Grains and grain-based products,"Couscous, PROCESS Cooking in water",3.5,2.2,,2.2,,0.48,
+Grains and grain-based products,"Couscous, PROCESS Steaming",3.5,2.2,,2.2,,0.48,
+Grains and grain-based products,Crackers and breadsticks,,,3,,4,3.62,4
+Grains and grain-based products,Cream cake,5.9,18.4,1,18.4,7,2,1
+Grains and grain-based products,Cream cheese cake,,2,2,2,2,2,2
+Grains and grain-based products,Cream custard cake,4.72,4.72,4.72,4.72,4.72,4.72,4.72
+Grains and grain-based products,"Crisp bread, rye wholemeal",,2.3,2.3,,2,5.51,3
+Grains and grain-based products,"Crisp bread, rye, refined flour",6.6,6.6,6.6,6.6,6.6,6.6,6.6
+Grains and grain-based products,"Crisp bread, wheat, refined flour",,,2.3,,2,,2
+Grains and grain-based products,"Crisp bread, wheat, wholemeal",9.8,15.3,15.3,2,2,11.4,2
+Grains and grain-based products,Croissant,,1,8,1,4,5.6,8
+Grains and grain-based products,Croissant from puff pastry,,1,8,,4,,8
+Grains and grain-based products,"Croissant, filled with chocolate",4,2.2,4,2.2,4,4,4
+Grains and grain-based products,Croquembouche,18.4,18.4,18.4,18.4,18.4,18.4,18.4
+Grains and grain-based products,Croutons,,1,4,1,4,,4
+Grains and grain-based products,Doughnuts-berliner,4.8,2.2,3,2.2,3,3.89,
+Grains and grain-based products,"Dried egg pasta, PROCESS Cooking in water",,15.6,15.6,15.6,15.6,15.6,15.6
+Grains and grain-based products,Durum wheat grain,5,,5,3.8,5,5,5
+Grains and grain-based products,"Durum wheat grain, PROCESS Cooking in water",1.6,1.6,1.6,3.8,1.6,1.6,1.6
+Grains and grain-based products,"Durum wheat grain, PROCESS Steaming",1.6,1.6,1.6,1.6,1.6,1.6,1.6
+Grains and grain-based products,Éclair,4,2.2,4,2.2,4,4,4
+Grains and grain-based products,"Extruded, pressed or puffed bread",,,6.1,,,6.1,
+Grains and grain-based products,Flan tart,1,2.2,1,2.2,2,1,1
+Grains and grain-based products,Flour mix (like wheat/rye/barley/oats and other),9.5,9.5,9.5,9.5,9.5,9.5,9.5
+Grains and grain-based products,Fresh egg pasta,,,23,,23,,23
+Grains and grain-based products,"Fresh egg pasta, PROCESS Cooking in water",,15.6,13,15.6,13,,13
+Grains and grain-based products,"Fresh egg pasta, PROCESS Steaming",,13,13,13,13,,13
+Grains and grain-based products,Fruit cake,,1.1,2,1.1,3,0.4,2
+Grains and grain-based products,Fruit pie-tarts,,,,,2,,
+Grains and grain-based products,Gingerbread,5,,5,,5,5,2
+Grains and grain-based products,"Gingerbread dough, PROCESS Baking",2,,2,,2,2,2
+Grains and grain-based products,"Gnocchi, PROCESS Cooking in water",5,5,5,5,5,5,5
+Grains and grain-based products,Gougere,6,8.2,6,8.2,6,6,6
+Grains and grain-based products,Graham flour,0.1,6,0.1,6,0.1,0.1,6
+Grains and grain-based products,"Indian rice grain, PROCESS Cooking in water",0.8,0.8,0.8,0.8,0.8,0.8,0.8
+Grains and grain-based products,"Indian rice grain, PROCESS Steaming",0.8,0.8,0.8,0.8,0.8,0.8,0.8
+Grains and grain-based products,"Ingredient rich fine dough without yeast, PROCESS Baking",4,4,4,4,4,4,4
+Grains and grain-based products,Kringles,7,7,7,7,7,7,7
+Grains and grain-based products,"Leavened bread doughs-deprecated, PROCESS Baking",,5.5,28,5.5,28,,28
+Grains and grain-based products,Lebkuchen,16,16,16,16,16,16,16
+Grains and grain-based products,Macaroons,0.99,,2,,3,0.99,2
+Grains and grain-based products,Maize flour,8,,3.2,3.2,3.2,8,3.2
+Grains and grain-based products,Maize starch,0,0,0,0,0,0,0
+Grains and grain-based products,Marzipan pie,1.49,1,2,1,2,1.49,2
+Grains and grain-based products,Meringue,8.1,3,4,,4,3.02,4
+Grains and grain-based products,Meringue tart,,2,2,2,1,0.74,2
+Grains and grain-based products,Millet flour,2,2,2,2,2,2,2
+Grains and grain-based products,Millet groats,2,2,2,2,2,2,2
+Grains and grain-based products,Miscellaneous mixed and processed breakfast cereals-deprecated,31.1,6.9,4,6.9,4,4,4
+Grains and grain-based products,Mixed breakfast cereals,5.1,10.8,10.8,10.8,10.8,5.1,10.8
+Grains and grain-based products,Mixed cereal-based snacks,4.34,0.683,0.683,0.683,0.683,4.34,0.683
+Grains and grain-based products,Muesli plain,5.9,13.8,4,13.8,4,5.9,4
+Grains and grain-based products,Muffins,,7.2,3,7.2,3,,3
+Grains and grain-based products,Multigrain (not only rye-wheat) bread and rolls,4.1,8,3.2,8,6,4.1,6
+Grains and grain-based products,"Noodle, rice",15.1,15.1,15.1,15.1,15.1,15.1,15.1
+Grains and grain-based products,"Noodle, rice, PROCESS Cooking in water",5.8,5.8,5.8,5.8,5.8,5.8,5.8
+Grains and grain-based products,"Noodle, rice, PROCESS Steaming",5.8,5.8,5.8,5.8,5.8,5.8,5.8
+Grains and grain-based products,Nut cream cake,,3,3,3,1,,3
+Grains and grain-based products,Oat bran,8.6,1,1,1,1,1,1
+Grains and grain-based products,Oat flour,8.6,8.6,8.6,8.6,8.6,8.6,8.6
+Grains and grain-based products,Oat groats,1.1,3,3,3,3,3,3
+Grains and grain-based products,Oat porridge,1.1,3,3,3,1,1.1,3
+Grains and grain-based products,"Oat porridge, INGRED Cow milk, skimmed (low fat)",3.2,3.2,3.2,3.2,3.2,3.2,3.2
+Grains and grain-based products,"Oat porridge, INGRED Cow milk, whole",3.2,1,1,1,1,3.2,1
+Grains and grain-based products,"Oat porridge, INGRED Tap water",1.1,1,1,1,1,1.1,1
+Grains and grain-based products,Oat rolled grains,1,3,3,3,7,1,3
+Grains and grain-based products,"Oat rolled grains, instant",3,3,3,3,7,3,3
+Grains and grain-based products,Pancakes,,3,2,3,3,1.7,2
+Grains and grain-based products,Pasta flavoured and/or/coloured-deprecated,9.8,9.8,9.8,9.8,9.8,9.8,9.8
+Grains and grain-based products,Pasta wholemeal,8.1,2,2,16,4,8.1,16
+Grains and grain-based products,"Pasta wholemeal, PROCESS Cooking in water",,25.9,6,25.9,11,6,6
+Grains and grain-based products,"Pasta wholemeal, PROCESS Steaming",6,6,6,6,11,6,6
+Grains and grain-based products,"Pasta, gluten free",2.4,2.4,2.4,2.4,2.4,2.4,2.4
+Grains and grain-based products,"Pasta, simple-deprecated",7.7,4.8,4.8,2.7,20,7.7,17
+Grains and grain-based products,"Pasta, simple-deprecated, PROCESS Cooking in water",1.8,1,1.8,1,1,1.8,5
+Grains and grain-based products,"Pasta, simple-deprecated, PROCESS Steaming",1,1,1,1,1,1,1
+Grains and grain-based products,Pita bread,4.9,2,2,2,3,1.38,2
+Grains and grain-based products,"Pizza base, cooked",,3,3,3,3,,3
+Grains and grain-based products,"Popcorn (maize, popped)",7,9.9,1,9.9,1,1,1
+Grains and grain-based products,Popcorn kernels,5,5,5,15.5,5,5,5
+Grains and grain-based products,Popped cereals,13.2,1.1,2,1.1,2,13.2,2
+Grains and grain-based products,Processed and mixed breakfast cereals,1.2,13.1,13.1,13.1,13.1,13.1,13.1
+Grains and grain-based products,Processed maize-based flakes,2.9,3.6,5,2,5,4.61,5
+Grains and grain-based products,Processed mixed cereal-based flakes,,50,50,50,50,6.6,50
+Grains and grain-based products,Processed oat-based flakes,8.6,7,7,7,7,8.6,7
+Grains and grain-based products,Processed rice-based flakes,,1,2.44,1,1,2.44,1
+Grains and grain-based products,Processed rye-based flakes,2.8,2,2,2,2,2.8,2
+Grains and grain-based products,Processed wheat-based flakes,9.9,12,4,12,4,9.9,4
+Grains and grain-based products,Profiterole,5,6,5,6,4,5,5
+Grains and grain-based products,Pumpernickel,4.3,2.2,2.2,2.2,1,1,1
+Grains and grain-based products,Rice chips,,8,8,8,8,,8
+Grains and grain-based products,Rice flour,15,3.1,3.1,3,3,15,3
+Grains and grain-based products,"Rice grain, brown",13.6,2.2,2.2,10,10,13.6,10
+Grains and grain-based products,"Rice grain, brown, PROCESS Cooking in water",5.5,2.2,4,2.2,9,5.33,4
+Grains and grain-based products,"Rice grain, brown, PROCESS Steaming",5.5,2.2,4,2.2,9,5.33,4
+Grains and grain-based products,"Rice grain, long-grain",2,6.2,13,6.2,13,2,13
+Grains and grain-based products,"Rice grain, long-grain, PROCESS Cooking in water",6,1,5,1,1,4.66,5
+Grains and grain-based products,"Rice grain, long-grain, PROCESS Steaming",6,1,5,1,1,4.66,5
+Grains and grain-based products,"Rice grain, mixed",2.2,10,10,10,10,2.2,10
+Grains and grain-based products,"Rice grain, mixed, PROCESS Cooking in water",9.2,4,4,4,4,9.2,4
+Grains and grain-based products,"Rice grain, mixed, PROCESS Steaming",9.2,9.2,9.2,9.2,9.2,9.2,9.2
+Grains and grain-based products,"Rice grain, parboiled",2,10.8,6,14,6,7,13
+Grains and grain-based products,"Rice grain, parboiled, PROCESS Cooking in water",3.3,1,5,1,5,5,5
+Grains and grain-based products,"Rice grain, parboiled, PROCESS Steaming",5,8.2,5,8.2,5,5,5
+Grains and grain-based products,"Rice grain, polished",15,6.2,6,10,13,2.7,10
+Grains and grain-based products,Rice porridge,3.2,1,1,1,1,1,1
+Grains and grain-based products,"Rice porridge, INGRED Cow milk, skimmed (low fat)",4.3,4.3,4.3,4.3,4.3,4.3,4.3
+Grains and grain-based products,"Rice porridge, INGRED Cow milk, whole",4.4,1,1,1,1,4.4,1
+Grains and grain-based products,"Rice, popped",13.2,9.2,10,9.2,10,13.2,10
+Grains and grain-based products,"Rusk, refined flour",4.54,1.7,2.1,1.7,5,4.54,5
+Grains and grain-based products,"Rusk, wholemeal",4.48,1.7,2,1.7,2,4.48,2
+Grains and grain-based products,Rye bran,2.8,2.8,2.8,2.8,2.8,2.8,2.8
+Grains and grain-based products,"Rye bread, refined flour",,2.83,2.83,2.83,2.83,,2.83
+Grains and grain-based products,"Rye bread, wholemeal",,1.1,1.1,1.1,3,0.69,3
+Grains and grain-based products,"Rye flour, light",1,1,1,1,1,1,1
+Grains and grain-based products,"Rye flour, medium",1,,,,,1,
+Grains and grain-based products,"Rye flour, wholemeal",2.8,1.5,1.5,,1.5,2.8,3
+Grains and grain-based products,Rye groats,2.8,2.8,2.8,2.8,2.8,2.8,2.8
+Grains and grain-based products,Rye porridge,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Grains and grain-based products,"Rye porridge, INGRED Cow milk, whole",2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Grains and grain-based products,"Rye porridge, INGRED Tap water",0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Grains and grain-based products,Rye rolled grains,2,2,2,2,2,2,2
+Grains and grain-based products,Rye starch,1,1,1,1,1,1,1
+Grains and grain-based products,"Rye-wheat bread, refined flour",,3.2,2,3.2,2,1,2
+Grains and grain-based products,"Rye-wheat bread, wholemeal",5.1,4,4,4,4,2.63,4
+Grains and grain-based products,Scones and similar,2,2,2,2,2,2,2
+Grains and grain-based products,Short pastry dough and similar,8.3,1,1,1,1,8.3,1
+Grains and grain-based products,"Short pastry dough and similar, PROCESS Baking",1,,1,,1,1,1
+Grains and grain-based products,Speculaas,4,4,4,4,4,4,4
+Grains and grain-based products,Spelt flour,23.5,23.5,23.5,23.5,23.5,23.5,23.5
+Grains and grain-based products,Spice cakes,5.3,,2.6,,8,5.3,8
+Grains and grain-based products,Sponge cake,6.4,2,10,2,10,6.4,10
+Grains and grain-based products,"Sponge cake dough (génoise), PROCESS Baking",10,2,10,2,10,10,10
+Grains and grain-based products,Sponge cake roll,,2.5,5,2.5,3,2.39,5
+Grains and grain-based products,"Sticks, salty",,,1,,,1,
+Grains and grain-based products,Sweet almond pastry mass,3,3,3,3,3,3,3
+Grains and grain-based products,Tortilla,4.8,2,2,2,,5,2
+Grains and grain-based products,Tortilla chips,1,5.6,1.6,5.6,7,0.5,3
+Grains and grain-based products,"Unleavened doughs, PROCESS Baking",2,2,2,2,2,2,2
+Grains and grain-based products,Waffles,,8,4,8,2,4,4
+Grains and grain-based products,Wheat bran,9.5,6.8,6.8,4.3,2,9.5,2
+Grains and grain-based products,Wheat bran rolled flakes,8.1,13.1,13.1,13.1,13.1,8.1,13.1
+Grains and grain-based products,"Wheat bread and rolls, brown or wholemeal",5.5,4.5,1.7,4.5,4,,4
+Grains and grain-based products,"Wheat bread and rolls, white (refined flour)",,4.6,2.65,4.6,4,1.38,
+Grains and grain-based products,"Wheat bread and rolls, white with maize",,5,5,5,5,,5
+Grains and grain-based products,Wheat flour white,7.7,,2,2,5,7.7,2
+Grains and grain-based products,"Wheat flour, brown",9.5,4,4,4,4,9.5,4
+Grains and grain-based products,"Wheat flour, durum",7,5,5,2.3,5,7,5
+Grains and grain-based products,Wheat germ,9.5,2,3,3.9,3,9.5,3
+Grains and grain-based products,Wheat germs rolled flakes,4.12,4.12,4.12,4.12,4.12,4.12,4.12
+Grains and grain-based products,Wheat groats,7,7,7,7,7,7,7
+Grains and grain-based products,Wheat semolina,7.7,1,1,1,1,7.7,1
+Grains and grain-based products,"Wheat semolina porridge, INGRED Cow milk, whole",3,1,1,1,1,3,1
+Grains and grain-based products,"Wheat semolina porridge, INGRED Tap water",1,1,1,1,1,1,1
+Grains and grain-based products,Wheat wholemeal flour,9.5,0.1,0.1,6,0.1,9.5,6
+Grains and grain-based products,"Wheat, popped",3.78,1.1,3.78,1.1,1.1,3.78,1.1
+Grains and grain-based products,"Yeast leavened sweet doughs, PROCESS Baking",3,,3,,3,3,3
+Human milk,Human milk,1.1,,1,,1,1.1,
+"Legumes, nuts, oilseeds and spices",Allspice fruit,5,5,5,5,5,5,5
+"Legumes, nuts, oilseeds and spices",Almonds sweet,2,2.2,2,1.5,2,2,2
+"Legumes, nuts, oilseeds and spices","Almonds sweet, PROCESS Baking",2,4,4,4,4,2,4
+"Legumes, nuts, oilseeds and spices",Anise seed,5,5,5,5,5,5,5
+"Legumes, nuts, oilseeds and spices",Azuki beans (dry),,2,2,,2,,2
+"Legumes, nuts, oilseeds and spices","Azuki beans (dry), PROCESS Cooking in water",1,1,1,1,1,1,1
+"Legumes, nuts, oilseeds and spices","Azuki beans (dry), PROCESS Steaming",1,1,1,1,1,1,1
+"Legumes, nuts, oilseeds and spices",Beans (dry) and similar-,8.8,8.8,8.8,16,9,8.8,16
+"Legumes, nuts, oilseeds and spices","Beans (dry) and similar-, PROCESS Cooking in water",6,2.2,6,1.4,2,6,6
+"Legumes, nuts, oilseeds and spices","Beans (dry) and similar-, PROCESS Steaming",6,2.2,6,1.4,2,6,6
+"Legumes, nuts, oilseeds and spices","Beans (fresh seeds without pods) and similar-, PROCESS Cooking in water",2.7,2.7,2.7,2.7,2.7,2.7,2.7
+"Legumes, nuts, oilseeds and spices","Beans (fresh seeds without pods) and similar-, PROCESS Steaming",2.7,2.7,2.7,2.7,2.7,2.7,2.7
+"Legumes, nuts, oilseeds and spices",Bitter almonds,4,2,2,2,2,4,2
+"Legumes, nuts, oilseeds and spices",Borlotti or other common beans (dry),8.8,8.8,8.8,16,9,8.8,9
+"Legumes, nuts, oilseeds and spices","Borlotti or other common beans (dry), PROCESS Cooking in water",8.1,2.2,2,6,2,2,2
+"Legumes, nuts, oilseeds and spices","Borlotti or other common beans (dry), PROCESS Steaming",8.1,2.2,2,6,2,2,2
+"Legumes, nuts, oilseeds and spices",Broad beans (dry),2.5,2.5,2.5,2.5,2.5,2.5,2.5
+"Legumes, nuts, oilseeds and spices","Broad beans (dry), PROCESS Cooking in water",1.8,1.8,1.8,1.8,1.8,1.8,1.8
+"Legumes, nuts, oilseeds and spices","Broad beans (dry), PROCESS Steaming",1.8,1.8,1.8,1.8,1.8,1.8,1.8
+"Legumes, nuts, oilseeds and spices",Broad beans (without pods),1,1,1,1,1,1,1
+"Legumes, nuts, oilseeds and spices","Broad beans (without pods), PROCESS Cooking in water",3,3,3,3,3,3,3
+"Legumes, nuts, oilseeds and spices","Broad beans (without pods), PROCESS Steaming",3,3,3,3,3,3,3
+"Legumes, nuts, oilseeds and spices",Canned or jarred chickpea,11,2.8,11,1,11,11,1
+"Legumes, nuts, oilseeds and spices",Canned or jarred common beans,8.2,1.6,1.02,6,1,8.2,6
+"Legumes, nuts, oilseeds and spices",Canned or jarred lentils,2.8,2.8,2.8,4,2.8,2.8,2.8
+"Legumes, nuts, oilseeds and spices",Canned or jarred peas,0.6,0.6,1,0.6,1,1,1
+"Legumes, nuts, oilseeds and spices",Capers buds,,1.2,1,,1,,1
+"Legumes, nuts, oilseeds and spices",Caraway fruit,5.2,5.2,5.2,5.2,5.2,5.2,5.2
+"Legumes, nuts, oilseeds and spices",Cashew nuts,11,29,29,12,37,11,29
+"Legumes, nuts, oilseeds and spices","Cashew nuts, PROCESS Baking",2,,,,,2,
+"Legumes, nuts, oilseeds and spices",Chestnut puree (castanea vulgaris),10.2,10.2,10.2,10.2,10.2,10.2,10.2
+"Legumes, nuts, oilseeds and spices",Chestnuts,0,0,0,0,0,0,0
+"Legumes, nuts, oilseeds and spices","Chestnuts, PROCESS Baking",2,1.2,2,1.2,1.2,2,1.2
+"Legumes, nuts, oilseeds and spices","Chestnuts, PROCESS Cooking in water",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+"Legumes, nuts, oilseeds and spices",Chickpea flour,2,2,2,,2,2,2
+"Legumes, nuts, oilseeds and spices",Chickpeas (dry),2,2,2,2,2,2,2
+"Legumes, nuts, oilseeds and spices","Chickpeas (dry), PROCESS Cooking in water",5,2,1,1,1,,1
+"Legumes, nuts, oilseeds and spices","Chickpeas (dry), PROCESS Steaming",5,2,1,1,1,5,1
+"Legumes, nuts, oilseeds and spices",Cinnamon bark and similar-,3.1,1.1,3.1,,15,3.1,15
+"Legumes, nuts, oilseeds and spices",Coconut milk (cocos nucifera) liquid,0.4,3,3,3,3,,3
+"Legumes, nuts, oilseeds and spices",Coconuts,1,6,2,0.8,10,1,1
+"Legumes, nuts, oilseeds and spices","Coconuts, PROCESS Drying (dehydration)",1,13.8,12,13.8,12,1,12
+"Legumes, nuts, oilseeds and spices",Coriander seed,26.2,26.2,26.2,26.2,26.2,26.2,26.2
+"Legumes, nuts, oilseeds and spices",Cumin seed,5.2,5.2,5.2,,5.2,5.2,5.2
+"Legumes, nuts, oilseeds and spices",Garden peas (dry),2.1,14,14,3,3,2.1,3
+"Legumes, nuts, oilseeds and spices","Garden peas (dry), PROCESS Cooking in water",,3.4,1,3.4,1,,1
+"Legumes, nuts, oilseeds and spices","Garden peas (dry), PROCESS Steaming",,3.4,1,3.4,1,,1
+"Legumes, nuts, oilseeds and spices",Ginger roots,,38.5,38.5,38.5,38.5,,38.5
+"Legumes, nuts, oilseeds and spices",Hazelnuts,2,2.8,2.1,2,2,2,2
+"Legumes, nuts, oilseeds and spices","Hazelnuts, PROCESS Baking",3,3,3,3,3,3,3
+"Legumes, nuts, oilseeds and spices",Kidney bean (dry seeds),16,,16,16,16,16,16
+"Legumes, nuts, oilseeds and spices","Kidney bean (dry seeds), PROCESS Cooking in water",,,6,6,6,,6
+"Legumes, nuts, oilseeds and spices","Kidney bean (dry seeds), PROCESS Steaming",6,,6,6,6,6,6
+"Legumes, nuts, oilseeds and spices",Lentils (dry),11,,,10.5,,,
+"Legumes, nuts, oilseeds and spices","Lentils (dry), PROCESS Cooking in water",,2.8,,4,,,
+"Legumes, nuts, oilseeds and spices","Lentils (dry), PROCESS Steaming",,2.8,,4,,,
+"Legumes, nuts, oilseeds and spices",Lentils (without pods),,10.5,10.5,10.5,,,10.5
+"Legumes, nuts, oilseeds and spices","Lentils (without pods), PROCESS Cooking in water",40,4,4,4,4,4,4
+"Legumes, nuts, oilseeds and spices","Lentils (without pods), PROCESS Steaming",4,4,4,4,4,4,4
+"Legumes, nuts, oilseeds and spices",Linseeds,2.8,,,,,2,
+"Legumes, nuts, oilseeds and spices",Macadamias,,3.6,7,4,12,,7
+"Legumes, nuts, oilseeds and spices",Mung beans (dry),8.8,8.8,8.8,,8.8,8.8,16
+"Legumes, nuts, oilseeds and spices","Mung beans (dry), PROCESS Cooking in water",0.7,5,5,5,5,0.7,5
+"Legumes, nuts, oilseeds and spices","Mung beans (dry), PROCESS Steaming",0.7,5,5,5,5,0.7,5
+"Legumes, nuts, oilseeds and spices",Navy beans (dry seeds),12,12,12,12,12,12,12
+"Legumes, nuts, oilseeds and spices","Navy beans (dry seeds), PROCESS Cooking in water",4,2.2,4,2.2,4,4,4
+"Legumes, nuts, oilseeds and spices","Navy beans (dry seeds), PROCESS Steaming",4,2.2,4,2.2,4,4,4
+"Legumes, nuts, oilseeds and spices",Nutmeg seed,1.6,1.6,1.6,,1.6,1.6,1.6
+"Legumes, nuts, oilseeds and spices","Olives, processed",0.12,0.12,0.12,1,1,0.12,1
+"Legumes, nuts, oilseeds and spices",Paprika powder,4,4,4,,4,4,4
+"Legumes, nuts, oilseeds and spices",Peanut butter,2,6.25,0.9,6.25,9,2,3
+"Legumes, nuts, oilseeds and spices",Peanuts,3,4.7,6.9,4.7,6.9,3,3
+"Legumes, nuts, oilseeds and spices","Peanuts, PROCESS Baking",3,4.7,3,4.7,16,3,3
+"Legumes, nuts, oilseeds and spices",Peas (without pods) and similar-,1,1.02,1.02,1,1,1,1
+"Legumes, nuts, oilseeds and spices","Peas (without pods) and similar-, PROCESS Cooking in water",0.3,0.9,1,0.9,1,0.3,1
+"Legumes, nuts, oilseeds and spices","Peas (without pods) and similar-, PROCESS Steaming",1,0.9,1,0.9,1,1,1
+"Legumes, nuts, oilseeds and spices",Pecans,,4.5,12,6,12,10,12
+"Legumes, nuts, oilseeds and spices","Peppercorn (black, green and white) and similar-",3.1,3.1,3,3.1,3,3.1,3
+"Legumes, nuts, oilseeds and spices",Pine nut kernels and similar-,2,2,2,2,2,2,2
+"Legumes, nuts, oilseeds and spices","Pine nut kernels and similar-, PROCESS Baking",2,2,2,2,2,2,2
+"Legumes, nuts, oilseeds and spices",Pistachios,,4.7,4.7,8,4.7,,4.7
+"Legumes, nuts, oilseeds and spices","Pistachios, PROCESS Baking",2,4.7,6,4.7,20,2,6
+"Legumes, nuts, oilseeds and spices",Poppy seeds,18,18,18,18,18,18,18
+"Legumes, nuts, oilseeds and spices","Poppy seeds, PROCESS Baking",18,18,18,18,18,18,18
+"Legumes, nuts, oilseeds and spices",Pumpkin seeds,6,6,6,6,6,6,6
+"Legumes, nuts, oilseeds and spices","Pumpkin seeds, PROCESS Baking",2,7,7,7,7,2,7
+"Legumes, nuts, oilseeds and spices",Sesame paste (tahini) (sesamus indicum),,6.9,6.9,6.9,34,,34
+"Legumes, nuts, oilseeds and spices",Sesame seeds,49,5.7,24.4,5.7,24.4,49,24.4
+"Legumes, nuts, oilseeds and spices","Sesame seeds, PROCESS Baking",2,2,2,2,2,2,2
+"Legumes, nuts, oilseeds and spices",Soya proteins,9,9,9,9,9,9,9
+"Legumes, nuts, oilseeds and spices",Sunflower seeds,49,57.8,56,,49,49,49
+"Legumes, nuts, oilseeds and spices","Sunflower seeds, PROCESS Baking",,51,51,51,51,,51
+"Legumes, nuts, oilseeds and spices",Table olives ready for consumption,1.1,2.2,0.9,2.2,1,,1
+"Legumes, nuts, oilseeds and spices","Thyme, dry",,4.6,,,,,
+"Legumes, nuts, oilseeds and spices",Walnuts,19,2.2,1.7,3.1,12,2,3
+Meat and meat products,Bacon,5.6,8.3,8.3,8,8,5.6,8
+Meat and meat products,"Bacon, PROCESS Baking",5,12,12,12,12,5,12
+Meat and meat products,"Bacon, PROCESS Frying",7.6,,13.6,,13.6,7.6,12
+Meat and meat products,Beef kidney,150,150,150,145,150,150,150
+Meat and meat products,"Beef kidney, PROCESS Baking",120,169,120,169,120,120,120
+Meat and meat products,"Beef kidney, PROCESS Cooking in water",192.9,169,210,169,210,192.9,210
+Meat and meat products,"Beef kidney, PROCESS Frying",150.6,,,,150.6,,
+Meat and meat products,"Beef kidney, PROCESS Steaming",192.9,168,210,168,210,192.9,210
+Meat and meat products,Beef liver,46,22,22,42,29,46,22
+Meat and meat products,"Beef liver, PROCESS Baking",30,30,30,30,30,30,30
+Meat and meat products,"Beef liver, PROCESS Cooking in water",50,50,50,50,50,50,50
+Meat and meat products,"Beef liver, PROCESS Frying",27,27,27,27,39,27,27
+Meat and meat products,"Beef liver, PROCESS Steaming",50,50,50,50,50,50,50
+Meat and meat products,Blood-type sausage,6.5,11,14,11,14,3,6
+Meat and meat products,"Bologna-type sausage, PROCESS Cooking in water",18.9,8,8,8,8,18.9,8
+Meat and meat products,"Bologna-type sausage, PROCESS Steaming",18.9,8,8,8,8,18.9,8
+Meat and meat products,"Bologna-type sausage, QUAL Low fat (naturally or reduced), PROCESS Cooking in water",8,8,8,8,8,8,8
+Meat and meat products,"Bologna-type sausage, QUAL Low fat (naturally or reduced), PROCESS Steaming",8,8,8,8,8,8,8
+Meat and meat products,"Bologna-type sausage, QUAL Low sodium / reduced salt, PROCESS Cooking in water",20.1,20.1,20.1,20.1,20.1,20.1,20.1
+Meat and meat products,"Bologna-type sausage, QUAL Low sodium / reduced salt, PROCESS Steaming",20.1,20.1,20.1,20.1,20.1,20.1,20.1
+Meat and meat products,Bovine and pig fresh meat,23,9,9,9,9,23,9
+Meat and meat products,"Bovine and pig fresh meat, PROCESS Frying",15,15,15,15,15,15,15
+Meat and meat products,"Bovine and pig fresh meat, QUAL Half fat or medium fat, PROCESS Frying",30,30,30,30,30,30,30
+Meat and meat products,Bovine fresh meat,3.83,,7,3,8,7,7
+Meat and meat products,"Bovine fresh meat, PROCESS Baking",,16,6.9,16,6.9,,11
+Meat and meat products,"Bovine fresh meat, PROCESS Cooking in water",,,10,,10,,10
+Meat and meat products,"Bovine fresh meat, PROCESS Frying",18.4,9,9,9,11,18.4,9
+Meat and meat products,"Bovine fresh meat, PROCESS Steaming",,10,10,10,10,,10
+Meat and meat products,Bovine heart,14,14,14,3,14,14,3
+Meat and meat products,"Bovine heart, PROCESS Baking",38.9,38.9,38.9,38.9,38.9,38.9,38.9
+Meat and meat products,"Bovine heart, PROCESS Cooking in water",,38.9,,38.9,,,
+Meat and meat products,"Bovine heart, PROCESS Steaming",,38.9,,38.9,,,
+Meat and meat products,Bovine marrowbone,21,21,21,21,21,21,21
+Meat and meat products,Bovine tongue,13.5,2,2,2,2,13.5,2
+Meat and meat products,"Bovine tongue, PROCESS Baking",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Meat and meat products,"Bovine tongue, PROCESS Cooking in water",19.3,2.2,2.2,2.2,2.2,19.3,2.2
+Meat and meat products,"Bovine tongue, PROCESS Frying",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Meat and meat products,"Bovine tongue, PROCESS Steaming",19.3,2.2,2.2,2.2,2.2,19.3,2.2
+Meat and meat products,Breakfast-type sausage,6.04,6.04,6.04,6.04,6.04,6.04,5
+Meat and meat products,"Breakfast-type sausage, PROCESS Baking",6,6,6,6,6,6,6
+Meat and meat products,"Breakfast-type sausage, PROCESS Cooking in water",4.8,4.8,4.8,4.8,4.8,4.8,4.8
+Meat and meat products,"Breakfast-type sausage, PROCESS Frying",6,6,6,6,6,6,6
+Meat and meat products,Canned meat,19.7,12.1,12.1,7,7,19.7,7
+Meat and meat products,Chicken fresh meat,13,,12,10,18,13,12
+Meat and meat products,"Chicken fresh meat, PROCESS Baking",17.3,17.3,9.9,17.3,17,17.3,16
+Meat and meat products,"Chicken fresh meat, PROCESS Cooking in water",,,15,,15,15,15
+Meat and meat products,"Chicken fresh meat, PROCESS Frying",15.6,25,15.6,25,18,,15
+Meat and meat products,"Chicken fresh meat, PROCESS Steaming",,25,15,25,15,15,15
+Meat and meat products,Chicken liver,51,49,49,49,49,51,49
+Meat and meat products,"Chicken liver, PROCESS Baking",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Meat and meat products,"Chicken liver, PROCESS Steaming",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Meat and meat products,Chorizo and similar,,4.9,11,4.9,11,6.8,11
+Meat and meat products,"Chorizo and similar, QUAL Low fat (naturally or reduced)",7.9,7.9,7.9,7.9,7.9,7.9,7.9
+Meat and meat products,Cooked bovine tongue,2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Meat and meat products,"Cooked bratwurst-type sausage, PROCESS Cooking in water",,4.8,4.8,4.8,4.8,,4.8
+Meat and meat products,Cooked other poultry meat,,11,11,11,11,,11
+Meat and meat products,Cooked pork ham,,9.9,7.5,5.6,11,6,11
+Meat and meat products,Cooked pork tongue,12,12,12,12,12,12,12
+Meat and meat products,"Cooked sausages (generic), QUAL Low fat (naturally or reduced)",8,6,6,6,8,8,6
+Meat and meat products,Cooked turkey meat,5,32,11,32,11,5,11
+Meat and meat products,"Corned beef, uncooked",,8,8,,,,8
+Meat and meat products,"Corned beef, uncooked, PROCESS Cooking in water",8,8,8,8,8,8,8
+Meat and meat products,"Corned beef, uncooked, PROCESS Steaming",8,8,8,8,8,8,8
+Meat and meat products,"Corned pork meat, cooked",10.4,10.4,10.4,10.4,10.4,10.4,10.4
+Meat and meat products,Cured pork fat,6.9,6.9,6.9,6.9,6.9,6.9,6.9
+Meat and meat products,"Cured seasoned poultry meat, PROCESS Baking",18,18,18,18,18,18,18
+Meat and meat products,"Deer, fallow fresh meat",9,9,9,9,9,9,9
+Meat and meat products,"Deer, red fresh meat",7.45,9,9,9,9,7.45,9
+Meat and meat products,Dry and fermented sausages-deprecated,5,10.4,7,10.4,11,7,7
+Meat and meat products,"Dry and fermented sausages-deprecated, QUAL Low fat (naturally or reduced)",11,11,11,11,11,11,11
+Meat and meat products,Duck fresh meat,34,34,34,22,34,34,34
+Meat and meat products,"Duck fresh meat, PROCESS Baking",,,24,,24,,22
+Meat and meat products,"Duck liver, PROCESS Baking",61,61,61,61,61,61,61
+Meat and meat products,Equine fresh meat,3,3,3,3,3,3,3
+Meat and meat products,"Equine fresh meat, PROCESS Baking",10,5,10,5,10,10,10
+Meat and meat products,European moose meat,4,8,8,8,4,8,8
+Meat and meat products,"European moose meat, PROCESS Baking",5.7,5.7,5.7,5.7,5.7,5.7,5.7
+Meat and meat products,"European moose meat, PROCESS Frying",5.7,,,,5.7,,
+Meat and meat products,"Frankfurt-type sausage, PROCESS Baking",8,8,8,8,8,8,8
+Meat and meat products,"Frankfurt-type sausage, PROCESS Cooking in water",2,,2,8,7,2,7
+Meat and meat products,"Frankfurt-type sausage, PROCESS Steaming",7,,7,,7,7,7
+Meat and meat products,"Frankfurt-type sausage, QUAL Low fat (naturally or reduced), PROCESS Cooking in water",7,7,7,7,7,7,7
+Meat and meat products,"Frankfurt-type sausage, QUAL Low fat (naturally or reduced), PROCESS Steaming",7,7,7,7,7,7,7
+Meat and meat products,"Frankfurter sausage, PROCESS Baking",7.2,7.2,7.2,7.2,7.2,7.2,8
+Meat and meat products,"Frankfurter sausage, PROCESS Cooking in water",10,2,7.2,2,7,10,7
+Meat and meat products,"Frankfurter sausage, PROCESS Steaming",10,7.2,7.2,7.2,7.2,10,7.2
+Meat and meat products,"Frankfurter sausage, QUAL Low fat (naturally or reduced), PROCESS Cooking in water",7,7,7,7,7,7,7
+Meat and meat products,Fresh bratwurst,7.4,7.4,7.4,7.4,10,7.4,10
+Meat and meat products,Fresh raw sausages,,6.6,7.2,6.6,10,,5
+Meat and meat products,"Fresh raw sausages, PROCESS Baking",6,6,6,6,6,6,6
+Meat and meat products,"Fresh raw sausages, PROCESS Cooking in water",6.6,6.6,6.6,6.6,6.6,6.6,6.6
+Meat and meat products,"Fresh raw sausages, PROCESS Frying",6,6,6,6,13,6,6
+Meat and meat products,Fresh smoked sausages-deprecated,4.8,,,,,,
+Meat and meat products,Fresh spiced sausages in casing,10,10,10,10,10,10,10
+Meat and meat products,"Fresh spiced sausages in casing, PROCESS Baking",13,13,13,6,13,13,13
+Meat and meat products,Game birds fresh meat,13,13,13,13,13,13,13
+Meat and meat products,"Game birds fresh meat, PROCESS Baking",17.2,,20,,20,17.2,20
+Meat and meat products,German salami,11,11,11,11,11,11,11
+Meat and meat products,"German salami, QUAL Low fat (naturally or reduced)",11,11,11,11,11,11,11
+Meat and meat products,"Goat fresh meat, PROCESS Baking",6,6,6,6,6,6,6
+Meat and meat products,"Goat liver, PROCESS Baking",49,49,49,49,49,49,49
+Meat and meat products,"Goose liver, PROCESS Baking",123,123,123,123,123,123,123
+Meat and meat products,"Grouse fresh meat, PROCESS Baking",20,20,20,20,20,20,20
+Meat and meat products,"Ham, beef",9.3,9.3,9.3,9.3,9.3,9.3,9.3
+Meat and meat products,"Ham, pork",17.5,11.2,11,11.2,17,25.29,11
+Meat and meat products,"Ham, pork, PROCESS Baking",5.8,14,14,14,13,5.8,14
+Meat and meat products,"Ham, pork, PROCESS Cooking in water",26,9.9,7.5,9.9,11,26,12
+Meat and meat products,"Ham, pork, PROCESS Steaming",26,7.5,7.5,7.5,11,26,12
+Meat and meat products,Hare fresh meat,4,10,10,10,10,4,10
+Meat and meat products,"Hare fresh meat, PROCESS Baking",5.6,12.4,12.4,12.4,12.4,5.6,12.4
+Meat and meat products,Head cheese,7.4,1,7.4,1,12,7.4,12
+Meat and meat products,Hungarian-type salami,,,,3.1,,,
+Meat and meat products,Italian-type salami,5,5,5,3.1,,5,
+Meat and meat products,"Knackwurst-type sausage, PROCESS Cooking in water",7,2,7,2,7,7,7
+Meat and meat products,"Knackwurst-type sausage, QUAL Low fat (naturally or reduced), PROCESS Cooking in water",7,7,7,7,7,7,7
+Meat and meat products,Liver based spreadable-textured specialities,,19.2,19.2,19.2,19,,19
+Meat and meat products,Liver cheese,22,22,22,22,22,22,22
+Meat and meat products,Liver-type sausage,16.8,58,58,20,20,16.8,20
+Meat and meat products,"Liver-type sausage, QUAL Low fat (naturally or reduced)",19.7,19.7,19.7,19.7,19.7,19.7,19.7
+Meat and meat products,Luncheon spiced ham-type tinned meat,8,8,8,8,8,8,7
+Meat and meat products,Mettwurst-type sausage,7.3,7.3,7.3,7.3,11,7.3,11
+Meat and meat products,"Mettwurst-type sausage, QUAL Low fat (naturally or reduced)",11,11,11,11,11,11,11
+Meat and meat products,Miscellaneous cooked sausages,4.8,6.6,6.6,6.6,6.6,6.6,6.6
+Meat and meat products,Mixed beef and mutton/lamb fresh meat,18.5,18.5,18.5,18.5,18.5,18.5,18.5
+Meat and meat products,"Mixed fresh fat tissue, PROCESS Baking",37.4,37.4,37.4,37.4,37.4,37.4,37.4
+Meat and meat products,Mixed fresh meat,12.1,12.1,12.1,16,12.1,12.1,12.1
+Meat and meat products,"Mixed fresh meat, QUAL Low fat (naturally or reduced)",3,3,3,3,3,3,3
+Meat and meat products,"Mixed pork and mutton/lamb fresh meat, QUAL Half fat or medium fat, PROCESS Cooking in water",21.4,21.4,21.4,21.4,21.4,21.4,21.4
+Meat and meat products,"Mixed pork and mutton/lamb fresh meat, QUAL Half fat or medium fat, PROCESS Steaming",21.4,21.4,21.4,21.4,21.4,21.4,21.4
+Meat and meat products,Mortadella-type sausage,8,,8,2.2,8,8,8
+Meat and meat products,"Mortadella-type sausage, QUAL Low fat (naturally or reduced)",8,8,8,8,8,8,8
+Meat and meat products,Partridge fresh meat,16,16,16,16,16,16,16
+Meat and meat products,"Pate, goose liver",46.1,46.1,46.1,46.1,46.1,46.1,46.1
+Meat and meat products,"Pate, pork liver",18,14,21,14,19,18,19
+Meat and meat products,"Pheasant fresh meat, PROCESS Baking",14,,14,,14,14,14
+Meat and meat products,Pig fresh meat,17.5,10.2,13,10.2,12,17.5,13
+Meat and meat products,"Pig fresh meat, PROCESS Baking",25.3,15.6,,15.6,,,16
+Meat and meat products,"Pig fresh meat, PROCESS Cooking in water",25,,21,,21,8,21
+Meat and meat products,"Pig fresh meat, PROCESS Frying",21.8,20,20,14,21,21.8,20
+Meat and meat products,"Pig fresh meat, PROCESS Steaming",25,21,21,21,21,25,21
+Meat and meat products,Pig kidney,150,150,150,150,150,150,150
+Meat and meat products,"Pig kidney, PROCESS Cooking in water",250,,250,,250,250,250
+Meat and meat products,"Pig kidney, PROCESS Frying",270,270,270,270,270,270,270
+Meat and meat products,"Pig kidney, PROCESS Steaming",250,,250,,250,250,250
+Meat and meat products,Pig liver,56,42,42,42,63,56,42
+Meat and meat products,"Pig liver, PROCESS Cooking in water",50,50,50,50,50,50,50
+Meat and meat products,"Pig liver, PROCESS Frying",,82,82,82,82,,82
+Meat and meat products,"Pig liver, PROCESS Steaming",50,50,50,50,50,50,50
+Meat and meat products,Rabbit fresh meat,5.6,,17,17,17,5.6,17
+Meat and meat products,"Rabbit fresh meat, PROCESS Baking",30.6,30.6,30.6,30.6,30.6,30.6,30.6
+Meat and meat products,"Rabbit fresh meat, PROCESS Cooking in water",16,,16,,16,16,16
+Meat and meat products,"Rabbit fresh meat, PROCESS Steaming",16,16,16,16,16,16,16
+Meat and meat products,Reindeer meat,30,30,30,30,30,30,30
+Meat and meat products,"Reindeer meat, PROCESS Baking",42.9,30,30,30,30,30,30
+Meat and meat products,"Reindeer meat, PROCESS Cooking in water",42.9,42.9,42.9,42.9,42.9,42.9,42.9
+Meat and meat products,"Reindeer meat, PROCESS Frying",34.5,,,,34.5,,
+Meat and meat products,"Reindeer meat, PROCESS Steaming",42.9,42.9,42.9,42.9,42.9,42.9,42.9
+Meat and meat products,Roe deer meat,9,9,9,9,9,9,9
+Meat and meat products,Sheep fresh meat,13.5,3,3,18,2,13.5,3
+Meat and meat products,"Sheep fresh meat, PROCESS Baking",13.5,4,4,18,4,13.5,4
+Meat and meat products,"Sheep fresh meat, PROCESS Cooking in water",19.3,3,3,3,3,19.3,3
+Meat and meat products,"Sheep fresh meat, PROCESS Frying",16.7,4,4,4,4,16.7,4
+Meat and meat products,"Sheep fresh meat, PROCESS Steaming",19.3,3,3,3,3,19.3,3
+Meat and meat products,Sheep kidney,87.9,150,150,150,150,150,150
+Meat and meat products,"Sheep kidney, PROCESS Frying",209,209,209,209,209,209,209
+Meat and meat products,Sheep liver,16.9,42,42,42,42,42,42
+Meat and meat products,"Sheep liver, PROCESS Frying",,62,62,62,62,,62
+Meat and meat products,"Smoked cooked sausage-deprecated, PROCESS Baking",9.2,9.2,9.2,9.2,9.2,9.2,9.2
+Meat and meat products,"Smoked cooked sausage-deprecated, PROCESS Cooking in water",8.6,5,7.3,5,12,8.6,12
+Meat and meat products,"Smoked cooked sausage-deprecated, PROCESS Steaming",8.6,8.6,8.6,8.6,8.6,8.6,8.6
+Meat and meat products,"Smoked cooked sausage-deprecated, QUAL Low fat (naturally or reduced), PROCESS Baking",7.6,7.6,7.6,7.6,7.6,7.6,7.6
+Meat and meat products,"Smoked cooked sausage-deprecated, QUAL Low fat (naturally or reduced), PROCESS Cooking in water",12,12,12,12,12,12,12
+Meat and meat products,Teewurst-type sausage,3,3,3,3,3,3,3
+Meat and meat products,Tinned bulk sausages,7.2,7.2,7.2,7.2,7.2,7.2,7.2
+Meat and meat products,Turkey fresh meat,29.6,13,13,7,10,29.6,13
+Meat and meat products,"Turkey fresh meat, PROCESS Baking",18.6,32,24,32,24,18.6,17
+Meat and meat products,"Turkey fresh meat, PROCESS Cooking in water",5,19,19,19,19,5,19
+Meat and meat products,"Turkey fresh meat, PROCESS Frying",,15,15,15,15,,15
+Meat and meat products,"Turkey fresh meat, PROCESS Steaming",5,19,19,19,19,5,19
+Meat and meat products,"Turkey liver, PROCESS Baking",124,124,124,124,124,124,124
+Meat and meat products,"Undefined mixed poultry fresh meat, PROCESS Baking",20.9,20.9,20.9,20.9,20.9,20.9,20.9
+Meat and meat products,"Undefined mixed poultry fresh meat, PROCESS Cooking in water",20.9,20.9,20.9,20.9,20.9,20.9,20.9
+Meat and meat products,"Undefined mixed poultry fresh meat, PROCESS Steaming",20.9,20.9,20.9,20.9,20.9,20.9,20.9
+Meat and meat products,Veal kidney,150,150,150,150,150,150,150
+Meat and meat products,"Veal kidney, PROCESS Baking",182,169,182,169,182,182,182
+Meat and meat products,Veal liver,29,29,29,29,29,29,29
+Meat and meat products,"Veal liver, PROCESS Baking",47.6,47.6,47.6,47.6,47.6,47.6,47.6
+Meat and meat products,"Veal liver, PROCESS Frying",63,63,63,63,63,63,63
+Meat and meat products,"Wiener sausage, PROCESS Cooking in water",7.2,7.2,7.2,7.2,7,7.2,7
+Meat and meat products,"Wiener sausage, PROCESS Steaming",7.2,7.2,7.2,7.2,7.2,7.2,7.2
+Meat and meat products,"Wiener sausage, QUAL Low fat (naturally or reduced), PROCESS Cooking in water",7,7,7,7,7,7,7
+Meat and meat products,"Wild boar fresh meat, PROCESS Baking",,,10,,10,,10
+Milk and dairy products,Acidophilus milk,1.83,1.2,1.83,1.2,1,1.83,1
+Milk and dairy products,"Acidophilus milk, QUAL Semi-skimmed",1,1,1,1,1,1,1
+Milk and dairy products,"Acidophilus milk, QUAL Skim",1,1.3,1,1.3,1,1,1
+Milk and dairy products,Buttermilk,1.3,1.3,1.3,1.3,1,1.3,1
+Milk and dairy products,"Buttermilk, QUAL Fat free",1,1,1,1,1,1,1
+Milk and dairy products,"Buttermilk, QUAL Low fat (naturally or reduced)",2.8,1,1.52,1,1,2.8,1
+Milk and dairy products,"Cheese, asiago",30,30,30,30,30,30,30
+Milk and dairy products,"Cheese, beaufort",14.44,14.44,14.44,14.44,14.44,14.44,14.44
+Milk and dairy products,"Cheese, bleu d'auvergne",,7.44,,,,,
+Milk and dairy products,"Cheese, blue castello",8,8,8,8,8,8,8
+Milk and dairy products,"Cheese, brie",11.6,10.2,11.6,10.2,14,11.6,10
+Milk and dairy products,"Cheese, brie, QUAL Half fat or medium fat",14,10.2,14,10.2,14,14,14
+Milk and dairy products,"Cheese, butterkase",22,22,22,22,22,22,22
+Milk and dairy products,"Cheese, caerphilly",22,22,22,22,22,22,22
+Milk and dairy products,"Cheese, camembert",40.2,13.6,14,13.6,14,6,14
+Milk and dairy products,"Cheese, cantal",10.8,10.8,10.8,10.8,10.8,10.8,10.8
+Milk and dairy products,"Cheese, chaource",10,10,10,10,10,10,10
+Milk and dairy products,"Cheese, cheddar",18,20,18,20,24,18,24
+Milk and dairy products,"Cheese, cheddar, QUAL Half fat or medium fat",22,22,22,22,22,22,22
+Milk and dairy products,"Cheese, cheshire",16,16,16,16,16,16,22
+Milk and dairy products,"Cheese, cheshire, QUAL Half fat or medium fat",30,30,30,30,30,30,30
+Milk and dairy products,"Cheese, chevre mould ripened",12,20,12,20,12,12,12
+Milk and dairy products,"Cheese, comte",,14.04,,,,,
+Milk and dairy products,"Cheese, coulommiers",10,10,10,10,10,10,10
+Milk and dairy products,"Cheese, danbo",15.8,15.8,15.8,15.8,15.8,15.8,15.8
+Milk and dairy products,"Cheese, danbo, QUAL Half fat or medium fat",19,19,19,19,19,19,19
+Milk and dairy products,"Cheese, danbo, QUAL Low fat (naturally or reduced)",19,19,19,19,19,19,19
+Milk and dairy products,"Cheese, edam",41,16,14,16,16,41,14
+Milk and dairy products,"Cheese, edam, QUAL Half fat or medium fat",49.6,49.6,49.6,49.6,49.6,49.6,49.6
+Milk and dairy products,"Cheese, edam, QUAL Low fat (naturally or reduced)",52.4,52.4,52.4,52.4,52.4,52.4,52.4
+Milk and dairy products,"Cheese, emmental",38.6,13.2,19,13.2,14,38.6,14
+Milk and dairy products,"Cheese, emmental, QUAL Half fat or medium fat",20,20,20,20,20,20,20
+Milk and dairy products,"Cheese, feta",14,10,11.8,10,11.8,6,10
+Milk and dairy products,"Cheese, feta, QUAL Low fat (naturally or reduced)",,13,13,13,13,,13
+Milk and dairy products,"Cheese, fourme d'ambert",7.4,7.4,7.4,7.4,7.4,7.4,7.4
+Milk and dairy products,"Cheese, gorgonzola",4,4,4,14.6,4,4,4
+Milk and dairy products,"Cheese, gouda",38,18,16,30,24,38,16
+Milk and dairy products,"Cheese, grana padano",20,24,20,24,20,20,20
+Milk and dairy products,"Cheese, gruyere",20,13.8,20,13.8,14,20,14
+Milk and dairy products,"Cheese, leicester",22,22,22,22,22,22,22
+Milk and dairy products,"Cheese, livarot",,17.44,,,,,
+Milk and dairy products,"Cheese, maasdam",26,16,26,16,26,26,26
+Milk and dairy products,"Cheese, mimolette",9.8,9.8,9.8,9.8,9.8,9.8,9.8
+Milk and dairy products,"Cheese, morbier",16,16,16,16,16,16,16
+Milk and dairy products,"Cheese, munster",16,8.6,16,8.6,16,16,16
+Milk and dairy products,"Cheese, nagelkaas, QUAL Half fat or medium fat",26,26,26,26,26,26,26
+Milk and dairy products,"Cheese, nagelkaas, QUAL Low fat (naturally or reduced)",20,20,20,20,20,20,20
+Milk and dairy products,"Cheese, ossau-iraty",,39.8,,,,,
+Milk and dairy products,"Cheese, parmigiano reggiano",22,23,22,24,22,22,22
+Milk and dairy products,"Cheese, pont l'eveque",,9.68,,,,,
+Milk and dairy products,"Cheese, provolone",26.2,26.2,26.2,26.2,26.2,26.2,26.2
+Milk and dairy products,"Cheese, reblochon",,10.2,,,,,
+Milk and dairy products,"Cheese, roquefort",14,11.8,14,6,14,14,14
+Milk and dairy products,"Cheese, saint marcellin",1.02,1.02,1.02,1.02,1.02,1.02,1.02
+Milk and dairy products,"Cheese, saint nectaire",,10.22,,,,,
+Milk and dairy products,"Cheese, stilton",14,14,14,14,20,14,14
+Milk and dairy products,"Cheese, tilsit",39.4,39.4,39.4,39.4,39.4,39.4,39.4
+Milk and dairy products,"Cheese, tomme de savoie",,10,,,,,
+Milk and dairy products,"Cheese, white stilton",18,18,18,18,20,18,18
+Milk and dairy products,Condensed milk (sometimes with added sugars),3,1.9,3,1.9,3,3,3
+Milk and dairy products,Cottage cheese,24.4,3.8,8,8,8,8,8
+Milk and dairy products,"Cottage cheese, QUAL Fat free",3.4,4,8,4,8,3.4,8
+Milk and dairy products,"Cow milk, natural high fat",2.9,1,1,1,1,1.8,1
+Milk and dairy products,"Cow milk, semi skimmed (half fat)",2.8,0.9,1.54,1.6,1,1.8,1
+Milk and dairy products,"Cow milk, semi skimmed (half fat), FORT Mixed supplements/formulations",1,0.9,1,0.9,1,1,1
+Milk and dairy products,"Cow milk, semi skimmed (half fat), QUAL Low / reduced lactose",2.8,2.8,2.8,2.8,2.8,2.8,2.8
+Milk and dairy products,"Cow milk, skimmed (low fat)",2.8,0.8,1.64,0.8,1,1.8,1
+Milk and dairy products,"Cow milk, skimmed (low fat), FORT Mixed supplements/formulations",3.6,3.6,3.6,3.6,3.6,3.6,3.6
+Milk and dairy products,"Cow milk, skimmed (low fat), QUAL Low / reduced lactose",2.8,2.8,2.8,2.8,2.8,2.8,2.8
+Milk and dairy products,"Cow milk, whole",2.9,2,1.61,1.6,1,1.8,1
+Milk and dairy products,Cream sprayable,1,1,1,1,1,1,1
+Milk and dairy products,Cream with other ingredients,,1.3,1.3,1.3,1,,1
+Milk and dairy products,"Cream, plain",2.4,2.2,1.3,2.2,1,1.4,3
+Milk and dairy products,"Cream, plain, QUAL Half fat or medium fat",2.7,0.5,1.29,0.5,1,1.7,1
+Milk and dairy products,"Cream, plain, QUAL Low fat (naturally or reduced)",1.5,1.3,1.3,1.3,1,2.46,1
+Milk and dairy products,Créme fraiche and other mild variants of sour cream,2.2,2.2,1.29,2.2,1,1.5,
+Milk and dairy products,"Créme fraiche and other mild variants of sour cream, QUAL Half fat or medium fat",1.3,0.5,1.29,0.5,1,1.7,4
+Milk and dairy products,"Créme fraiche and other mild variants of sour cream, QUAL Low fat (naturally or reduced)",1.5,1.3,1.63,1.3,1.63,1.5,1.63
+Milk and dairy products,Cultured buttermilk,2.8,1,1,1,1,2.8,1
+Milk and dairy products,Custard,4.9,1.1,,1.1,1,,1
+Milk and dairy products,"Evaporated milk (liquid, unsweetened)",3,3,3,3,3,3,3
+Milk and dairy products,"Extra hard cheese (parmesan, grana type)",6,23,28,23,28,6,24
+Milk and dairy products,Filmjölk,1.8,1.8,1.8,1.8,1.8,1.8,1.8
+Milk and dairy products,"Filmjölk, QUAL Low fat (naturally or reduced)",1.8,1.8,1.8,1.8,1.8,1.8,1.8
+Milk and dairy products,Firm brined cheese (ricotta salata type),29,29,29,29,29,29,29
+Milk and dairy products,Firm-ripened bloomy (white mould) or washed rind cheese,16,16,16,16,16,16,16
+Milk and dairy products,Firm-ripened blue mould-veined cheese,15,15,15,6,15,15,15
+Milk and dairy products,Firm/semi-hard cheese (gouda and edam type),41,18,17.48,18,17.48,41,14
+Milk and dairy products,"Firm/semi-hard cheese (gouda and edam type), QUAL Half fat or medium fat",49.6,20,20,20,20,49.6,20
+Milk and dairy products,"Firm/semi-hard cheese (gouda and edam type), QUAL Low fat (naturally or reduced)",17,20,17,20,17,17,17
+Milk and dairy products,Flavoured milks,2.5,1.6,2.5,1.6,,2.5,
+Milk and dairy products,Flavoured sour cream,2.5,2.5,2.5,2.5,2.5,2.5,2.5
+Milk and dairy products,Flavoured traditional sour milk products,,6.43,6.43,6.43,6.43,,6.43
+Milk and dairy products,Flavoured whey,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Milk and dairy products,Goat milk,2,1.7,1.7,1.9,1.7,2,1.7
+Milk and dairy products,"Hard cheese (cheddar, emmental type)",16,13.2,16,13.2,16,16,24
+Milk and dairy products,"Hard cheese (cheddar, emmental type), QUAL Half fat or medium fat",22,20,22,20,22,22,22
+Milk and dairy products,"Ice cream, milk-based",3.5,0.3,0.2,0.3,1,0.27,2
+Milk and dairy products,"Ice cream, milk-imitate based",,2,2,2,2,0.5,2
+Milk and dairy products,Kefir,1.3,1.3,1.3,1.3,,1.3,
+Milk and dairy products,Mascarpone,4,4,4,4,4,4,4
+Milk and dairy products,"Milk powder, full fat",14,7.8,14,7.8,10,14,8
+Milk and dairy products,"Milk powder, skimmed",20,10.5,13,10.5,13,10,11
+Milk and dairy products,Milkshakes,2.4,1.7,2,1.7,2,0.6,2
+Milk and dairy products,Mozzarella,12,16,16,5,16,12,12
+Milk and dairy products,Probiotic milk-like drinks,1,1.2,1,1.2,1,1,1
+Milk and dairy products,"Probiotic milk-like drinks, QUAL Semi-skimmed",1,1,1,1,1,1,1
+Milk and dairy products,"Probiotic milk-like drinks, QUAL Skim",1.3,1.3,1.3,1.3,1.3,1.3,1.3
+Milk and dairy products,Processed cheese and spreads,41.8,13.4,16,13.4,16,41.8,10
+Milk and dairy products,"Processed cheese and spreads, QUAL Half fat or medium fat",49,14.8,17.6,14.8,17.6,49,14
+Milk and dairy products,"Processed cheese and spreads, QUAL Low fat (naturally or reduced)",52.4,14.8,17.82,14.8,17.82,52.4,17.82
+Milk and dairy products,Processed cheese wedges and similar,16,13.4,16,13.4,22,16,22
+Milk and dairy products,"Processed cheese wedges and similar, QUAL Half fat or medium fat",17.6,14.8,17.6,14.8,17.6,17.6,17.6
+Milk and dairy products,"Processed cheese wedges and similar, QUAL Low fat (naturally or reduced)",17.82,14.8,17.82,14.8,16,17.82,16
+Milk and dairy products,"Processed cheese, sliceable",20.8,14.8,16,20,16,20.8,10
+Milk and dairy products,"Processed cheese, sliceable, QUAL Half fat or medium fat",23.6,17.6,17.6,17.6,16,23.6,14
+Milk and dairy products,"Processed cheese, sliceable, QUAL Low fat (naturally or reduced)",17.82,17.82,17.82,17.82,16,17.82,16
+Milk and dairy products,"Processed cheese, spreadable",2.6,8.2,6.4,20,22,2,8
+Milk and dairy products,"Processed cheese, spreadable, QUAL Half fat or medium fat",2,8,17.6,20,17.6,2,8
+Milk and dairy products,"Processed cheese, spreadable, QUAL Low fat (naturally or reduced)",17.82,17.82,17.82,17.82,16,17.82,16
+Milk and dairy products,Quark,7.8,9,8,9,8,8,8
+Milk and dairy products,Ricotta,29,29,29,7.8,29,29,29
+Milk and dairy products,Sheep milk,2.4,2.4,2.4,2.4,2.4,2.4,2.4
+Milk and dairy products,Skyr,12.86,12.86,12.86,12.86,12.86,12.86,12.86
+Milk and dairy products,Soft brined cheese (feta type),14,13,11.8,30,11.8,14,10
+Milk and dairy products,"Soft brined cheese (feta type), QUAL Low fat (naturally or reduced)",,13,13,13,13,,13
+Milk and dairy products,"Soft-ripened cheese veined with blue mould (blue bavarian, blue de graven type )",14,32.2,14,32.2,14,14,14
+Milk and dairy products,"Soft-ripened cheese with bloomy rind (white mould) (brie, camembert type)",11.6,10.2,11.6,29,11.6,11.6,10
+Milk and dairy products,Soft-ripened cheese with natural rind and other soft-ripened cheeses,17,17,17,17,17,17,17
+Milk and dairy products,Soft-ripened cheese with white and blue mould (cambozola type),12,8,8,8,8,12,8
+Milk and dairy products,Soft-ripened washed-rind cheese (limburger type),13,10.2,13,10.2,13,13,13
+Milk and dairy products,Sour cream products,0,0,0,0,0,0,0
+Milk and dairy products,"Sour cream, plain",1.7,,,,,1.7,
+Milk and dairy products,Starchy pudding,2.4,2.4,2.4,,2.4,2.4,2.4
+Milk and dairy products,Traditional buttermilk (churning),1,1,1,1,1,1,1
+Milk and dairy products,Traditional nordic fermented milks,1.3,1.3,1.3,1.3,1.3,1.3,1.3
+Milk and dairy products,Viili,2.9,2.9,2.9,2.9,2.9,2.9,2.9
+Milk and dairy products,"Viili, QUAL Fat free",2.8,2.8,2.8,2.8,2.8,2.8,2.8
+Milk and dairy products,"Viili, QUAL Low fat (naturally or reduced)",2.8,2.8,2.8,2.8,2.8,2.8,2.8
+Milk and dairy products,Whey powder,11,11,11,11,11,11,11
+Milk and dairy products,"Whey, sour",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Milk and dairy products,"Whey, sweet",2.5,1.9,1.9,1.9,1.9,2.5,1.9
+Milk and dairy products,"Yoghurt drinks, including sweetened and/or flavoured variants",2.4,1.3,1.3,1.3,1.3,,1
+Milk and dairy products,"Yoghurt drinks, including sweetened and/or flavoured variants, FORT Mixed supplements/formulations, QUAL Semi-skimmed",1,1,1,1,1,1,1
+Milk and dairy products,"Yoghurt drinks, including sweetened and/or flavoured variants, FORT Mixed supplements/formulations, QUAL Skim",2,2,2,2,2,2,2
+Milk and dairy products,"Yoghurt drinks, including sweetened and/or flavoured variants, QUAL Semi-skimmed",0.3,2,2,2,2,2,2
+Milk and dairy products,"Yoghurt drinks, including sweetened and/or flavoured variants, QUAL Skim",0,0,0,0,0,0,0
+Milk and dairy products,"Yoghurt, cow milk, flavoured",2.5,0.8,1.3,0.8,2,1.1,2
+Milk and dairy products,"Yoghurt, cow milk, flavoured, FORT Mixed supplements/formulations, QUAL Skim",1,1,1,1,1,1,1
+Milk and dairy products,"Yoghurt, cow milk, flavoured, QUAL Semi-skimmed",7.08,5.58,6.78,5.58,5.78,7.98,6.78
+Milk and dairy products,"Yoghurt, cow milk, flavoured, QUAL Skim",1,3.3,2.3,2,2,1,2
+Milk and dairy products,"Yoghurt, cow milk, flavoured, QUAL Sugar free",1,1,1,1,1,1,1
+Milk and dairy products,"Yoghurt, cow milk, plain",2.8,1.4,1.83,2,1,1.8,2
+Milk and dairy products,"Yoghurt, cow milk, plain, FORT Mixed supplements/formulations, QUAL Semi-skimmed",1,1,1,1,1,1,1
+Milk and dairy products,"Yoghurt, cow milk, plain, QUAL Semi-skimmed",3.8,2.5,3,2.5,2,3,3
+Milk and dairy products,"Yoghurt, cow milk, plain, QUAL Skim",2.3,3.6,4.3,2.3,3.3,2.3,4.3
+Milk and dairy products,"Yoghurt, cow milk, plain, QUAL Sugar free",2,2,2,2,2,2,2
+Milk and dairy products,"Yoghurt, sheep milk, plain",1,1,1,1,1,1,1
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Almond drink,0.5,,0.5,,0.5,0.5,0.5
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Imitation cream,3.9,2,2,2,2,3.9,2
+"Products for non-standard diets, food imitates and food supplements or fortifying agents","Imitation cream, QUAL Half fat or medium fat",,2,2,2,2,1,2
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Non dairy coffee creamer,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Oats drink,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Rice drink,,0,0,0,,0,0
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Single meal replacement for weight reduction,,7.7,5,7.7,5,,5
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Soya drink,,7.4,4,7.4,4,,4
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Soya yoghurt,0.1,2.2,2,2.2,2,0.1,2
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Textured fungal proteins,1,1,1,1,1,1,1
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Textured soy protein,0.8,0.8,0.8,0.8,0.8,0.8,0.8
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Tofu,1,8.9,8.9,,8.9,1,8.9
+"Products for non-standard diets, food imitates and food supplements or fortifying agents",Total daily diet replacement for weight reduction,3,3,3,3,3,3,3
+"Seasoning, sauces and condiments",Apple chutney,1,1,1,1,1,1,1
+"Seasoning, sauces and condiments",Barbecue or steak sauces,,1.3,1.3,1.3,1.3,,1.3
+"Seasoning, sauces and condiments",Bechamel sauce,0.33,0.5,0.1,0.5,0.1,0.33,0.1
+"Seasoning, sauces and condiments",Butter sauce,,0.4,0.4,0.4,0.4,,0.4
+"Seasoning, sauces and condiments",Cheese sauce,7.2,0.7,2,0.7,2,7.2,2
+"Seasoning, sauces and condiments",Chilli pickle,0.72,0.72,0.72,0.72,0.72,0.72,0.72
+"Seasoning, sauces and condiments","Continental european brown cooked sauce, gravy",,0.21,,0.21,,,
+"Seasoning, sauces and condiments",Cream sauce,,0.21,1.75,0.21,0.21,1.75,1.75
+"Seasoning, sauces and condiments",Curry powder,17.1,17.1,17.1,17.1,17.1,17.1,17.1
+"Seasoning, sauces and condiments",Curry sauce,,5,,5,,,
+"Seasoning, sauces and condiments",Fruit sauce,0.34,0.34,0.34,0.34,0.34,0.34,0.34
+"Seasoning, sauces and condiments",Hollandaise type sauce,11.3,1,5,1,5,11.3,5
+"Seasoning, sauces and condiments",Mayonnaise sauce,8.6,3.5,1.6,3.5,4,8.6,4
+"Seasoning, sauces and condiments","Mayonnaise, low fat",2.4,10,1.6,10,3,1,3
+"Seasoning, sauces and condiments",Meat extract,27.6,27.6,27.6,,27.6,27.6,27.6
+"Seasoning, sauces and condiments",Mixed and other not listed condiments,3.5,2.2,3.5,2.2,3.5,3.5,2.2
+"Seasoning, sauces and condiments",Mushrooms cooked sauce,16.2,0.6,2.38,0.6,0.6,2.38,2.38
+"Seasoning, sauces and condiments",Mustard and related sauces,6,6,6,6,6,6,6
+"Seasoning, sauces and condiments","Mustard, hot",6,6,6,6,6,6,6
+"Seasoning, sauces and condiments","Mustard, mild",27.8,6,6,6,6,6,6
+"Seasoning, sauces and condiments","Mustard, sweet",6,6,6,6,6,6,6
+"Seasoning, sauces and condiments",Pesto,7.2,5,,5,,1.69,
+"Seasoning, sauces and condiments",Pickles,0,0,0,0,0,0,0
+"Seasoning, sauces and condiments",Salad dressing,0.6,1.6,3,1.6,3,0.6,3
+"Seasoning, sauces and condiments","Salad dressing, low fat",0.1,1.6,1,1.6,1,0.1,1
+"Seasoning, sauces and condiments",Salsa,0.2,0.4,0.4,0.4,0.4,0.2,0.4
+"Seasoning, sauces and condiments",Salt,,1,0.5,,0.5,,0.5
+"Seasoning, sauces and condiments","Salt, flavoured",0.4,,,,,,
+"Seasoning, sauces and condiments","Salt, iodised",0.5,0.5,0.5,0.5,0.5,,0.5
+"Seasoning, sauces and condiments","Salt, low sodium",1.2,1.2,1.2,1.2,1.2,1.2,1.2
+"Seasoning, sauces and condiments",Sea salt,,,0,,0,0,0
+"Seasoning, sauces and condiments",Seasoning mixes,,16.8,16.8,16.8,16.8,,16.8
+"Seasoning, sauces and condiments",Soy sauce,1,0.5,0.5,0.5,0.5,1,0.5
+"Seasoning, sauces and condiments","Stock cube or granulate, beef",0,0,0,0,0,0,0
+"Seasoning, sauces and condiments",Stock cubes or granulate (bouillon base),1.8,,,,,1.8,
+"Seasoning, sauces and condiments","Stock cubes or granulate (bouillon base), QUAL Low sodium / reduced salt",1.6,1.6,1.6,1.6,1.6,1.6,1.6
+"Seasoning, sauces and condiments","Stock cubes or granulate, chicken",1.6,,0.5,,0.5,1.6,0.5
+"Seasoning, sauces and condiments","Stock cubes or granulate, vegetables",0.4,,,,,0.4,
+"Seasoning, sauces and condiments",Tartar sauce,6.2,1,1,1,1,6.2,1
+"Seasoning, sauces and condiments",Teriyaki sauce,3.39,3.39,3.39,3.39,3.39,3.39,3.39
+"Seasoning, sauces and condiments",Tomato chutney,1,0.6,1,0.6,1,1,1
+"Seasoning, sauces and condiments",Tomato ketchup and related sauces,0.6,0.4,0.4,0.4,,0.4,
+"Seasoning, sauces and condiments",Tomato-containing cooking sauces,0.3,3.7,,3.7,,,
+"Seasoning, sauces and condiments",Vegetables-based cooked sauce,,0.6,,0.6,,,
+"Seasoning, sauces and condiments",Vinegar,,0.1,0.1,1,1,,1
+"Seasoning, sauces and condiments","Vinegar, apple",0.1,1,1,1,1,,1
+"Seasoning, sauces and condiments","Vinegar, wine",0.1,0.1,1,0.1,1,,1
+"Seasoning, sauces and condiments",Yeast extract,18,18,18,18,18,18,18
+"Starchy roots or tubers and products thereof, sugar plants",Fries (finger chips),0.6,0.27,2.3,0.27,2,0.1,2
+"Starchy roots or tubers and products thereof, sugar plants",Main-crop potatoes,,1,1,,1,,1
+"Starchy roots or tubers and products thereof, sugar plants","Main-crop potatoes, PROCESS Baking",0.6,0.3,1,0.3,,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants","Main-crop potatoes, PROCESS Cooking in water",0.6,0.3,1,0.3,,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants","Main-crop potatoes, PROCESS Steaming",0.6,1.6,2,,,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants",Mashed potato powder,7.8,0.5,0.5,0.5,1,7.8,1
+"Starchy roots or tubers and products thereof, sugar plants",New potatoes,0.6,1,1,1,1,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants","New potatoes, PROCESS Baking",,,,1,,,
+"Starchy roots or tubers and products thereof, sugar plants","New potatoes, PROCESS Cooking in water",0.6,1,1,1,,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants","New potatoes, PROCESS Steaming",0.6,1,0.6,1,,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants",Pan-fried potato,0.8,2.2,2,2.2,,0.8,2
+"Starchy roots or tubers and products thereof, sugar plants",Potato baked,0.8,0.3,,,,0.1,
+"Starchy roots or tubers and products thereof, sugar plants",Potato boiled,0.6,0.3,,,,0.1,
+"Starchy roots or tubers and products thereof, sugar plants",Potato crisps or sticks,3.8,2.2,2.3,2.2,1,1.9,1
+"Starchy roots or tubers and products thereof, sugar plants",Potato flakes,2.5,2.5,2.5,,2.5,2.5,2.5
+"Starchy roots or tubers and products thereof, sugar plants",Potato flour,0.4,0.4,0.4,0.4,,0.4,
+"Starchy roots or tubers and products thereof, sugar plants",Potato starch,1,,,,,1,
+"Starchy roots or tubers and products thereof, sugar plants",Potato starch-based snacks,1,1,0.8,1,1,1,1
+"Starchy roots or tubers and products thereof, sugar plants",Sweet potatoes,0.6,1,1,1,1,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants","Sweet potatoes, PROCESS Baking",0.7,0.2,1,0.2,1,,1
+"Starchy roots or tubers and products thereof, sugar plants","Sweet potatoes, PROCESS Cooking in water",0.6,0.2,1,0.2,1,,1
+"Starchy roots or tubers and products thereof, sugar plants","Sweet potatoes, PROCESS Steaming",0.6,0.2,1,0.2,1,0.6,1
+"Starchy roots or tubers and products thereof, sugar plants",Tapioca starch-based snacks,3,3,3,3,3,3,3
+"Starchy roots or tubers and products thereof, sugar plants",Yams,1,1,1,1,1,1,1
+"Sugar, confectionery and water-based sweet desserts",Basic sweet masses,0.4,2,2,2,2,0.4,2
+"Sugar, confectionery and water-based sweet desserts",Bitter chocolate,0.5,3.5,4.5,3.5,4,0.5,4
+"Sugar, confectionery and water-based sweet desserts","Bitter chocolate, QUAL Sugar free",4,3.5,4,3.5,4,4,4
+"Sugar, confectionery and water-based sweet desserts",Bitter-sweet chocolate,4.6,4.5,4.5,4,4.5,4.6,4
+"Sugar, confectionery and water-based sweet desserts","Bitter-sweet chocolate, QUAL Sugar free",4,4,4,4,4,4,4
+"Sugar, confectionery and water-based sweet desserts","Caramel, hard",,1,1,1,1,,1
+"Sugar, confectionery and water-based sweet desserts","Caramel, hard, QUAL Low / Reduced sugar",0,0,0,0,0,0,0
+"Sugar, confectionery and water-based sweet desserts","Caramel, soft",,0.5,0.5,0.5,1,,1
+"Sugar, confectionery and water-based sweet desserts",Chewing gum,,0.6,1,0.6,,,
+"Sugar, confectionery and water-based sweet desserts","Chewing gum, QUAL Sugar free",,0.5,1,0.5,,,
+"Sugar, confectionery and water-based sweet desserts",Chocolate and chocolate products,5,2.8,4.5,,8,5,4
+"Sugar, confectionery and water-based sweet desserts","Chocolate and chocolate products, QUAL Sugar free",4,4,4,4,8,4,4
+"Sugar, confectionery and water-based sweet desserts",Chocolate coated confectionery,,2,1,2,1,1.4,1
+"Sugar, confectionery and water-based sweet desserts",Cream chocolate,4.5,4.5,4.5,2,2,4.5,2
+"Sugar, confectionery and water-based sweet desserts","Dragée, sugar coated",,0,0,0,0,,0
+"Sugar, confectionery and water-based sweet desserts","Dragée, sugar coated, QUAL Sugar free",0,0,0,0,0,0,0
+"Sugar, confectionery and water-based sweet desserts",Filled chocolate,,,1,,2,,2
+"Sugar, confectionery and water-based sweet desserts",Foamed sugar products (marshmallows),,2,2,2,2,,2
+"Sugar, confectionery and water-based sweet desserts",Fructose,0.5,0.5,0.5,,0.5,,0.5
+"Sugar, confectionery and water-based sweet desserts",Fudge,0.5,0.5,0.5,0.5,1,0.5,1
+"Sugar, confectionery and water-based sweet desserts",Gelatine dessert,0.3,4.5,,4.5,,0.3,
+"Sugar, confectionery and water-based sweet desserts",Glucose,0,0,0,0,0,0,0
+"Sugar, confectionery and water-based sweet desserts",Gum drops,0,0,0,0,0,0,0
+"Sugar, confectionery and water-based sweet desserts","Gum drops, QUAL Sugar free",20,20,20,20,20,20,20
+"Sugar, confectionery and water-based sweet desserts",Hard candies,1,1.8,,1.8,,,
+"Sugar, confectionery and water-based sweet desserts","Hard candies, QUAL Low / Reduced sugar",0,0,0,0,0,0,0
+"Sugar, confectionery and water-based sweet desserts","Hard candies, QUAL Sugar free",20,1,1,1,,20,
+"Sugar, confectionery and water-based sweet desserts","Honey, polyfloral",0.5,1.4,,1.4,,0.5,1
+"Sugar, confectionery and water-based sweet desserts",Jelly candies,0.4,0.8,,0.8,,,
+"Sugar, confectionery and water-based sweet desserts",Liquorice candies,1,1,1,,1,1,1
+"Sugar, confectionery and water-based sweet desserts","Liquorice candies, QUAL Sugar free",1,1,1,1,1,1,1
+"Sugar, confectionery and water-based sweet desserts",Marzipan,2.3,2.6,1,2.6,1,1,1
+"Sugar, confectionery and water-based sweet desserts",Marzipan raw mass,1,2,2,2,1,2,2
+"Sugar, confectionery and water-based sweet desserts",Milk chocolate,4,3.5,4.5,3.5,8,2,4
+"Sugar, confectionery and water-based sweet desserts","Milk chocolate, QUAL Sugar free",8,8,8,8,8,8,8
+"Sugar, confectionery and water-based sweet desserts",Nougat,5,2.6,2,2.6,1,5,2
+"Sugar, confectionery and water-based sweet desserts",Nuts-seeds based halva,34.4,34.4,34.4,34.4,34.4,34.4,34.4
+"Sugar, confectionery and water-based sweet desserts",Polyols,0,0,0,0,0,0,0
+"Sugar, confectionery and water-based sweet desserts",Pralines,1,1,1,1,2,1,1
+"Sugar, confectionery and water-based sweet desserts",Sorbet,2.3,2.2,1,2.2,,0.1,1
+"Sugar, confectionery and water-based sweet desserts",Sucrose (common sugar),0.5,0.3,,0.3,,0.5,
+"Sugar, confectionery and water-based sweet desserts",Sweet confectionery-deprecated,1,0.8,,0.8,,1,
+"Sugar, confectionery and water-based sweet desserts","Sweet confectionery-deprecated, QUAL Sugar free",20,,,,,20,
+"Sugar, confectionery and water-based sweet desserts",Syrups,1,2.2,1,2.2,,1,1
+"Sugar, confectionery and water-based sweet desserts",Toffee,0.5,1,1,1,1,1,1
+"Sugar, confectionery and water-based sweet desserts",White chocolate,0.7,3,8,,8,2.4,8
+Vegetables and vegetable products,Alfalfa sprouts,1,1,1,,1,1,1
+Vegetables and vegetable products,Angelica (leaves and stems),0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Vegetables and vegetable products,Aniseed myrtle,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Vegetables and vegetable products,Asparagus,0.2,1,1,1,1,0.2,1
+Vegetables and vegetable products,"Asparagus, PROCESS Cooking in water",,0.6,1,0.6,1,0.2,1
+Vegetables and vegetable products,"Asparagus, PROCESS Steaming",,2.8,1,2.8,1,0.2,1
+Vegetables and vegetable products,Aubergines,0.4,1,1,1,,0.4,1
+Vegetables and vegetable products,"Aubergines, PROCESS Baking",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Vegetables and vegetable products,"Aubergines, PROCESS Cooking in water",1,0.5,1,0.5,1,1,1
+Vegetables and vegetable products,"Aubergines, PROCESS Frying",0.3,1,0.3,1,0.3,0.3,1
+Vegetables and vegetable products,"Aubergines, PROCESS Steaming",1,1,1,1,1,1,1
+Vegetables and vegetable products,Bamboo shoots,1,1,1,1,1,1,1
+Vegetables and vegetable products,"Bamboo shoots, PROCESS Cooking in water",1,1,1,1,1,1,1
+Vegetables and vegetable products,"Bamboo shoots, PROCESS Frying",0.046,0.046,0.046,0.046,0.046,0.046,0.046
+Vegetables and vegetable products,"Bamboo shoots, PROCESS Steaming",1,1,1,1,1,1,1
+Vegetables and vegetable products,Basil,0.4,0.3,0.1,0.3,0.1,0.3,0.1
+Vegetables and vegetable products,Beans (with pods) and similar-,0.5,1,,1,,0.5,
+Vegetables and vegetable products,"Beans (with pods) and similar-, PROCESS Baking",12,12,12,12,12,12,12
+Vegetables and vegetable products,"Beans (with pods) and similar-, PROCESS Cooking in water",2.7,0.4,,0.4,,0.5,
+Vegetables and vegetable products,"Beans (with pods) and similar-, PROCESS Steaming",2.7,0.4,,0.4,,2.7,
+Vegetables and vegetable products,Beetroots,0.4,,,,,0.8,
+Vegetables and vegetable products,"Beetroots, PROCESS Baking",0.2,0.3,0.2,0.3,0.2,0.2,0.2
+Vegetables and vegetable products,"Beetroots, PROCESS Cooking in water",0.4,0.3,,0.3,,,
+Vegetables and vegetable products,"Beetroots, PROCESS Steaming",0.4,,,,,,
+Vegetables and vegetable products,Broccoli and similar-,0.4,,,,,0.4,
+Vegetables and vegetable products,"Broccoli and similar-, PROCESS Baking",1.1,1.1,1.1,,1.1,1.1,1.1
+Vegetables and vegetable products,"Broccoli and similar-, PROCESS Cooking in water",0.4,0.8,,0.8,,0.4,
+Vegetables and vegetable products,"Broccoli and similar-, PROCESS Steaming",0.4,0.8,,0.8,,0.4,
+Vegetables and vegetable products,Brussels sprouts,0.3,2.4,3,2.4,3,0.3,3
+Vegetables and vegetable products,"Brussels sprouts, PROCESS Baking",0.767,0.767,0.767,0.767,0.767,0.767,0.767
+Vegetables and vegetable products,"Brussels sprouts, PROCESS Cooking in water",0.3,1.5,10,1.5,10,,10
+Vegetables and vegetable products,"Brussels sprouts, PROCESS Steaming",0.3,1.5,10,1.5,10,,10
+Vegetables and vegetable products,Canned mushrooms,2,2.2,2,,2,2,2
+Vegetables and vegetable products,"Canned mushrooms, PROCESS Cooking in water",2,2,2,2,2,2,2
+Vegetables and vegetable products,"Canned mushrooms, PROCESS Steaming",2,2,2,2,2,2,2
+Vegetables and vegetable products,Cardoons,0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Vegetables and vegetable products,Carrots,0.2,0.4,1,1,,0.6,1
+Vegetables and vegetable products,"Carrots, PROCESS Baking",1,1,1,1,1,1,1
+Vegetables and vegetable products,"Carrots, PROCESS Cooking in water",0.2,0.6,1,0.6,,0.2,1
+Vegetables and vegetable products,"Carrots, PROCESS Frying",0.2,0.7,0.2,0.7,0.2,0.2,0.2
+Vegetables and vegetable products,"Carrots, PROCESS Steaming",0.2,0.7,1,0.7,,0.2,1
+Vegetables and vegetable products,Cauliflowers,0.4,0.8,,,,0.5,
+Vegetables and vegetable products,"Cauliflowers, PROCESS Baking",1,1,1,,1,1,1
+Vegetables and vegetable products,"Cauliflowers, PROCESS Cooking in water",0.4,2.2,,2.2,,,
+Vegetables and vegetable products,"Cauliflowers, PROCESS Steaming",0.4,2.2,,2.2,,,
+Vegetables and vegetable products,Celeriacs,0.7,0.8,1,0.8,1,0.7,1
+Vegetables and vegetable products,"Celeriacs, PROCESS Cooking in water",3,1,3,1,3,3,3
+Vegetables and vegetable products,"Celeriacs, PROCESS Steaming",0.03,0.4,0.03,0.4,3,0.03,3
+Vegetables and vegetable products,Celeries,0.4,1.7,3,3,,1,3
+Vegetables and vegetable products,"Celeries, PROCESS Cooking in water",3,1,3,3,3,3,3
+Vegetables and vegetable products,"Celeries, PROCESS Steaming",,1,,3,3,,3
+Vegetables and vegetable products,Celery leaves,2.7,2.7,2.7,2.7,2.7,2.7,2.7
+Vegetables and vegetable products,"Celtuce, PROCESS Steaming",0.558,0.558,0.558,0.558,0.558,0.558,0.558
+Vegetables and vegetable products,Ceps,11,11,11,11,11,11,11
+Vegetables and vegetable products,"Ceps, PROCESS Cooking in water",16.9,16.9,16.9,16.9,16.9,16.9,16.9
+Vegetables and vegetable products,"Ceps, PROCESS Steaming",16.9,16.9,16.9,16.9,16.9,16.9,16.9
+Vegetables and vegetable products,Chanterelles,18,,,,,18,
+Vegetables and vegetable products,"Chanterelles, PROCESS Cooking in water",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Chanterelles, PROCESS Steaming",0,0,0,0,0,0,0
+Vegetables and vegetable products,Chards,0.3,0.3,0.3,,0.3,0.3,0.3
+Vegetables and vegetable products,"Chards, PROCESS Cooking in water",0.9,0.9,0.9,0.9,0.9,0.9,0.9
+Vegetables and vegetable products,"Chards, PROCESS Steaming",0.9,0.9,0.9,0.9,0.9,0.9,0.9
+Vegetables and vegetable products,Chervil,1.2,1.2,1.2,1.2,1.2,1.2,1.2
+Vegetables and vegetable products,Chinese cabbages and similar-,0.2,,,,,0.2,
+Vegetables and vegetable products,"Chinese cabbages and similar-, PROCESS Baking",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+Vegetables and vegetable products,"Chinese cabbages and similar-, PROCESS Cooking in water",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Chinese cabbages and similar-, PROCESS Steaming",0,0,0,0,0,0,0
+Vegetables and vegetable products,Chives,0.3,0.1,0.5,,0.1,0.5,0.1
+Vegetables and vegetable products,Chives and similar-,0.1,0.1,0.1,,0.1,0.1,0.1
+Vegetables and vegetable products,Common mushrooms,11,3.4,9,7.5,,3,9
+Vegetables and vegetable products,"Common mushrooms, PROCESS Cooking in water",13.1,2,7,2,7,13.1,7
+Vegetables and vegetable products,"Common mushrooms, PROCESS Frying",12,12,12,12,13,12,12
+Vegetables and vegetable products,"Common mushrooms, PROCESS Steaming",13.1,2,7,2,7,13.1,7
+Vegetables and vegetable products,Common nettle,0.3,,,,,,
+Vegetables and vegetable products,Courgettes,0.2,0.6,1,1,,,1
+Vegetables and vegetable products,Courgettes and similar-,0.2,0.6,1,0.6,,0.2,1
+Vegetables and vegetable products,"Courgettes and similar-, PROCESS Baking",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Courgettes and similar-, PROCESS Cooking in water",,1,1,1,1,,1
+Vegetables and vegetable products,"Courgettes and similar-, PROCESS Frying",,1,1,1,1,,1
+Vegetables and vegetable products,"Courgettes and similar-, PROCESS Steaming",,1,1,1,1,,1
+Vegetables and vegetable products,"Courgettes, PROCESS Baking",,0.6,,1,,,
+Vegetables and vegetable products,"Courgettes, PROCESS Cooking in water",,1,1,1,1,,1
+Vegetables and vegetable products,"Courgettes, PROCESS Frying",1,1,1,1,1,1,1
+Vegetables and vegetable products,"Courgettes, PROCESS Steaming",,1,1,1,1,,1
+Vegetables and vegetable products,Cresses,0.3,0.1,0.1,,,,
+Vegetables and vegetable products,Cucumbers,0.2,0.1,,0.1,,,
+Vegetables and vegetable products,Curly kales,0.3,2,2,2,2,2.3,2
+Vegetables and vegetable products,"Curly kales, PROCESS Cooking in water",2,2,2,2,2,2,2
+Vegetables and vegetable products,"Curly kales, PROCESS Frying",2,2,2,2,2,2,2
+Vegetables and vegetable products,"Curly kales, PROCESS Steaming",2,2,2,2,2,2,2
+Vegetables and vegetable products,Dandelions,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Vegetables and vegetable products,Dill leaves,0.3,2,2,2,2,0.5,2
+Vegetables and vegetable products,Dried mushrooms,110,110,110,,110,110,110
+Vegetables and vegetable products,Escaroles,1,1,1,1,1,1,1
+Vegetables and vegetable products,Escaroles and similar-,1,0.2,1,0.2,1,1,1
+Vegetables and vegetable products,"Escaroles and similar-, PROCESS Baking",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Vegetables and vegetable products,"Escaroles and similar-, PROCESS Cooking in water",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Escaroles and similar-, PROCESS Steaming",,2.2,,2.2,,,
+Vegetables and vegetable products,Fennel leaves,0.1,0.7,0.1,0.7,0.1,0.1,0.1
+Vegetables and vegetable products,Florence fennels,,0.7,,0.9,,1,
+Vegetables and vegetable products,"Florence fennels, PROCESS Baking",1,1,1,0.9,1,1,1
+Vegetables and vegetable products,"Florence fennels, PROCESS Cooking in water",,1,,1,,,
+Vegetables and vegetable products,"Florence fennels, PROCESS Steaming",,1,,1,,,
+Vegetables and vegetable products,Garden sorrel,,0.9,,0.9,0.9,,
+Vegetables and vegetable products,Garlic and similar-,0.5,5.1,2,5.1,2,0.5,2
+Vegetables and vegetable products,"Garlic and similar-, PROCESS Baking",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Vegetables and vegetable products,Garlic puree,2,2,2,2,2,2,2
+Vegetables and vegetable products,Gherkins,0.58,0.58,0.58,,,0.58,
+Vegetables and vegetable products,Globe artichokes,,0.2,1,0.2,1,,1
+Vegetables and vegetable products,"Globe artichokes, PROCESS Cooking in water",1,0.07,1,0.07,0.07,1,0.07
+Vegetables and vegetable products,"Globe artichokes, PROCESS Steaming",0.07,0.07,0.07,0.07,0.07,0.07,0.07
+Vegetables and vegetable products,Head cabbages,1.5,1.3,1,1.3,1,1,1
+Vegetables and vegetable products,Head cabbages and similar-,1.5,1,1,1,1,1.5,1
+Vegetables and vegetable products,"Head cabbages and similar-, PROCESS Baking",0.293,0.293,0.293,0.293,0.293,0.293,0.293
+Vegetables and vegetable products,"Head cabbages and similar-, PROCESS Cooking in water",,0.6,2,0.6,2,,2
+Vegetables and vegetable products,"Head cabbages and similar-, PROCESS Frying",1.6,1.6,1.6,1.6,1.6,1.6,1.6
+Vegetables and vegetable products,"Head cabbages and similar-, PROCESS Steaming",,0.6,2,0.6,2,,2
+Vegetables and vegetable products,"Head cabbages, PROCESS Baking",2.1,2.1,2.1,2.1,2.1,2.1,2.1
+Vegetables and vegetable products,"Head cabbages, PROCESS Cooking in water",,0.4,2,0.4,2,2,2
+Vegetables and vegetable products,"Head cabbages, PROCESS Frying",1.6,,,,1.6,,
+Vegetables and vegetable products,"Head cabbages, PROCESS Steaming",,0.4,2,0.4,2,,2
+Vegetables and vegetable products,Horseradish roots,0.2,0.2,,0.2,,0.2,
+Vegetables and vegetable products,"Horseradish roots, PROCESS Steaming",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Vegetables and vegetable products,Jerusalem artichokes,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Vegetables and vegetable products,"Jerusalem artichokes, PROCESS Baking",,0.7,,0.7,,,
+Vegetables and vegetable products,"Jerusalem artichokes, PROCESS Cooking in water",0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Vegetables and vegetable products,"Jerusalem artichokes, PROCESS Steaming",0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Vegetables and vegetable products,Kales and similar-,0.3,2,2,2,2,0.3,2
+Vegetables and vegetable products,"Kales and similar-, PROCESS Cooking in water",2,2,2,2,2,2,2
+Vegetables and vegetable products,"Kales and similar-, PROCESS Steaming",2,2,2,2,2,2,2
+Vegetables and vegetable products,Kohlrabies,0.4,1,1,1,1,0.5,1
+Vegetables and vegetable products,"Kohlrabies, PROCESS Baking",0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Vegetables and vegetable products,"Kohlrabies, PROCESS Cooking in water",,1,1,1,1,,1
+Vegetables and vegetable products,"Kohlrabies, PROCESS Steaming",,1,1,1,1,,1
+Vegetables and vegetable products,Lamb's lettuces,,0.9,0.9,0.9,0.9,,0.9
+Vegetables and vegetable products,Laurel,0.9,0.9,0.9,,0.9,0.9,0.9
+Vegetables and vegetable products,Leeks,0.4,0.6,1,0.6,1,0.5,1
+Vegetables and vegetable products,"Leeks, PROCESS Baking",0.8,0.8,0.8,0.8,0.8,0.8,0.8
+Vegetables and vegetable products,"Leeks, PROCESS Cooking in water",,0.8,1,0.8,,1,1
+Vegetables and vegetable products,"Leeks, PROCESS Steaming",,0.8,0.371,0.8,,0.371,1
+Vegetables and vegetable products,"Lentils, fresh",105,105,105,105,105,105,105
+Vegetables and vegetable products,"Lentils, fresh, PROCESS Baking",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Vegetables and vegetable products,"Lentils, fresh, PROCESS Cooking in water",,2.8,,2.8,,,
+Vegetables and vegetable products,"Lentils, fresh, PROCESS Steaming",,2.8,,2.8,,,
+Vegetables and vegetable products,Lettuces (generic),0.2,0.2,1,0.2,,,1
+Vegetables and vegetable products,Mashed vegetable puree,0.1,0.6,,0.6,,0.1,
+Vegetables and vegetable products,Melons and similar-,,0.2,4,0.2,,,
+Vegetables and vegetable products,Mints,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Vegetables and vegetable products,Morels,14.1,1,1,1,1,14.1,1
+Vegetables and vegetable products,"Morels, PROCESS Baking",6.47,6.47,6.47,6.47,6.47,6.47,6.47
+Vegetables and vegetable products,Mung bean sprouts,1,0.6,1,0.6,1,1,1
+Vegetables and vegetable products,"Mung bean sprouts, PROCESS Cooking in water",1,0.5,1,0.5,1,1,1
+Vegetables and vegetable products,"Mung bean sprouts, PROCESS Steaming",1,0.5,1,0.5,1,1,1
+Vegetables and vegetable products,Mushy peas,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+Vegetables and vegetable products,Okra,0.243,0.243,0.243,0.243,1,0.243,1
+Vegetables and vegetable products,"Okra, PROCESS Cooking in water",1,1,1,1,1,1,1
+Vegetables and vegetable products,"Okra, PROCESS Steaming",1,1,1,1,1,1,1
+Vegetables and vegetable products,Onions,0.5,0.22,1,0.22,1,,1
+Vegetables and vegetable products,Onions and similar-,0.5,0.22,1,,1,0.5,1
+Vegetables and vegetable products,"Onions and similar-, PROCESS Baking",3,0.3,3,0.3,3,3,3
+Vegetables and vegetable products,"Onions and similar-, PROCESS Cooking in water",,0,0,0,0,,0
+Vegetables and vegetable products,"Onions and similar-, PROCESS Frying",0.5,2,2,2,1,0.5,2
+Vegetables and vegetable products,"Onions, PROCESS Baking",2.3,0.3,0.6,0.3,0.6,2.3,3
+Vegetables and vegetable products,"Onions, PROCESS Cooking in water",,0,0,0,0,0,0
+Vegetables and vegetable products,"Onions, PROCESS Frying",0.5,2,2,2,1,,2
+Vegetables and vegetable products,"Palm hearts, PROCESS Cooking in water",0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Vegetables and vegetable products,Parsley,0.3,0.48,1,0.48,1,0.5,1
+Vegetables and vegetable products,Parsley roots,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Vegetables and vegetable products,Parsnip roots,0.4,0.6,0.1,0.6,0.1,,2
+Vegetables and vegetable products,"Parsnip roots, PROCESS Baking",0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Vegetables and vegetable products,"Parsnip roots, PROCESS Cooking in water",0.4,0.3,0.3,0.3,0.3,0.4,0.3
+Vegetables and vegetable products,"Parsnip roots, PROCESS Frying",0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Vegetables and vegetable products,"Parsnip roots, PROCESS Steaming",0.4,0.3,0.3,0.3,0.3,0.4,0.3
+Vegetables and vegetable products,Pearl oyster mushrooms,1.2,3,3,3,3,1.2,3
+Vegetables and vegetable products,"Pearl oyster mushrooms, PROCESS Baking",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Vegetables and vegetable products,Peas (with pods) and similar-,0.4,0.4,0.4,0.4,0.4,0.4,0.4
+Vegetables and vegetable products,"Peas (with pods) and similar-, PROCESS Frying",,0.2,0.2,0.2,0.2,,0.2
+Vegetables and vegetable products,Pickled / marinated vegetables,0.1,,,,,0.1,
+Vegetables and vegetable products,Pumpkins,0,0,0,0,0,0,0
+Vegetables and vegetable products,"Pumpkins, PROCESS Baking",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Vegetables and vegetable products,"Pumpkins, PROCESS Cooking in water",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Vegetables and vegetable products,"Pumpkins, PROCESS Steaming",0.2,0.2,0.2,0.2,0.2,0.2,0.2
+Vegetables and vegetable products,Purslanes,,0.9,,0.9,0.9,,0.9
+Vegetables and vegetable products,Purslanes and similar-,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+Vegetables and vegetable products,Radishes and similar-,0.3,0.4,2,0.4,,0.1,2
+Vegetables and vegetable products,Red mustard leaves,0.1,6,0.1,6,6,0.1,6
+Vegetables and vegetable products,Rhubarbs,0.2,,,,,0.5,
+Vegetables and vegetable products,"Rhubarbs, PROCESS Cooking in water",1,1,1,1,1,1,1
+Vegetables and vegetable products,"Rhubarbs, PROCESS Steaming",1,1,1,1,1,1,1
+Vegetables and vegetable products,Roman rocket,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Vegetables and vegetable products,Rosemary,4,4,4,4,4,4,4
+Vegetables and vegetable products,Sage,3,3,3,3,3,3,3
+Vegetables and vegetable products,Salsifies,0.4,,,,,0.4,
+Vegetables and vegetable products,"Salsifies, PROCESS Cooking in water",,0.6,,0.6,,,
+Vegetables and vegetable products,"Salsifies, PROCESS Steaming",,0.6,,0.6,,,
+Vegetables and vegetable products,Sauerkraut,1.3,0.2,0.2,0.2,3,1.3,
+Vegetables and vegetable products,"Sauerkraut, PROCESS Cooking in water",,2.2,3,2.2,3,,3
+Vegetables and vegetable products,"Sauerkraut, PROCESS Steaming",3,2.2,3,2.2,3,3,3
+Vegetables and vegetable products,Shallots,1,1.2,1,,1,1,1
+Vegetables and vegetable products,"Shallots, PROCESS Baking",0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Vegetables and vegetable products,"Shallots, PROCESS Cooking in water",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Shallots, PROCESS Frying",1,1,1,1,1,1,1
+Vegetables and vegetable products,Shiitake,0.3,0.3,0.3,0.3,0.3,0.3,0.3
+Vegetables and vegetable products,"Shiitake, PROCESS Frying",3.3,3.3,3.3,3.3,3.3,3.3,3.3
+Vegetables and vegetable products,Sorrel,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+Vegetables and vegetable products,Spinaches,0.3,0.39,1,1,,0.5,1
+Vegetables and vegetable products,Spinaches and similar-,0.3,0.39,1,0.39,,0.3,1
+Vegetables and vegetable products,"Spinaches and similar-, PROCESS Cooking in water",2,1.5,2,1.5,,2,2
+Vegetables and vegetable products,"Spinaches and similar-, PROCESS Steaming",2,1.5,2,1.5,,2,2
+Vegetables and vegetable products,"Spinaches, PROCESS Baking",,1.5,,1,1.5,,
+Vegetables and vegetable products,"Spinaches, PROCESS Cooking in water",2,1.5,2,1.5,,2,2
+Vegetables and vegetable products,"Spinaches, PROCESS Steaming",,1.5,2,1.5,,,2
+Vegetables and vegetable products,Spring onions,1,1,1,1,1,1,1
+Vegetables and vegetable products,"Spring onions, PROCESS Cooking in water",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Spring onions, PROCESS Frying",0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Vegetables and vegetable products,"Spring onions, PROCESS Steaming",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Sprouts, shoots and similar",,1,1,1,1,,1
+Vegetables and vegetable products,"Sprouts, shoots and similar, PROCESS Cooking in water",1,1,1,1,1,1,1
+Vegetables and vegetable products,"Sprouts, shoots and similar, PROCESS Steaming",1,1,1,1,1,1,1
+Vegetables and vegetable products,Sun-dried tomatoes,3,6,6,,6,5,6
+Vegetables and vegetable products,"Sunflower shoots and sprouts, PROCESS Steaming",0.9,0.9,0.9,0.9,0.9,0.9,0.9
+Vegetables and vegetable products,Swedes,0.3,1,1,1,,,1
+Vegetables and vegetable products,"Swedes, PROCESS Cooking in water",0.3,1,1,1,,,1
+Vegetables and vegetable products,"Swedes, PROCESS Steaming",0.3,1,1,1,,,1
+Vegetables and vegetable products,Sweet corn,0.4,0.4,0.4,,0.4,0.4,0.4
+Vegetables and vegetable products,Sweet corn canned,0.268,0.27,0.268,0.7,0.268,0.268,0.268
+Vegetables and vegetable products,"Sweet corn, PROCESS Baking",0.8,0.8,0.8,0.8,0.8,0.8,0.8
+Vegetables and vegetable products,"Sweet corn, PROCESS Cooking in water",0.4,0.27,,0.27,,0.5,
+Vegetables and vegetable products,"Sweet corn, PROCESS Steaming",0.4,0.8,,0.8,,0.5,
+Vegetables and vegetable products,Sweet peppers,0.2,0.1,,0.1,,0.2,
+Vegetables and vegetable products,"Sweet peppers, PROCESS Baking",0.2,0.1,0.2,0.1,0.2,0.2,0.2
+Vegetables and vegetable products,"Sweet peppers, PROCESS Cooking in water",,0.2,1,0.2,1,1,1
+Vegetables and vegetable products,"Sweet peppers, PROCESS Steaming",,0.2,1,0.2,1,1,1
+Vegetables and vegetable products,Thyme,4.6,4.6,0.4,,0.4,4.6,0.4
+Vegetables and vegetable products,"Tigernuts, PROCESS Steaming",0,0,0,0,0,0,0
+Vegetables and vegetable products,Tomato puree,0.3,0.6,,0.6,,0.4,
+Vegetables and vegetable products,Tomatoes and similar-,0.2,0.2,,2.3,,0.5,
+Vegetables and vegetable products,"Tomatoes and similar-, PROCESS Baking",0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Vegetables and vegetable products,"Tomatoes and similar-, PROCESS Cooking in water",0.5,0.6,,0.6,,0.5,
+Vegetables and vegetable products,"Tomatoes and similar-, PROCESS Steaming",0,0,0,0,0,0,0
+Vegetables and vegetable products,Truffles,2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Vegetables and vegetable products,Turnips,0.3,0.3,1,0.3,1,0.1,1
+Vegetables and vegetable products,"Turnips, PROCESS Baking",0.6,0.6,0.6,0.6,0.6,0.6,0.6
+Vegetables and vegetable products,"Turnips, PROCESS Cooking in water",,0.6,1,0.6,1,,1
+Vegetables and vegetable products,"Turnips, PROCESS Steaming",,0.6,1,0.6,1,,1
+Vegetables and vegetable products,Vietnamese mint,5.5,5.5,5.5,5.5,5.5,5.5,5.5
+Vegetables and vegetable products,Watercresses,,0.9,0.3,,0.3,,0.3
+Vegetables and vegetable products,Watercresses and similar-,0.9,0.9,0.9,,0.9,0.9,0.9
+Vegetables and vegetable products,Watermelons,0.1,0.25,,0.25,0.25,,0.25
+Vegetables and vegetable products,White ginger,38.5,38.5,38.5,38.5,38.5,38.5,38.5
+Vegetables and vegetable products,Witloofs,,0.2,,0.2,,,
+Vegetables and vegetable products,"Witloofs, PROCESS Baking",2.2,2.2,2.2,2.2,2.2,2.2,2.2
+Vegetables and vegetable products,"Witloofs, PROCESS Cooking in water",0,0,0,0,0,0,0
+Vegetables and vegetable products,"Witloofs, PROCESS Steaming",,2.2,,2.2,,,
+Water and water-based beverages,Bottled drinking water,0.1,0.1,0.063,0.1,,0.1,
+Water and water-based beverages,"Cola beverages, caffeinic",0.1,0.1,0.1,0.1,,0.1,
+Water and water-based beverages,"Cola beverages, decaffeinated",,0.1,0.1,0.1,,,
+Water and water-based beverages,"Cola mix, flavoured cola",,0.1,0.1,,0.1,0.1,0.1
+Water and water-based beverages,Cola-type drinks,0.1,0.1,0.1,0.1,,0.1,
+Water and water-based beverages,Diet soft drink with caffeine,,0.1,,0.1,,,
+Water and water-based beverages,Diet soft drinks with flavours,,0.1,,,,,
+Water and water-based beverages,Diet soft drinks with fruit juice,0.1,,,,,0.1,
+Water and water-based beverages,Energy drinks,0.1,0.1,,0.1,,,
+Water and water-based beverages,Filtered tap water,0,0,0,0,0,0,0
+Water and water-based beverages,Flavoured bottled water,0.1,0.1,0.1,0.1,0.1,0.1,0.1
+Water and water-based beverages,"Flavoured bottled water, FORT Mineral only supplements",0,0,0,0,0,0,0
+Water and water-based beverages,Fortified bottled water,,0,0,0,0,,0
+Water and water-based beverages,"Fruit soft drink, currant red",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, gooseberry",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, grape red",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, grape white",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, grapefruit",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, mixed fruit",,0.1,,0.1,,,
+Water and water-based beverages,"Fruit soft drink, orange",,0.1,,0.1,,,
+Water and water-based beverages,"Fruit soft drink, pear",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, pineapple",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, plum",0,0,0,0,0,0,0
+Water and water-based beverages,"Fruit soft drink, raspberry",0,0,0,0,0,0,0
+Water and water-based beverages,Isotonic and sport drinks,0.1,,,,,0.1,
+Water and water-based beverages,Liquid drink bases (including concentrates and home-made preparations),0,0,0,0,0,0,0
+Water and water-based beverages,Natural mineral water,,0.1,,0.1,,,
+Water and water-based beverages,Soft drink with bitter principle,,0.1,,,,,
+Water and water-based beverages,"Soft drink, apple flavour",0,0,0,0,0,0,0
+Water and water-based beverages,"Soft drink, cherry flavour",0,0,0,0,0,0,0
+Water and water-based beverages,"Soft drink, flavoured with herbs",0,0,0,0,0,0,0
+Water and water-based beverages,"Soft drink, flavoured, no fruit",,,0.1,,,,
+Water and water-based beverages,"Soft drink, lemon flavour",0.1,,,,,0.1,
+Water and water-based beverages,"Soft drink, lime flavour",,0.1,,0.1,,,
+Water and water-based beverages,"Soft drink, mixed flavours",,0.1,,0.1,,,
+Water and water-based beverages,"Soft drink, orange flavour",0,0,0,,0,0,0
+Water and water-based beverages,"Soft drink, with fruit juice (fruit content below the minimum for nectars)",0.001,,0.001,,,0.001,
+Water and water-based beverages,Tap water,0.1,,0.03,,,,
