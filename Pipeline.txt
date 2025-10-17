@@ -1,0 +1,45 @@
+The study starts by predicting FPro for US-NHANES (years 2003-2020, Series C, D, E, F, G, H, I, J, P) and producing files, already given in FNDDS_Fpro_calc_prepared, but by only following reference code from Meninchetti [Ref 4. in manuscript, i.e. Menichetti, G., Ravandi, B., Mozaffarian, D., Barabási, A.-L. Nature Commun. 14, 2312-2324 (2023). ( doi: 10.1038/s41467-023-37457-1 )] - using simple extrapolation on already built ML model from the reference which is from calibration data set of NHANES years 2009-2010. We provide an example with NHANES years 2007-2008 in file  A_NA_Fpro/calculation_of_Fpro.R and then using ML_prod.py (by reading the lines for all years can that be reproduced) But when using ML_prod.py - below dependencies have to be followed for ccurate NOVA classification (scikit-learn ha sto be 0.24.2)
+
+# For accurate NOVA classification scikit-learn ha sto be 0.24.2 - Only this part of the study
+pip3 install scikit-learn==0.24.2
+See all dependencies in file: A_NA_Fpro/working_version_for_accurate_NOVA_classification.txt - Only this part of the study
+
+#Otherwise, for generalized linear regression and classification tasks - ALL the rest part of the study
+pip3 install scikit-learn==1.5.2
+See all dependencies in file: A_NA_Fpro/working_version_for_regression_and_classification.txt - ALL the rest part of the study
+
+
+- You have to follow in detail all the links and comments in these two files (calculation_of_Fpro.R and ML_prod.py). The result of that is already in folder FNDDS_Fpro_calc_prepared
+
+Then, after FPro is calculated for all foods in US-NHANES 2003-2020, one starts with Confounding variable analysis: folder US-NHANES_Confounding_analysis. Please refer to the short Readme.txt file in that folder, because by following it, you reproduce results for for US-NHANES. 
+
+Then you proceed to K-NHANES folder and refer to Readme.txt which provides you with information which files should be downloaded from where and then which files should be run and in which order regarding the Confounding variable analysis for Korean NHANES (KNHANES). After that you turn to UK-NDNS_Confounding_analysis and follow the similar Readme.txt file there in detail (this also requires access grants from both KNHANES and UK-NDNS - we cannot simply place their original files here by avoiding their terms and conditions). 
+
+By running confounding variable analysis for US- and K-NHANES and UK-NDNS you are ready to proceed to Github_Figure_1 folder which reproduces Figure 1 in the main article and represent the crucial information of results of Confounding variable analysis for all three databases.
+
+Next step is EFSA_Study and you refer to EFSA_Readme.txt file for reproduction. The final result is Figure 2 reproduction from the manuscript.
+
+
+Then you turn to Food categorisation part of the study and the first code to be run is labeled as: "MAIN_github_code_Approach_1_2_and_3_results_for_each_p_value.R" - this reproduces 1) Cohen's d statistic, 2) Standardized differences in means at 95% confidence, and 3) logit(p) for 63 variables (62 nutrients and FPro) as statistical differences between Non-A and Food subsets plus size of Non-A and A Food subsets (2 next values), a vector of total 191 values for each outcome defined by 24 study groups and 8 thresholds. I.e. total matrix of 192x191, but split into 8 excel sheets (denoting 8 thresholds of t-test).
+
+The final results are provided in Supplementary_Table_Results_Main.xlsx (That Supplementary table with 8 sheets can be obtained by running Producing_Supplementary_Table_Results_Main_but_After_Main_Github_code_was_run.R - after MAIN_github_code_Approach_1_2_and_3_results_for_each_p_value_3.R was already run.). Results obtained when the Main code is run for each of p-values (i.e. 0.025, 0.05, 0.1, 0.2, 0.3, 0.5, 0.7, 0.8) are all summarized in that file Supplementary_Table_Results_Main.xlsx. 
+
+There are some other files in folder A_NA_Fpro that support further this analysis such as (e.g.) Output_description_of_Main_code.csv, getting_foodcodes_From_C1C2_to_F15-49_group_9_and_F50+_group_23_p30.R, and other.
+
+By running Producing_Figure_3.R and finally Code_to_reproduce_Figure_4_but_BEFORE_that_must_be_run_MAIN_github_code.R - this reproduces Figures 3 and 4.
+
+Other codes explain how the data was prepared starting from NHANES and FNDDS databases. This is explained in folder How_C1C2_files_were_created and folder Datasets. 
+
+Our codes explain how when all necessary files are downloaded, the exact data are obtained, and the final results are obtained. 
+
+In particular: Folder Datasets contains two datasets (F15-49, F50+) with and without participants treated for anemia (PTFA =1 or 2, so a total of 2x2 = 4 files). We actually considered other datasets but they were not part of the study due to too small number of anemic cases and/or too small fraction of anemic participants with Children aged 5-11, 12-14, and Males 15-65. The same folder (Datasets) also contains a long code on how exactly two datasets (F15-49 and F50+) were created from the very original NHANES data (which means you need to follow instructions to download necessary files before running the code itself).
+
+Data_3099_food_codes_g_per_100g.csv by launching the code "Creating_Data3099.R" in directory "FNDDS_Fpro_calc_prepared" - they represent all FNDDS foods that were present in all the studied nine NHANES years 2003-2020, with their median values (i.e. median of total nine values) for 62 nutrients and Fpro. In the similar way we obtained Data_9450_food_codes_g_per_100g.csv by launching the code Creating_Data9450.R in directory "FNDDS_Fpro_calc_prepared" - they represent all FNDDS foods that were present at least three times in the studied nine NHANES years 2003-2020 with their median values for all 63 variables (62 nutrients + FPro). This is also located and ready to carry out in folder How_C1C2_files_were_created.
+
+"C1C2_" files represent Participant vs. Food code data. For each participant obtained from corresponding dataset (from directory "How_C1C2_files_were_created") values for all food codes were obtained depending on the grouping criteria used ( (1) total grams consumed by participant on both interview days,  (2) number of in interview days (0, or 1 or 2) of that food code being consumed by the given participant, and (3) total grams consumed by participant on both interview days divided by his/her body weight). The analysis also depends on the smaller food code dataset (Data3099) or larger food code dataset (Data9450) being used, so they are different in sizes. So, for two datasets (F15-49 (F1 -labeled) , F50+ (F5 - labeled)), three grouping criteria, two different sizes of data and whether participants being treated for anemia or not are also accounted (mcq053 in NHANES, or "PTFA" in article) - there are a total of 24 different C1C2 files, or 12 per dataset. The procedure is depicted in folder How_C1C2_files_were_created, by following Readme.txt file. 
+
+"C1C2_" files in the current form in folder A_NA_Fpro contain only columns with at least 30 non-zero values, as they are all labeled as such, otherwise they would be larger than 25 MB. One of these C1C2 isn't larger than 25 MB, and we provide it also as "C1C2_M1_04.csv". We provide it only as an example how originally produced C1C2 files look like in case somebody doesn't run the codes.
+
+Folder Iron analysis represents the last analysis conducted in the study and regards US- and K- NHANES databases. Iron analysis related to UK-NDNS is located in UK-NDNS_Confounding_analysis
+
+
