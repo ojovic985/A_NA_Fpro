@@ -1,6 +1,6 @@
 This gihub repository reproduces the results of the study:
 
-"Food Processing Score Is Associated with Anaemia Among Non-Pregnant Women of NHANES"
+"Food Processing Score Is Associated with Anaemia Among Non-Pregnant Women"
 
 Download: git clone https://github.com/ojovic985/A_NA_Fpro.git
 
