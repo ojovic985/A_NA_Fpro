@@ -54,7 +54,7 @@ def ClassifyDB(db, model_per_fold,nut_sel):
 
 
 
-RFFNDDS=pd.read_csv('./input_data/FNDDS_2009-10_Training_Data.csv') # from git clone of https://github.com/menicgiulia/MLFoodProcessing and then downloaded
+RFFNDDS=pd.read_csv('./FNDDS_2009-10_Training_Data.csv') # from git clone of https://github.com/menicgiulia/MLFoodProcessing and then downloaded
 RFFNDDS
 nl=list(RFFNDDS.columns)
 nl=nl[0:-7]
