@@ -1,4 +1,4 @@
-This gihub repository reproduces the results of the study:
+This github repository reproduces the results of the study:
 
 "Food Processing Score Is Associated with Anaemia Among Non-Pregnant Women"
 
